@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "224cd3fd28eea46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "055f305a1d6c2670",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Definitions/Secure Shell.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3bcfdefd22e6fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bbe9480eefe1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd71d18337b44ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee3cecbe67cdcfdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Java",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ec71f0513fc4541",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab44c18095d0145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d84e54b8dcc719",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Definitions/Secure Shell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "055f305a1d6c2670",
+  "lastOpenFiles": [
+    "Secure Shell.md",
+    "Definitions/TCP IP Model.md",
+    "Network Programming Lectures/NerProg Lecture 2.md",
+    "Telnet.md",
+    "Simple Mail Transfer Protocol.md",
+    "Definitions/File Transfer Protocol.md",
+    "file transfer protocol.md",
+    "Definitions/OSI Model.md",
+    "Network Programming Lectures/NetProg Lecture 1.md",
+    "TCP IP Model.md"
+  ]
+}
