@@ -79,19 +79,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Definitions/OSI Model.md",
-    "Definitions/Secure Shell.md",
-    "Secure Shell.md",
-    "Definitions/TCP IP Model.md",
-    "Network Programming Lectures/NerProg Lecture 2.md",
-    "Telnet.md",
-    "Simple Mail Transfer Protocol.md",
-    "Definitions/File Transfer Protocol.md",
-    "file transfer protocol.md",
-    "Network Programming Lectures/NetProg Lecture 1.md"
+    "Mobile Software Development Lectures/Lecture 1.md",
+    "Java Frameworks.md",
+    "Java Android.md",
+    "Java Pillars.md",
+    "Java Polymorphysm.md",
+    "Java Inheritance.md",
+    "Java Abstraction.md",
+    "Java Encapsulation.md",
+    "Java Packages.md",
+    "Java Casting.md"
   ]
 }

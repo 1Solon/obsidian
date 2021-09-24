@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "Mobile Software Development Lecture",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 15.1452991452991,
   "linkStrength": 1,
   "linkDistance": 111,
-  "scale": 1.3643239521506147,
+  "scale": 0.6333625401447902,
   "close": false
 }
