@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Databases 2/Databases 2 Lecture 2.md",
+            "file": "Definitions/AWS VPC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases 2/Databases 2 Lecture 2.md",
+                "file": "Definitions/AWS VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 247.33334350585938,
     "collapsed": true
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Databases 2/Databases 2 Lecture 2.md",
-    "Definitions/SQL Sub-Queries.md",
-    "Definitions/SQL Multiple Nesting.md",
-    "Multiple Nesting.md",
-    "Definitions/Sub-Queries.md",
-    "Sub-Queries.md",
-    "Databases 2/Untitled.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
-    "Definitions/Access Control (Users).md",
-    "How IAM determines permissions.md"
+    "Definitions/AWS VPC.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 3.md",
+    "AWS VPC.md",
+    "Amazon Encryption.md",
+    "Encyryption.md",
+    "Definitions/AWS Shield.md",
+    "Amazon Cognito.md",
+    "AWS Key Management Service.md",
+    "Definitions/Securing a new AWS account.md",
+    "AWS Cloudtrail.md"
   ]
 }
