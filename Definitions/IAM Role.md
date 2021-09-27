@@ -1,0 +1,1 @@
+* An **IAM role** is a tool for granting temporary access to specific AWS resources in an AWS account. AWS Academy Cloud FoundationsModule 4: AWS Cloud Security© 2021 Amazon Web Services, Inc. or its affiliates. All rights reserved.23

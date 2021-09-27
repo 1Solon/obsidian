@@ -1,0 +1,1 @@
+* **Amazon Chime** is a communications service that enables you to meet, chat, and place business calls inside and outside your organization, all using a single application.It is a pay-as-you-go communications service with no upfront fees, commitments, or long-term contracts.

@@ -7,8 +7,11 @@
         "id": "055f305a1d6c2670",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Definitions/Access Control (Users).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java",
+                "query": "IAM gr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/Access Control (Users).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Mobile Software Development Lectures/Lecture 1.md",
-    "Java Frameworks.md",
-    "Java Android.md",
-    "Java Pillars.md",
-    "Java Polymorphysm.md",
-    "Java Inheritance.md",
-    "Java Abstraction.md",
-    "Java Encapsulation.md",
-    "Java Packages.md",
-    "Java Casting.md"
+    "Definitions/Access Control (Users).md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
+    "How IAM determines permissions.md",
+    "Resource-Based Policies.md",
+    "Definitions/IAM User.md",
+    "Authentication.md",
+    "IAM Role.md",
+    "IAM Policy.md",
+    "IAM Group.md",
+    "IAM User.md"
   ]
 }

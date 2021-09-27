@@ -1,0 +1,1 @@
+* An **IAM group** is a collection of IAM users. You can use IAM groups to simplify specifying and managing permissions for multiple users.
