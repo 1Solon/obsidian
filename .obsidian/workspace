@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definitions/Access Control (Users).md",
+            "file": "Databases 2/Databases 2 Lecture 2.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Access Control (Users).md",
+                "file": "Databases 2/Databases 2 Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Definitions/Access Control (Users).md",
+    "Databases 2/Databases 2 Lecture 2.md",
+    "Definitions/SQL Sub-Queries.md",
+    "Definitions/SQL Multiple Nesting.md",
+    "Multiple Nesting.md",
+    "Definitions/Sub-Queries.md",
+    "Sub-Queries.md",
+    "Databases 2/Untitled.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
-    "How IAM determines permissions.md",
-    "Resource-Based Policies.md",
-    "Definitions/IAM User.md",
-    "Authentication.md",
-    "IAM Role.md",
-    "IAM Policy.md",
-    "IAM Group.md",
-    "IAM User.md"
+    "Definitions/Access Control (Users).md",
+    "How IAM determines permissions.md"
   ]
 }
