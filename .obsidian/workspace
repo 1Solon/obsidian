@@ -84,15 +84,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Web Development Lectures/WebDev Lecture 2.md",
+    "Definitions/Javascript Strings.md",
+    "Definitions/Javascript Primitive Types.md",
+    "Web Development Lectures/WebDev Lecture 3.md",
+    "Javascript Math Object Methods.md",
+    "Javascript Math Object.md",
+    "Javascript Math Object Properties.md",
     "Definitions/Javascript Overview.md",
-    "Javascript Debugging.md",
-    "Javascript Good Practice.md",
-    "Javascript Keywords.md",
-    "Javascript Comparison Operators.md",
-    "Javascript Operators.md",
-    "Javascript External File.md",
-    "Javascript Objects.md",
-    "Javascript Undefined and Null.md"
+    "Javascript for...in Loop.md",
+    "Javascript Objects as Arguments.md",
+    "Javascript Arrays versus Objects.md"
   ]
 }

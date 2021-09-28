@@ -5,3 +5,13 @@
 
 * The most common way to create an object is to use the literal constructor syntax although we’ll see others later in the module
 ![[Pasted image 20210928113246.png]]
+
+* [[Javascript Objects Acessing Properties]]
+
+* [[Javascript Accessing Object Methods]]
+
+* [[Javascript Creating a new Instance of and Object]]
+
+* [[Javascript Object Constructor]]
+
+* [[Javascript Adding Properties to Objects]]
