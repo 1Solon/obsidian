@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "WebDev Lecture",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 15.1452991452991,
   "linkStrength": 1,
   "linkDistance": 111,
-  "scale": 0.673840919395942,
+  "scale": 0.24646363728080772,
   "close": false
 }

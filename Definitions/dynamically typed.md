@@ -1,0 +1,1 @@
+* Do not need to declare a type on a variable, and will change depending on usage

@@ -7,11 +7,8 @@
         "id": "055f305a1d6c2670",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Definitions/AWS VPC.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/AWS VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Definitions/AWS VPC.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 3.md",
-    "AWS VPC.md",
-    "Amazon Encryption.md",
-    "Encyryption.md",
-    "Definitions/AWS Shield.md",
-    "Amazon Cognito.md",
-    "AWS Key Management Service.md",
-    "Definitions/Securing a new AWS account.md",
-    "AWS Cloudtrail.md"
+    "Web Development Lectures/WebDev Lecture 2.md",
+    "Definitions/Javascript Overview.md",
+    "Javascript Debugging.md",
+    "Javascript Good Practice.md",
+    "Javascript Keywords.md",
+    "Javascript Comparison Operators.md",
+    "Javascript Operators.md",
+    "Javascript External File.md",
+    "Javascript Objects.md",
+    "Javascript Undefined and Null.md"
   ]
 }
