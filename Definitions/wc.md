@@ -1,0 +1,1 @@
+* Word Count -> Counts the number of words or lines in a file

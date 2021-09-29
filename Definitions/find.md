@@ -1,0 +1,1 @@
+* Search a file by name, type or contents

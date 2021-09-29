@@ -7,8 +7,11 @@
         "id": "055f305a1d6c2670",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Definitions/grep.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IAM gr",
+                "query": "grep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Definitions/Javascript Strings.md",
-    "Definitions/Javascript Primitive Types.md",
-    "Web Development Lectures/WebDev Lecture 3.md",
-    "Javascript Math Object Methods.md",
-    "Javascript Math Object.md",
-    "Javascript Math Object Properties.md",
-    "Definitions/Javascript Overview.md",
-    "Javascript for...in Loop.md",
-    "Javascript Objects as Arguments.md",
-    "Javascript Arrays versus Objects.md"
+    "Definitions/grep.md",
+    "Devops Lectures/DevOps Lecture 2.md",
+    "Definitions/Variables.md",
+    "Definitions/Bash.md",
+    "If/If-Else.md",
+    "Boolean Expressions.md",
+    "case(switch).md",
+    "Functions.md",
+    "Parameters.md",
+    "Loops.md"
   ]
 }

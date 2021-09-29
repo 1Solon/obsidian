@@ -1,0 +1,1 @@
+* Displays the manual for a command
