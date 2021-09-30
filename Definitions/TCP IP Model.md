@@ -14,3 +14,5 @@ https://www.javatpoint.com/computer-network-tcp-ip-model
 * SMTP -> [[Simple Mail Transfer Protocol]]
 * Telnet -> [[Telnet]]
 * SSH -> [[Secure Shell]]
+* DNS -> [[Domain Name System]]
+* HTTP -> [[Hyper Text Transfer Protocol]]

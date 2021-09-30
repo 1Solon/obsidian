@@ -7,11 +7,8 @@
         "id": "055f305a1d6c2670",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Definitions/grep.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +85,15 @@
   },
   "active": "055f305a1d6c2670",
   "lastOpenFiles": [
-    "Definitions/grep.md",
-    "Devops Lectures/DevOps Lecture 2.md",
-    "Definitions/Variables.md",
-    "Definitions/Bash.md",
-    "If/If-Else.md",
-    "Boolean Expressions.md",
-    "case(switch).md",
-    "Functions.md",
-    "Parameters.md",
-    "Loops.md"
+    "Network Programming Lectures/NetProg Lecture 3.md",
+    "IP Address Ranges.md",
+    "Programming Examples.md",
+    "Check the given IP is spam or not.md",
+    "Download the web page from dit.ie.md",
+    "Test TCP/IP application layer protocols for www.dit.ie.md",
+    "Compare dit.ie and math.dit.ie has same IP.md",
+    "Find the characteristics of IP.md",
+    "Check the status of web server running or no.md",
+    "Find the address is IPv4 or IPv6.md"
   ]
 }
