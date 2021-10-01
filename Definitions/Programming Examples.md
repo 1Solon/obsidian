@@ -5,6 +5,6 @@
 5. [[Check the status of web server running or no]]
 6. [[Find the characteristics of IP]]
 7. [[Compare dit.ie and math.dit.ie has same IP]] 
-8. [[Test TCP/IP application layer protocols for www.dit.ie]] 
+8. [[IP application layer protocols for www.dit.ie]] 
 9. [[Download the web page from dit.ie]] 
 10. [[Check the given IP is spam or not]]

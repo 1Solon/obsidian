@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "055f305a1d6c2670",
+        "id": "aec8d1ab2186d982",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Definitions/Android App Building Blocks.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/Android App Building Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +86,17 @@
     "width": 247.33334350585938,
     "collapsed": true
   },
-  "active": "055f305a1d6c2670",
+  "active": "aec8d1ab2186d982",
   "lastOpenFiles": [
-    "Network Programming Lectures/NetProg Lecture 3.md",
-    "IP Address Ranges.md",
-    "Programming Examples.md",
-    "Check the given IP is spam or not.md",
-    "Download the web page from dit.ie.md",
-    "Test TCP/IP application layer protocols for www.dit.ie.md",
-    "Compare dit.ie and math.dit.ie has same IP.md",
-    "Find the characteristics of IP.md",
-    "Check the status of web server running or no.md",
-    "Find the address is IPv4 or IPv6.md"
+    "Android App Building Blocks.md",
+    "Android Studio.md",
+    "Android Software Development Kit.md",
+    "Android Software Developer.md",
+    "Android App Challenges.md",
+    "Android Apps What is it.md",
+    "Definitions/Android.md",
+    "Android Google Play.md",
+    "Android History.md",
+    "Definitions/Android Features.md"
   ]
 }
