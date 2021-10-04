@@ -27,6 +27,7 @@
 ![[Pasted image 20210927115115.png]]
 **Reserved VPC IP:**
 ![[Pasted image 20210927115128.png]]
+* The "Future Use" part of the domain can be user defined and used by a AWS user
 
 **Public VPC IP:**
 ![[Pasted image 20210927115159.png]]
@@ -34,3 +35,16 @@
 **Elastic VPC IP:**
 ![[Pasted image 20210927115219.png]]
 
+**Route Tables:**
+![[Pasted image 20211004094900.png]]
+
+**Internet Gateway:**
+![[Pasted image 20211004095009.png]]
+
+**Internet Gateway (NAT)**
+![[Pasted image 20211004095051.png]]
+* A network address translation (NAT) gatewayenables instances in a private subnet to connect to the internet or other AWS services, but prevents the internet from initiating a connection with those instances.
+
+* To create a NAT gateway, you must specify the public subnet in which the NAT gateway should reside. You must also specify an Elastic IP address to associate with the NAT gateway when you create it. After you createa NAT gateway, you must update the route table thatis associated with one or more of your private subnets to point internet-bound traffic to the NAT gateway. Thus, instances in your private subnets can communicate with the internet.
+
+* You can also use a NAT instance in a public subnet in your VPC instead of a NAT gateway. However, a NAT gateway is a managed NAT service that provides better availability, higher bandwidth, and less administrative effort. For common use cases, AWS recommends that you use a NAT gateway instead of a NAT instance. 
