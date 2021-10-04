@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aec8d1ab2186d982",
+        "id": "18b2586907c1d7b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definitions/Input Crowbar.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "675ef32a301b7b7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Definitions/Input Crowbar.md",
+            "file": "Cloud Computing Lectures/Cloud Computing Lecture 5.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Input Crowbar.md",
+                "file": "Cloud Computing Lectures/Cloud Computing Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 247.33334350585938,
     "collapsed": true
   },
-  "active": "675ef32a301b7b7a",
+  "active": "18b2586907c1d7b1",
   "lastOpenFiles": [
+    "Cloud Computing Lectures/Cloud Computing Lecture 5.md",
+    "Lab 2 Final.md",
+    "Definitions/VPC Security.md",
+    "VPC Security.md",
+    "Definitions/AWS VPC.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 4.md",
+    "Cloud Computing Lectures/Untitled.md",
+    "Definitions/Input Crowbar.md",
     "Input Crowbar.md",
-    "SQL Application Layers.md",
-    "SQL Program Examples.md",
-    "SQL Programming.md",
-    "Databases 2/Databases 2 Lecture 3.md",
-    "SQL Sequences.md",
-    "Output Crowbar.md",
-    "SQL Program Structure.md",
-    "Variable Decleration.md",
-    "SQL Programming}.md"
+    "SQL Application Layers.md"
   ]
 }
