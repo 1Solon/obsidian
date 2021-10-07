@@ -1,4 +1,4 @@
-**General Notes:**
+te**General Notes:**
 * Git facitlitates sharing of code between multiple parties- testers, developers, etc
 
 * Promotes cultural change, as everyone has access to the codebase
@@ -12,3 +12,5 @@
 * The primary feature of git is [[Git Repositories]]
 
 * A primary feature of Git is [[Git Staging]]
+
+* 

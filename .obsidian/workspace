@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git Staging.md",
+            "file": "Definitions/Client Server Model.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Staging.md",
+                "file": "Definitions/Client Server Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "18b2586907c1d7b1",
   "lastOpenFiles": [
-    "Git Staging.md",
+    "Definitions/Client Server Model.md",
+    "Network Programming Lectures/NetProg Lecture 5.md",
+    "Client Server Model.md",
+    "Network Programming Lectures/NerProg Lecture 2.md",
+    "Network Programming Lectures/NetProg Lecture 1.md",
+    "Network Programming Lectures/NetProg Lecture 3.md",
+    "Network Programming Lectures/NetProg Lecture 4.md",
+    "Network Programming Lectures/Untitled.md",
     "Definitions/Git.md",
-    "Devops Lectures/DevOps Lecture 3.md",
-    "Definitions/Centalised Version Control.md",
-    "Definitions/Decentralised Version Control.md",
-    "Git Repositories.md",
-    "Web Development Lectures/WebDev Lecture 4.md",
-    "Centalised Version Control.md",
-    "Decentralised Version Control.md",
-    "Version Control.md"
+    "Git Staging.md"
   ]
 }
