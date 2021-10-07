@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definitions/Client Server Model.md",
-            "mode": "source"
+            "file": "Definitions/Program to print Socket Information.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Client Server Model.md",
+                "file": "Definitions/Program to print Socket Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "18b2586907c1d7b1",
   "lastOpenFiles": [
-    "Definitions/Client Server Model.md",
+    "Program to print Socket Information.md",
+    "Definitions/Lecture 5 Code Examples.md",
+    "Store Socket address.md",
+    "Constructing sockets without connecting.md",
     "Network Programming Lectures/NetProg Lecture 5.md",
-    "Client Server Model.md",
-    "Network Programming Lectures/NerProg Lecture 2.md",
-    "Network Programming Lectures/NetProg Lecture 1.md",
-    "Network Programming Lectures/NetProg Lecture 3.md",
-    "Network Programming Lectures/NetProg Lecture 4.md",
-    "Network Programming Lectures/Untitled.md",
-    "Definitions/Git.md",
-    "Git Staging.md"
+    "Definitions/Programming Examples.md",
+    "Definitions/NetProg Lecture 5 Code Examples.md",
+    "NetProg Lecture 5 Code Examples.md",
+    "Construct a Data by talking to time.nist.gov.md",
+    "Definitions/Client Server Model.md"
   ]
 }

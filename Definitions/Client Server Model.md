@@ -13,3 +13,6 @@ kept secure
 	* Authentication: Verify the Client identity.
 	* Authorization: Is client permitted to access the service. Student and staff are authorized different role for web course
 	* Data security: The protection of data from unauthorized access. 
+
+**Sockets:**
+* [[Sockets]]
