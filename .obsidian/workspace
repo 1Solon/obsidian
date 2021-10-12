@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing Lectures/Cloud Computing Lecture 6.md",
+            "file": "Web Development Lectures/WebDev Lecture 5.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Lectures/Cloud Computing Lecture 6.md",
+                "file": "Web Development Lectures/WebDev Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5c06104bf42bca87",
   "lastOpenFiles": [
-    "Cloud Computing Lectures/Cloud Computing Lecture 6.md",
-    "EC2 Use Cases.md",
-    "Amazon EC2.md",
-    "Cloud Computing Lectures/Untitled.md",
-    "Definitions/Android User Interface.md",
-    "Mobile Software Development Lectures/Mobile Software Development Lecture 3.md",
-    "Definitions/Android.md",
-    "Definitions/Radio.md",
-    "Definitions/Recycler Layout.md",
-    "Definitions/Toggle.md"
+    "Web Development Lectures/WebDev Lecture 5.md",
+    "Definitions/Bootstrap Styles.md",
+    "Bootstrap.md",
+    "Bootstrap Grid System.md",
+    "Bootstrap Styles.md",
+    "README.md",
+    "Images/Pasted image 20211012120951.png",
+    "Starting Bootstrap.md",
+    "Web Development Lectures/Untitled.md",
+    "Definitions/Amazon EC2.md"
   ]
 }

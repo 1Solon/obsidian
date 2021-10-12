@@ -1,5 +1,9 @@
 **General Notes:**
 * [[EC2 Use Cases]]
+* [[Selecting an EC2 Instance]]
+* [[EC2 Naming and Sizes]]
+* [[EC2 Optional Extras]]
+* [[EC2 Storage Types]]
 
 **Launching an EC2 instance:**
 ![[Pasted image 20211011091822.png]]
