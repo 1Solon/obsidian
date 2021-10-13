@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Development Lectures/WebDev Lecture 5.md",
-            "mode": "source"
+            "file": "Definitions/CAMS Culture Definition.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development Lectures/WebDev Lecture 5.md",
+                "file": "Definitions/CAMS Culture Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5c06104bf42bca87",
   "lastOpenFiles": [
-    "Web Development Lectures/WebDev Lecture 5.md",
-    "Definitions/Bootstrap Styles.md",
-    "Bootstrap.md",
-    "Bootstrap Grid System.md",
-    "Bootstrap Styles.md",
-    "README.md",
-    "Images/Pasted image 20211012120951.png",
-    "Starting Bootstrap.md",
-    "Web Development Lectures/Untitled.md",
-    "Definitions/Amazon EC2.md"
+    "Definitions/CAMS Culture Definition.md",
+    "Devops Lectures/DevOps Lecture 4.md",
+    "Developers Definition.md",
+    "Security Definition.md",
+    "Managers Definition.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 6.md",
+    "Databases 2/Databases 2 Lecture 3.md",
+    "Operations Definition.md",
+    "Golden Image.md",
+    "Definitions/CAMS Definition.md"
   ]
 }
