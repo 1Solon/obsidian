@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c06104bf42bca87",
+        "id": "7c9f2cc432643a0c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ipv4 header.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ipv4 header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 247.33334350585938,
     "collapsed": true
   },
-  "active": "5c06104bf42bca87",
+  "active": "7c9f2cc432643a0c",
   "lastOpenFiles": [
-    "ipv4 header.md",
-    "Definitions/Client Server Model.md",
+    "README.md",
     "Network Programming Lectures/NetProg Lecture 6.md",
-    "Proxy Servers.md",
-    "NetProg Lecture 6 Code Examples.md",
-    "Write a simple ProxyClient.md",
-    "UDP Port Scanner.md",
-    "TCP Port Scanner.md",
-    "Simple client to connect to a whois server.md",
-    "A network-based English-to-Irish Translator.md"
+    "Modified the IP Spam checker program.md",
+    "Definitions/NetProg Lecture 6 Code Examples.md",
+    "IP Blacklist.md",
+    "Types of Servers.md",
+    "Server Side Programming.md",
+    "Definitions/Client Server Model.md",
+    "Definitions/Proxy Servers.md",
+    "Definitions/Sockets.md"
   ]
 }
