@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9f2cc432643a0c",
+        "id": "f3e993020681dbd2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Jenkins Web Intertface.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prox",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jenkins Web Intertface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 247.33334350585938,
     "collapsed": true
   },
-  "active": "7c9f2cc432643a0c",
+  "active": "f3e993020681dbd2",
   "lastOpenFiles": [
-    "README.md",
-    "Network Programming Lectures/NetProg Lecture 6.md",
-    "Modified the IP Spam checker program.md",
-    "Definitions/NetProg Lecture 6 Code Examples.md",
-    "IP Blacklist.md",
-    "Types of Servers.md",
-    "Server Side Programming.md",
-    "Definitions/Client Server Model.md",
-    "Definitions/Proxy Servers.md",
-    "Definitions/Sockets.md"
+    "Jenkins Web Intertface.md",
+    "Definitions/Jenkins.md",
+    "Definitions/Continious Integration.md",
+    "Devops Lectures/DevOps Lecture 5.md",
+    "JenkinsFile.md",
+    "Jenkins.md",
+    "Jenkins Pipeline.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
+    "Devops Lectures/DevOps Lecture 2.md",
+    "Definitions/Common Commands.md"
   ]
 }

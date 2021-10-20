@@ -8,42 +8,42 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Devops Lecture",
+      "query": "Cloud Computing",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "NetProg Lecture",
+      "query": "Databases 2 Lecture",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Mobile Software Development Lecture",
+      "query": "Devops Lecture",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "Cloud Computing Lecture",
+      "query": "Mobile Software Development Lecture",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "Databases 2 Lecture",
+      "query": "Network Programming Lecture",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "WebDev Lecture",
+      "query": "Web Development Lecturer",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -51,15 +51,15 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.0769230769230769,
-  "repelStrength": 12.7065527065527,
+  "nodeSizeMultiplier": 1.23076923076923,
+  "lineSizeMultiplier": 1.81709401709402,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 128,
-  "scale": 0.13489501845463792,
+  "linkDistance": 250,
+  "scale": 0.2455144750004359,
   "close": false
 }
