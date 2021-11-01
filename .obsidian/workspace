@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jenkins Web Intertface.md",
-            "mode": "preview"
+            "file": "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jenkins Web Intertface.md",
+                "file": "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f3e993020681dbd2",
   "lastOpenFiles": [
-    "Jenkins Web Intertface.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
+    "Databases 2/Database 2 Lecture 4.md",
+    "Definitions/Jenkins Web Intertface.md",
     "Definitions/Jenkins.md",
     "Definitions/Continious Integration.md",
     "Devops Lectures/DevOps Lecture 5.md",
     "JenkinsFile.md",
     "Jenkins.md",
     "Jenkins Pipeline.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
-    "Devops Lectures/DevOps Lecture 2.md",
-    "Definitions/Common Commands.md"
+    "Cloud Computing Lectures/Cloud Computing Lecture 2.md"
   ]
 }
