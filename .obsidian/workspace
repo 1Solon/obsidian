@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
+            "file": "Databases 2/Databases 2 Lecture 4.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
+                "file": "Databases 2/Databases 2 Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f3e993020681dbd2",
   "lastOpenFiles": [
+    "Databases 2/Databases 2 Lecture 4.md",
+    "Databases 2/Databases 2 Lecture 3.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
-    "Databases 2/Database 2 Lecture 4.md",
     "Definitions/Jenkins Web Intertface.md",
     "Definitions/Jenkins.md",
     "Definitions/Continious Integration.md",
     "Devops Lectures/DevOps Lecture 5.md",
     "JenkinsFile.md",
     "Jenkins.md",
-    "Jenkins Pipeline.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 2.md"
+    "Jenkins Pipeline.md"
   ]
 }
