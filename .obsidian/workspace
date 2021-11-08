@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
-            "mode": "source"
+            "file": "Definitions/Cloud Computing Final Project.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
+                "file": "Definitions/Cloud Computing Final Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f3e993020681dbd2",
   "lastOpenFiles": [
+    "Definitions/Cloud Computing Final Project.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
+    "Definitions/Cloud Architecht.md",
+    "Definitions/Common Roles.md",
+    "Definitions/IT Professional.md",
+    "Definitions/IT Leader.md",
+    "Definitions/Developer.md",
+    "Definitions/Devops.md",
     "Mobile Software Development Lectures/Mobile Software Devlopment Lecture 5.md",
-    "Definitions/Android Errors.md",
-    "Definitions/Java Thread Golden Rule.md",
-    "Definitions/Multithreading.md",
-    "Definitions/Java Background Threads.md",
-    "Definitions/Examples of long running tasks.md",
-    "Definitions/Java Thread Lifecycle.md",
-    "Definitions/Java Creating a Thread.md",
-    "Definitions/Increasing the Speed of Software.md"
+    "Definitions/Android Errors.md"
   ]
 }

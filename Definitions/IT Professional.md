@@ -1,0 +1,1 @@
+* **IT Professional:** generalists, manage production environment, generall have a speciality

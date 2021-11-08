@@ -1,0 +1,1 @@
+* **Developer:** Write, tests and fixes code, works with api's and sdks

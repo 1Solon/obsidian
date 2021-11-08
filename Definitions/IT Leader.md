@@ -1,0 +1,1 @@
+* **IT Leader:** Decide on technologies used, leads a team, manages a budget
