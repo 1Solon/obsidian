@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Databases 2/Databases 2 Lecture 4.md",
+            "file": "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases 2/Databases 2 Lecture 4.md",
+                "file": "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f3e993020681dbd2",
   "lastOpenFiles": [
-    "Databases 2/Databases 2 Lecture 4.md",
-    "Databases 2/Databases 2 Lecture 3.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 8.md",
-    "Definitions/Jenkins Web Intertface.md",
-    "Definitions/Jenkins.md",
-    "Definitions/Continious Integration.md",
-    "Devops Lectures/DevOps Lecture 5.md",
-    "JenkinsFile.md",
-    "Jenkins.md",
-    "Jenkins Pipeline.md"
+    "Cloud Computing Lectures/Cloud Computing Lecture 9.md",
+    "Mobile Software Development Lectures/Mobile Software Devlopment Lecture 5.md",
+    "Definitions/Android Errors.md",
+    "Definitions/Java Thread Golden Rule.md",
+    "Definitions/Multithreading.md",
+    "Definitions/Java Background Threads.md",
+    "Definitions/Examples of long running tasks.md",
+    "Definitions/Java Thread Lifecycle.md",
+    "Definitions/Java Creating a Thread.md",
+    "Definitions/Increasing the Speed of Software.md"
   ]
 }
