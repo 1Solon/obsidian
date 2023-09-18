@@ -1,4 +1,4 @@
-# DT211C-Obsidian-Notes-DB
+# Saul's-Obsidian-Notes-DB
 What it says on the tin, message me on whatsapp if you need help setting it up
 
 **Root Class Links:**
@@ -9,3 +9,4 @@ What it says on the tin, message me on whatsapp if you need help setting it up
 * [[NetProg Lecture 1]]
 * [[Mobile Software Development Lecture 1]]
 * [[WebDev Lecture 2]]
+* [[Scientific Research & Literature Lecture 1]]

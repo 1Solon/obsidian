@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "3c01012d3a4ac038",
+    "type": "split",
+    "children": [
+      {
+        "id": "e90523fa1f9ad61a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef8bcd62610c475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d82d6b214e170f",
+    "type": "split",
+    "children": [
+      {
+        "id": "854389e64b6b5e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e86af15d6b887b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17d1a466ec75f671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "956787b2f86bb682",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8778653c01c5db1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "107b8e6cc0d65e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6466d93e0e807014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d0b5aabb43d44fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98cb45488c583c69",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "aef8bcd62610c475",
+  "lastOpenFiles": [
+    "Definitions/Literature Searching.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
+    "Images/Pasted image 20230918132713.png",
+    "Definitions/Report Writing.md",
+    "Images/Pasted image 20230918132540.png",
+    "Images/Pasted image 20230918132430.png",
+    "Definitions/Scientific Research & Literature Lecture Lecturer Email.md",
+    "README.md",
+    "Definitions/Scientific Research & Literature Description.md",
+    "Images/Pasted image 20230918131356.png",
+    "Definitions/Research Onion.md",
+    "Images/Pasted image 20230918124648.png",
+    "Scientific Research & Literature",
+    "Definitions/Common research approaches.md",
+    "Untitled.canvas",
+    "Images/Pasted image 20230918121731.png",
+    "Definitions/How IAM determines permissions.md",
+    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
+    "Devops Lectures/DevOps Lecture 1.md",
+    "Definitions/Devops Exam.md",
+    "Definitions/Devops.md",
+    "Definitions/CAMS Measurement Definition.md",
+    "Definitions/CAMS Culture Definition.md",
+    "Definitions/Amazon EC2.md",
+    "Definitions/AWS VPC.md"
+  ]
+}

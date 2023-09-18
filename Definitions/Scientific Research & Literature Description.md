@@ -1,0 +1,7 @@
+![[Pasted image 20230918131356.png]]
+
+* MSc in Computing graduates will need to remain up to date with new innovations in computing, which may be applicable to their chosen area of specialism.  
+
+* To achieve this, students must be able to undertake research using appropriate sources in an ethical and professional manner and present their research findings in an appropriate form.  
+
+* The major focus of this module will be on what research is, the different types in the student’s  discipline, how to locate relevant research and then how to write correctly.

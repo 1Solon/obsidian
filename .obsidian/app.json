@@ -1,7 +1,3 @@
 {
-  "attachmentFolderPath": "Images",
-  "alwaysUpdateLinks": true,
-  "spellcheck": false,
-  "promptDelete": false,
-  "fileSortOrder": "alphabetical"
+  "alwaysUpdateLinks": true
 }
