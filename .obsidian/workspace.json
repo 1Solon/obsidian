@@ -11,11 +11,28 @@
             "id": "aef8bcd62610c475",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c14e769dca0268c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web App Definition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web App Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web App Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,15 +148,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aef8bcd62610c475",
+  "active": "4c14e769dca0268c",
   "lastOpenFiles": [
+    "Pasted image 20230920161925.png",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web App Definition.md",
+    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Images/Pasted image 20210922151802.png",
     "Images/Pasted image 20210922152143.png",
     "Images/Pasted image 20210922151737.png",
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Images/Pasted image 20230920153850.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
