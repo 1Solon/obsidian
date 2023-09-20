@@ -14,4 +14,6 @@
 
 * [[Benefits of Web Apps]]
 
+* [[Importance of Architecture]]
+
 * 

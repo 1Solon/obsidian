@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "156472dc34499252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Importance of Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -137,9 +149,11 @@
   },
   "active": "590cbd417af69f79",
   "lastOpenFiles": [
+    "Definitions/Importance of Architecture.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Images/Pasted image 20230920164750.png",
     "Definitions/Benefits of Web Apps.md",
     "Images/Pasted image 20230920162903.png",
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Images/Pasted image 20230920162514.png",
     "Images/Pasted image 20230920162715.png",
     "Definitions/Web App v Native App.md",
@@ -153,7 +167,6 @@
     "Untitled.canvas",
     "Images/Pasted image 20210922151802.png",
     "Images/Pasted image 20210922152143.png",
-    "Images/Pasted image 20210922151737.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
