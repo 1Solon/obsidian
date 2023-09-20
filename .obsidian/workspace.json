@@ -11,24 +11,8 @@
             "id": "aef8bcd62610c475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eeb6f9b19a21379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,12 +126,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "aef8bcd62610c475",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
+    "Images/Pasted image 20210922151802.png",
+    "Images/Pasted image 20210922152143.png",
+    "Images/Pasted image 20210922151737.png",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Images/Pasted image 20230920153850.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
@@ -167,7 +156,6 @@
     "Images/Pasted image 20230918124648.png",
     "Scientific Research & Literature",
     "Definitions/Common research approaches.md",
-    "Untitled.canvas",
     "Images/Pasted image 20230918121731.png",
     "Definitions/How IAM determines permissions.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
