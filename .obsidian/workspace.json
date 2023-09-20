@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aef8bcd62610c475",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230920162903.png"
-              }
-            }
-          },
-          {
             "id": "590cbd417af69f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Benefits of Web Apps.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230920162903.png",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230920162903.png",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +135,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "aef8bcd62610c475",
+  "active": "590cbd417af69f79",
   "lastOpenFiles": [
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Definitions/Benefits of Web Apps.md",
     "Images/Pasted image 20230920162903.png",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Images/Pasted image 20230920162514.png",
     "Images/Pasted image 20230920162715.png",
     "Definitions/Web App v Native App.md",
