@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "aef8bcd62610c475",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
