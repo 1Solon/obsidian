@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9b5340fc38f59ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web App v Native App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c14e769dca0268c",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web App Definition.md",
+                "file": "Web App v Native App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web App Definition.md",
+                "file": "Web App v Native App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +160,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c14e769dca0268c",
+  "active": "9b5340fc38f59ae4",
   "lastOpenFiles": [
-    "Pasted image 20230920161925.png",
+    "Pasted image 20230920162323.png",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web App v Native App.md",
     "Web App Definition.md",
+    "Pasted image 20230920161925.png",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -176,7 +190,6 @@
     "Images/Pasted image 20230918124648.png",
     "Scientific Research & Literature",
     "Definitions/Common research approaches.md",
-    "Images/Pasted image 20230918121731.png",
     "Definitions/How IAM determines permissions.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
     "Devops Lectures/DevOps Lecture 1.md",
