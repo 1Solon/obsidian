@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/e7cdf1176df9eaf31b8850b29f510ea5.json","text":"public class MyThread extends Thread { public void run(){ for(int 1 = 0; i < 100; i++){ System.out.println(\"Thread!\"); } } }","libVersion":"0.2.2","langs":"eng"}

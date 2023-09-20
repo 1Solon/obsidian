@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/ed1d2e2e9f5538f5b2b011a3b3ace2d9.json","text":"let obj = { name: “Jane Doe”, address: “123, 7th Avenue, Naples Florida”, age: 23 }s console.log(obj.name, obj[“address”]);","libVersion":"0.2.2","langs":"eng"}

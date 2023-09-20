@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/00ff3b53e212a19c13a0bbf064d3aa55.json","text":"1. Do not block the Ul thread * Complete all work in less than 16 ms for each screen * Run slow non-Ul work on a non-Ul thread 2. Do not access the Android Ul toolkit from outside the Ul thread * Do Ul work only on the Ul thread","libVersion":"0.2.2","langs":"eng"}

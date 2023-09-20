@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/b8da27fb44ad7a4ef6691225e6179065.json","text":"function hi_and_bye() { alert('Hil\"); alert('Bye!\"); } <body> <form> <input type = \"button\" value = \"Click Me!\" onclick = \"hi_and_bye();\" /> </form> <script src=\"ext1.js\"></script> </body>","libVersion":"0.2.2","langs":"eng"}

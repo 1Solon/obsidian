@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/be8d594b302570d5ebe58900fa1bcfbf.json","text":"public class MyProgram { public static void main(String[] args){ MyThread t = new MyThread(); t.start(); for(int i1 = 0; i < 100; i++){ System.out.println(\"Main UOH } i 1Y","libVersion":"0.2.2","langs":"eng"}

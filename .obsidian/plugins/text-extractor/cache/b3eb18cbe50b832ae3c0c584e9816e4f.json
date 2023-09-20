@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/b3eb18cbe50b832ae3c0c584e9816e4f.json","text":"#!/bin/bash name=$(whoami) old=/home/$name new=/home/${name} backup cp $old/* $new","libVersion":"0.2.2","langs":"eng"}

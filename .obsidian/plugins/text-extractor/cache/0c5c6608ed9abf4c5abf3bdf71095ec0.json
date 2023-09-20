@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/0c5c6608ed9abf4c5abf3bdf71095ec0.json","text":"® Steps to create and run new thread in Java are: 1. Extend Java.lang.Thread class. * Implement run method in this subclass. 2. Create an object of this subclass. 3. Call start method on this object.","libVersion":"0.2.2","langs":"eng"}

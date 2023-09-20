@@ -11,40 +11,25 @@
             "id": "aef8bcd62610c475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230920162903.png"
               }
             }
           },
           {
-            "id": "9b5340fc38f59ae4",
+            "id": "590cbd417af69f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web App v Native App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c14e769dca0268c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web App Definition.md",
+                "file": "Definitions/Benefits of Web Apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,6 +53,14 @@
             }
           },
           {
+            "id": "956787b2f86bb682",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "17d1a466ec75f671",
             "type": "leaf",
             "state": {
@@ -80,14 +73,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "956787b2f86bb682",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web App v Native App.md",
+                "file": "Images/Pasted image 20230920162903.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web App v Native App.md",
+                "file": "Images/Pasted image 20230920162903.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,44 +135,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9b5340fc38f59ae4",
+  "active": "aef8bcd62610c475",
   "lastOpenFiles": [
-    "Pasted image 20230920162323.png",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
-    "Web App v Native App.md",
-    "Web App Definition.md",
-    "Pasted image 20230920161925.png",
+    "Definitions/Benefits of Web Apps.md",
+    "Images/Pasted image 20230920162903.png",
+    "Images/Pasted image 20230920162514.png",
+    "Images/Pasted image 20230920162715.png",
+    "Definitions/Web App v Native App.md",
+    "Images/Pasted image 20230920162541.png",
+    "Images/Pasted image 20230920162518.png",
+    "Images/Pasted image 20230920162323.png",
+    "Definitions/Web App Definition.md",
+    "Images/Pasted image 20230920161925.png",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Images/Pasted image 20210922151802.png",
     "Images/Pasted image 20210922152143.png",
     "Images/Pasted image 20210922151737.png",
-    "Images/Pasted image 20230920153850.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
-    "Images/Pasted image 20230918132713.png",
     "Definitions/Report Writing.md",
-    "Images/Pasted image 20230918132540.png",
-    "Images/Pasted image 20230918132430.png",
     "Definitions/Scientific Research & Literature Lecture Lecturer Email.md",
     "README.md",
     "Definitions/Scientific Research & Literature Description.md",
-    "Images/Pasted image 20230918131356.png",
     "Definitions/Research Onion.md",
-    "Images/Pasted image 20230918124648.png",
     "Scientific Research & Literature",
     "Definitions/Common research approaches.md",
     "Definitions/How IAM determines permissions.md",

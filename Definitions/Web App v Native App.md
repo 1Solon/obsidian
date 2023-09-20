@@ -1,0 +1,19 @@
+![[Pasted image 20230920162323.png]]
+
+* A native app is a computer program that has been specifically designed for a  
+particular user environment, e.g. mobile apps, which are developed using  
+specific programming code.
+
+* Unlike web apps, native or mobile apps are downloaded by the user to their  
+mobile device, usually through app stores. Native apps can only be  
+accessed on the device they have been installed on, and users are  
+responsible for accessing any updates.  
+
+* Developers must build different versions of mobile applications if they want  
+to make them available across operating systems like iOS or Android,  
+to ensure they have as broad a reach as possible.  
+
+* Developers must also ensure their mobile apps adhere to app store  
+standards or risk having their apps rejected.
+
+

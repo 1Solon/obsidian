@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/18dcb4798b79916776088969d5576ced.json","text":"const sumA = (n1, n2) => { return nl + n2; // Longhand } const sumB = (n1, n2) => nl + n2; // Shorthand console.log(sumA(1, 2), sumB(3,4));","libVersion":"0.2.2","langs":"eng"}

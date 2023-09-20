@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/100da264bd660cf0fedbed508deebc1d.json","text":"* Client-server software can be of two types * Connectionless * Connection-oriented * These correspond to the two major transport protocols in TCP/IP * Clients using UDP are connectionless * Client using TCP are connection-oriented","libVersion":"0.2.2","langs":"eng"}

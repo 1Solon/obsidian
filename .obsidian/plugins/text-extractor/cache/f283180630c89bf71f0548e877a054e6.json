@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/f283180630c89bf71f0548e877a054e6.json","text":"DBMS_OUTPUT.PUT_LINE * This procedure prints a string on the SERVEROUTPUT * To see the output in your session SET SERVEROUTPUT ON * To display a sentence, concatenate DBMS_OUTPUT.PUT LINE ( 'Payment taken by staff member'||v_staffpaid);","libVersion":"0.2.2","langs":"eng"}

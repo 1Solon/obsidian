@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/dc2190aeae95386e5c8231c6c2fe5e47.json","text":"#!/bin/bash o count_to=100 v=1 while [ $v -le $count_to |; do echo $v let v++ done","libVersion":"0.2.2","langs":"eng"}

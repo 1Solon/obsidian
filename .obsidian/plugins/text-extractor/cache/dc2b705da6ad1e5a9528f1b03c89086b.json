@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/dc2b705da6ad1e5a9528f1b03c89086b.json","text":"#1/bin/bash one=100 two=200 if [ $one -It $two ]; then echo \"$one is less than $two\" fi","libVersion":"0.2.2","langs":"eng"}

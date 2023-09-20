@@ -11,3 +11,5 @@
 * [[Web App Definition]]
 
 * [[Web App v Native App]]
+
+* [[Benefits of Web Apps]]

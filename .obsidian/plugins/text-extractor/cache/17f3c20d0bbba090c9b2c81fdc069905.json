@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/17f3c20d0bbba090c9b2c81fdc069905.json","text":"let x; // Now x is undefined letx =5; // Now x is a Number letx =\"John\"; //Now x is a String","libVersion":"0.2.2","langs":"eng"}
