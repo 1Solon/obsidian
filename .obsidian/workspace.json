@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7eeb6f9b19a21379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,10 +146,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "aef8bcd62610c475",
   "lastOpenFiles": [
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Images/Pasted image 20230920153850.png",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",

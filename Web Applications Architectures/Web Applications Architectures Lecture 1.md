@@ -6,4 +6,6 @@
 
 * "Popular frameworks follow what was defined in the Rails (ruby on rails) pattern"
 
+* [[Web Applications Architectures Module Assessment]]
+
 * 
