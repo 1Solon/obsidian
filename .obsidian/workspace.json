@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "file": "Paradigm Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "file": "Paradigm Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,10 +148,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "590cbd417af69f79",
+  "active": "498bdf6c106589bd",
   "lastOpenFiles": [
-    "Paradigm Definition.md",
+    "Pasted image 20230922104246.png",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "Paradigm Definition.md",
     "README.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Programming Paradigms",
@@ -188,7 +190,6 @@
     "Definitions/Devops.md",
     "Definitions/CAMS Measurement Definition.md",
     "Definitions/CAMS Culture Definition.md",
-    "Definitions/Amazon EC2.md",
-    "Definitions/AWS VPC.md"
+    "Definitions/Amazon EC2.md"
   ]
 }
