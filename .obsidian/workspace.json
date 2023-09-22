@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paradigm Definition.md",
+                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paradigm Definition.md",
+                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +147,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "498bdf6c106589bd",
+  "active": "590cbd417af69f79",
   "lastOpenFiles": [
+    "Paradigm Definition.md",
     "Pasted image 20230922104246.png",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
-    "Paradigm Definition.md",
     "README.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Programming Paradigms",
@@ -172,7 +171,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Images/Pasted image 20210922151802.png",
-    "Images/Pasted image 20210922152143.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
