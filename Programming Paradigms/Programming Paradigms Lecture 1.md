@@ -2,4 +2,4 @@
 
 * Lecturer email: pierpaolo.dondio@tudublin.ie
 
-* 
+* [[Paradigm Definition]]
