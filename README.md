@@ -7,6 +7,6 @@ What it says on the tin, message me on whatsapp if you need help setting it up
 * [[DevOps Lecture 1]]
 * [[Mobile Software Development Lecture 1]]
 * [[NetProg Lecture 1]]
-* [[Mobile Software Development Lecture 1]]
 * [[WebDev Lecture 2]]
 * [[Scientific Research & Literature Lecture 1]]
+* [[Web Applications Architectures Lecture 1]]
