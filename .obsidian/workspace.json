@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "2de7328735e753b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Recursive Factorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fcb9668c3395e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Loop Factorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "498bdf6c106589bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigm Definition.md",
+                "file": "Devops Lectures/Paradigm Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,9 +173,14 @@
   },
   "active": "590cbd417af69f79",
   "lastOpenFiles": [
-    "Paradigm Definition.md",
-    "Pasted image 20230922104246.png",
+    "Images/Pasted image 20230922111937.png",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "Definitions/Recursive Factorial.md",
+    "Images/Pasted image 20230922112048.png",
+    "Definitions/Loop Factorial.md",
+    "Images/Pasted image 20230922112013.png",
+    "Devops Lectures/Paradigm Definition.md",
+    "Images/Pasted image 20230922104246.png",
     "README.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Programming Paradigms",
@@ -164,13 +193,10 @@
     "Definitions/Web App v Native App.md",
     "Images/Pasted image 20230920162541.png",
     "Images/Pasted image 20230920162518.png",
-    "Images/Pasted image 20230920162323.png",
     "Definitions/Web App Definition.md",
-    "Images/Pasted image 20230920161925.png",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Images/Pasted image 20210922151802.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
@@ -186,8 +212,6 @@
     "Devops Lectures/DevOps Lecture 1.md",
     "Definitions/Devops Exam.md",
     "Definitions/Devops.md",
-    "Definitions/CAMS Measurement Definition.md",
-    "Definitions/CAMS Culture Definition.md",
-    "Definitions/Amazon EC2.md"
+    "Definitions/CAMS Measurement Definition.md"
   ]
 }

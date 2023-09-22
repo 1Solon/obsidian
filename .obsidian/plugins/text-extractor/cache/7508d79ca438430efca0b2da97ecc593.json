@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/7508d79ca438430efca0b2da97ecc593.json","text":"function factorial(number) { if (number < 2) { return 1; } else { return (number * factorial(number-1)); } } Recursive solution It needs a stack-like memory (last in is the first out) Compact and elegant solution","libVersion":"0.2.2","langs":"eng"}

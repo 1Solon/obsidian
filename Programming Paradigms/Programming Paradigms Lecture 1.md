@@ -21,6 +21,6 @@ input = int(input("Enter a number: "))
 print(factorial(input, 1))
 ```
 
-* A loop is generally more memory efficient then a recursive loop as the memory can be freed as the logic progresses, not only when finished. 
+* A [[Loop Factorial]] is generally more memory efficient then a [[Recursive Factorial]] as the memory can be freed as the logic progresses, not only when finished. 
 
-* 
+* Tail recursion (the solution above) is considered the most efficient as only one value must be stored at any one time
