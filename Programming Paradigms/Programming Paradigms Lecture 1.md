@@ -17,8 +17,6 @@ def factorial(count: int, total: int) -> int:
     else:
         return factorial(count-1, total*count)
 
-  
-
 input = int(input("Enter a number: "))
 print(factorial(input, 1))
 ```
