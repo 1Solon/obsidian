@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "590cbd417af69f79",
+            "id": "d7186e610b4f9f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7186e610b4f9f16",
+            "id": "590cbd417af69f79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Research Onion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -69,11 +65,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "positivism",
+                "query": "realism",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Research Onion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Research Onion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,13 +143,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "590cbd417af69f79",
   "lastOpenFiles": [
-    "Definitions/Philosophical Stances.md",
-    "Definitions/OBJECTIVISM.md",
-    "Definitions/Research Onion.md",
-    "Definitions/Research Philosophies.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "README.md",
+    "Definitions/Philosophical Stances.md",
+    "Definitions/Research Onion.md",
+    "Definitions/OBJECTIVISM.md",
+    "Definitions/Research Philosophies.md",
     "Definitions/PRAGMATISM.md",
     "Images/Pasted image 20230925131748.png",
     "Definitions/CONSTRUCTIVISM.md",
@@ -185,7 +180,6 @@
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
     "Definitions/Paradigm Definition.md",
-    "README.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
