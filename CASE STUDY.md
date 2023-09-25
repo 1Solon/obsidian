@@ -1,0 +1,2 @@
+![[Pasted image 20230925135030.png]]
+> CASE STUDY > Case study design involves extensive study of one or more individuals or cases in a real-life context. > The data that is collected may include: watching aspects of their behaviour or of the setting, interviews with participants and record searching. * The goal is to establish the key features and draw generalisations, offering an insight into the specific nature of any example, and establish the importance of culture and context in differences between restricted cases.

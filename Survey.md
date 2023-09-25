@@ -1,0 +1,2 @@
+![[Pasted image 20230925134958.png]]
+> SURVEY > A survey strategy is often associated with a deductive approach. > It offers the researcher a highly economical way of collecting large amounts of data to address the who, what, where, when and how of any given topic or issue. * This strategy can generate both rich (words) and statistical data. » Surveys involve sampling a representative proportion of the population. > Surveys often produce quantitative data that can be analysed empirically, to examine causative variables.

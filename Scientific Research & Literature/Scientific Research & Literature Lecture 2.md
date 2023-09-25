@@ -15,3 +15,7 @@
 * [[Research Philosophies]]
 
 * [[Philosophical Stances]]
+
+* [[Choosing a Research Strategy]]
+
+* [[Choosing a Research Approach]]

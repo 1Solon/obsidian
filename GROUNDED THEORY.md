@@ -1,0 +1,2 @@
+![[Pasted image 20230925135142.png]]
+> GROUNDED THEORY » Grounded Theory uses inductive methods to predict and explain behaviour to build theory. > This starts with data being collected from observation, theory and predictions being generated from that data and then those predictions being tested. » This strategy, although generating new theory, is still grounded by existing theory and literature on the topic. > Its use is common in the social sciences.

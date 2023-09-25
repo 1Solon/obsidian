@@ -1,0 +1,2 @@
+![[Pasted image 20230925135240.png]]
+> ARCHIVAL RESEARCH » This strategy centres its data collection on existing data sets or archive documents. > This allows for exploratory, explanatory or descriptive analysis of changes tracked over a long period of time. » However, the accuracy and breadth of information available may be an issue for a researcher relying solely on this type of secondary data.

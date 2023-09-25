@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0e3d764014f3aacc",
+            "id": "04b0e03b064bfe40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +32,96 @@
             }
           },
           {
-            "id": "bc4f4795d824ff82",
+            "id": "cc674a59c47a0346",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Approaches.md",
+                "file": "Research Strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5586fa59e74a9d8b",
+            "id": "5fbf1624b0d119a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inductive.md",
+                "file": "ARCHIVAL RESEARCH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "651c1b12db830b1c",
+            "id": "3306822419cd22dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deductive.md",
+                "file": "ETHNOGRAPHY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a7d174eb46cfc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GROUNDED THEORY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc4d91ae21f9013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACTION RESEARCH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b80d0cdc56a2a715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CASE STUDY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8a3021cbf9ea60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Survey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3c0081ab87c04b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPERIMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Scientific Research and Literature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -135,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inductive.md",
+                "file": "ARCHIVAL RESEARCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inductive.md",
+                "file": "ARCHIVAL RESEARCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,15 +245,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5586fa59e74a9d8b",
+  "active": "5fbf1624b0d119a7",
   "lastOpenFiles": [
-    "Pasted image 20230925133454.png",
+    "Pasted image 20230925135252.png",
+    "Pasted image 20230925135240.png",
+    "Research Strategies.md",
+    "ARCHIVAL RESEARCH.md",
+    "ETHNOGRAPHY.md",
+    "Pasted image 20230925135207.png",
+    "GROUNDED THEORY.md",
+    "Pasted image 20230925135142.png",
+    "ACTION RESEARCH.md",
+    "Pasted image 20230925135106.png",
+    "CASE STUDY.md",
+    "Pasted image 20230925135030.png",
+    "Survey.md",
+    "Pasted image 20230925134958.png",
+    "EXPERIMENT.md",
+    "Pasted image 20230925134919.png",
+    "Definitions/Research Onion.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "Choosing a Research Approach.md",
+    "Pasted image 20230925134812.png",
+    "Choosing a Research Strategy.md",
+    "Pasted image 20230925134737.png",
+    "Pasted image 20230925134700.png",
     "Research Approaches.md",
     "Inductive.md",
     "Deductive.md",
-    "Pasted image 20230925133425.png",
-    "Definitions/Research Onion.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Common research approaches.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
@@ -204,25 +283,6 @@
     "Definitions/OBJECTIVISM.md",
     "Definitions/Research Philosophies.md",
     "Definitions/PRAGMATISM.md",
-    "Images/Pasted image 20230925131748.png",
-    "Definitions/CONSTRUCTIVISM.md",
-    "Images/Pasted image 20230925131714.png",
-    "Images/Pasted image 20230925131628.png",
-    "Definitions/INTERPRETIVISM.md",
-    "Images/Pasted image 20230925131458.png",
-    "Definitions/REALISM.md",
-    "Images/Pasted image 20230925131346.png",
-    "Definitions/POSITIVISM.md",
-    "Images/Pasted image 20230925131256.png",
-    "Images/Pasted image 20230925131153.png",
-    "Definitions/AXIOLOGY.md",
-    "Images/Pasted image 20230925130531.png",
-    "Images/Pasted image 20230925130635.png",
-    "Definitions/ONTOLOGY.md",
-    "Definitions/EPISTEMOLOGY.md",
-    "Definitions/General Process of Research.md",
-    "Definitions/Basic Types of Research.md",
-    "Definitions/Descriptive and Analytical.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",

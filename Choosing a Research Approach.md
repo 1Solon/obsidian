@@ -1,0 +1,3 @@
+![[Pasted image 20230925134812.png]]
+> Scientific Research involves both deduction and induction. May start with a theory and deduce certain phenomena that the researcher then sets out to observe. If successive observations do not fit the theory, then the theory can be revised and, ultimately, rejected. Observations then lead to a new theory through induction. > However, single projects will often use just use one approach Time-frame, resources...
+	

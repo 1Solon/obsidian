@@ -1,0 +1,2 @@
+![[Pasted image 20230925135207.png]]
+> ETHNOGRAPHY > Ethnography is rooted in anthropology, which is the study of others from a detached point-of-view. > However, ethnography requires the researcher to be a part of the community or situation they are researching. > It aims to understand the differences of meaning and importance or behaviours from their perspective. » This may be time consuming for the researcher to achieve full integration into a social scene to experience and document long-term changes in actions and opinions.
