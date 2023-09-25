@@ -20,42 +20,15 @@
             }
           },
           {
-            "id": "2de7328735e753b8",
+            "id": "de94afd204778ffa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Recursive Factorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fcb9668c3395e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Loop Factorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498bdf6c106589bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devops Lectures/Paradigm Definition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +142,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "590cbd417af69f79",
+  "active": "de94afd204778ffa",
   "lastOpenFiles": [
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+    "Definitions/Scientific Method of Inquiry.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Images/Pasted image 20230922111937.png",
     "Definitions/Recursive Factorial.md",
@@ -212,7 +184,6 @@
     "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
     "Devops Lectures/DevOps Lecture 1.md",
     "Definitions/Devops Exam.md",
-    "Definitions/Devops.md",
-    "Definitions/CAMS Measurement Definition.md"
+    "Definitions/Devops.md"
   ]
 }
