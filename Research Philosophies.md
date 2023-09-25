@@ -1,0 +1,3 @@
+* [[EPISTEMOLOGY]]
+* [[ONTOLOGY]]
+* [[AXIOLOGY]]

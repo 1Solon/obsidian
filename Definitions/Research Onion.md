@@ -5,3 +5,7 @@
 
 * Onion that was used in subsequent lecture: 
 ![[Pasted image 20230925125949.png]]
+
+> [!note] 
+> The above involves [[Research Philosophies]] 
+

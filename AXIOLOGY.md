@@ -1,0 +1,3 @@
+![[Pasted image 20230925130635.png]]
+
+AXIOLOGY > Axiology allows the researcher to understand and recognise the role their values and opinion play in the collection and analysis of the research as opposed to eliminating or trying to balance the influence of it. * For example, if the researcher is a vegetarian and they are researching the availability and range of vegetarian food in hotels this must be declared in their research. * How this shapes the investigation of the issue and results analysis will need to be detailed according to the approach chosen.

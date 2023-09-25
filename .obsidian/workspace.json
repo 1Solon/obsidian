@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "801943f5b3f2d93b",
+            "id": "621f596ce83e61bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Research Onion.md",
+                "file": "Research Philosophies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcc47a3b73b2ecaf",
+            "id": "d81c2ee38d3777d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Process of Research.md",
+                "file": "AXIOLOGY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Research Onion.md",
+                "file": "AXIOLOGY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Research Onion.md",
+                "file": "AXIOLOGY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +160,23 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "801943f5b3f2d93b",
+  "active": "d81c2ee38d3777d7",
   "lastOpenFiles": [
-    "Pasted image 20230925125949.png",
+    "Pasted image 20230925130635.png",
+    "Research Philosophies.md",
+    "AXIOLOGY.md",
+    "ONTOLOGY.md",
+    "Pasted image 20230925130531.png",
+    "EPISTEMOLOGY.md",
+    "Pasted image 20230925130425.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "General Process of Research.md",
-    "Basic Types of Research.md",
-    "Descriptive and Analytical.md",
-    "Basic and Applied.md",
-    "Qualitative and Quantitative.md",
+    "Definitions/Research Onion.md",
+    "Definitions/General Process of Research.md",
+    "Images/Pasted image 20230925125949.png",
+    "Definitions/Basic Types of Research.md",
+    "Definitions/Descriptive and Analytical.md",
+    "Definitions/Basic and Applied.md",
+    "Definitions/Qualitative and Quantitative.md",
     "Definitions/Scientific Method of Inquiry.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
@@ -188,21 +195,13 @@
     "Definitions/Benefits of Web Apps.md",
     "Images/Pasted image 20230920162903.png",
     "Images/Pasted image 20230920162514.png",
-    "Images/Pasted image 20230920162715.png",
     "Definitions/Web App v Native App.md",
-    "Images/Pasted image 20230920162541.png",
-    "Images/Pasted image 20230920162518.png",
     "Definitions/Web App Definition.md",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
-    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
-    "Definitions/Report Writing.md",
-    "Definitions/Scientific Research & Literature Lecture Lecturer Email.md",
-    "Definitions/Scientific Research & Literature Description.md",
-    "Definitions/Research Onion.md",
     "Scientific Research & Literature"
   ]
 }

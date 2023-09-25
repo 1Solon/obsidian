@@ -11,3 +11,5 @@
 * [[General Process of Research]]
 
 * [[Research Onion]]
+
+* [[Research Philosophies]]
