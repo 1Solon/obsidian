@@ -2,4 +2,6 @@
 
 * Link to previous lecture [[Scientific Research & Literature Lecture 1]]
 
-* References APA 6 style 
+* [ References in APA 6 style ](https://www.scribbr.com/apa-style/6th-edition/archived-format/)
+
+* 
