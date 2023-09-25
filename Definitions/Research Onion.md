@@ -11,3 +11,6 @@
 
 > [!note] 
 > The first layer involves [[Philosophical Stances]] 
+
+> [!note] 
+> The second layer involves [[Research Approaches]]

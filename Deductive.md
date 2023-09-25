@@ -1,0 +1,2 @@
+![[Pasted image 20230925133425.png]]
+> DEDUCTIVE > Deductive means that you start with a statement/hypothesis or question and your research sets out to answer it. » Questions and hypothesis may be derived from informed speculation about the topic, that the researcher believes can be answered or tested. > The thought process of deduction moves from theory to the research question, to data collection, findings and a rejection or confirmation of the hypothesis or answer to the question. » This could lead onto a revision of the theory and often starts the process over again.
