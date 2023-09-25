@@ -20,15 +20,31 @@
             }
           },
           {
-            "id": "de94afd204778ffa",
+            "id": "b0d9f7cc207a70b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic Types of Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a494e5f0d43888d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualitative and Quantitative.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +82,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Qualitative and Quantitative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Qualitative and Quantitative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +161,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "de94afd204778ffa",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
-    "Definitions/Scientific Method of Inquiry.md",
+    "Qualitative and Quantitative.md",
+    "Basic Types of Research.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "Definitions/Scientific Method of Inquiry.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Images/Pasted image 20230922111937.png",
@@ -182,8 +203,6 @@
     "Definitions/Common research approaches.md",
     "Definitions/How IAM determines permissions.md",
     "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
-    "Devops Lectures/DevOps Lecture 1.md",
-    "Definitions/Devops Exam.md",
-    "Definitions/Devops.md"
+    "Devops Lectures/DevOps Lecture 1.md"
   ]
 }
