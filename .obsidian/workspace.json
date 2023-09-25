@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e90523fa1f9ad61a",
+        "id": "9798109a313bfc76",
         "type": "tabs",
         "children": [
           {
-            "id": "d7186e610b4f9f16",
+            "id": "0a47a6b93356f819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590cbd417af69f79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "realism",
+                "query": "Scientific Research and Literature Lecture 2",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -143,10 +130,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "590cbd417af69f79",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "README.md",
+    "Mobile Software Development Lectures/Mobile Software Devlopment Lecture 5.md",
+    "Network Programming Lectures/NetProg Lecture 7.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Philosophical Stances.md",
     "Definitions/Research Onion.md",
     "Definitions/OBJECTIVISM.md",
@@ -179,7 +168,6 @@
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
-    "Definitions/Paradigm Definition.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
