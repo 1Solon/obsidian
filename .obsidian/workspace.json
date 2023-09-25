@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Strategies.md",
+                "file": "Definitions/Research Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARCHIVAL RESEARCH.md",
+                "file": "Definitions/Research Approaches.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETHNOGRAPHY.md",
+                "file": "Definitions/ETHNOGRAPHY.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GROUNDED THEORY.md",
+                "file": "Definitions/GROUNDED THEORY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACTION RESEARCH.md",
+                "file": "Definitions/ACTION RESEARCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CASE STUDY.md",
+                "file": "Definitions/CASE STUDY.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Survey.md",
+                "file": "Definitions/Survey.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPERIMENT.md",
+                "file": "Definitions/EXPERIMENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCHIVAL RESEARCH.md",
+                "file": "Definitions/Research Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCHIVAL RESEARCH.md",
+                "file": "Definitions/Research Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,34 +244,33 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5fbf1624b0d119a7",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
-    "Pasted image 20230925135252.png",
-    "Pasted image 20230925135240.png",
-    "Research Strategies.md",
-    "ARCHIVAL RESEARCH.md",
-    "ETHNOGRAPHY.md",
-    "Pasted image 20230925135207.png",
-    "GROUNDED THEORY.md",
-    "Pasted image 20230925135142.png",
-    "ACTION RESEARCH.md",
-    "Pasted image 20230925135106.png",
-    "CASE STUDY.md",
-    "Pasted image 20230925135030.png",
-    "Survey.md",
-    "Pasted image 20230925134958.png",
-    "EXPERIMENT.md",
-    "Pasted image 20230925134919.png",
+    "Definitions/ACTION RESEARCH.md",
+    "Images/Pasted image 20230925133425.png",
+    "Definitions/ARCHIVAL RESEARCH.md",
+    "Images/Pasted image 20230925135252.png",
+    "Images/Pasted image 20230925135240.png",
+    "Definitions/Research Strategies.md",
+    "Definitions/ETHNOGRAPHY.md",
+    "Images/Pasted image 20230925135207.png",
+    "Definitions/GROUNDED THEORY.md",
+    "Images/Pasted image 20230925135142.png",
+    "Images/Pasted image 20230925135106.png",
+    "Definitions/CASE STUDY.md",
+    "Images/Pasted image 20230925135030.png",
+    "Definitions/Survey.md",
+    "Images/Pasted image 20230925134958.png",
+    "Definitions/EXPERIMENT.md",
+    "Images/Pasted image 20230925134919.png",
     "Definitions/Research Onion.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "Choosing a Research Approach.md",
-    "Pasted image 20230925134812.png",
-    "Choosing a Research Strategy.md",
-    "Pasted image 20230925134737.png",
-    "Pasted image 20230925134700.png",
-    "Research Approaches.md",
-    "Inductive.md",
-    "Deductive.md",
+    "Definitions/Choosing a Research Approach.md",
+    "Images/Pasted image 20230925134812.png",
+    "Definitions/Choosing a Research Strategy.md",
+    "Definitions/Research Approaches.md",
+    "Definitions/Inductive.md",
+    "Definitions/Deductive.md",
     "Definitions/Common research approaches.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",

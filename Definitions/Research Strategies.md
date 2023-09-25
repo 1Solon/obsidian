@@ -1,5 +1,5 @@
 * [[EXPERIMENT]]
-* [[SURVEY]]
+* [[Survey]]
 * [[CASE STUDY]]
 * [[ACTION RESEARCH]]
 * [[GROUNDED THEORY]]
