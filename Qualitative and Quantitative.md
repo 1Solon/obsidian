@@ -5,3 +5,18 @@
 	* correlational
 	* experimental
 	* descriptive research
+
+## Qualitive v Quantitative
+#### Quantitative Research Strategy  
+* Aims to assess a pre-stated theory, typically using hypothesis testing (Deductive Reasoning)
+
+* Tries to Avoid Researcher bias on the outcome
+
+* Quantitative data facilitates statistics
+
+* Data based on ‘closed’ responses
+
+#### Qualitative Research Strategy
+* Aims to create a novel theory (Inductive Reasoning)
+
+* Not so worried about researcher bias. Indeed they often become an inherent part of the study ethnography
