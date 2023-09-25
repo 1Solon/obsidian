@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "424c39db92e0b788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Philosophical Stances.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Philosophical Stances.md",
+                "file": "Definitions/Research Onion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Philosophical Stances.md",
+                "file": "Definitions/Research Onion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,16 +148,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "424c39db92e0b788",
+  "active": "d7186e610b4f9f16",
   "lastOpenFiles": [
-    "Definitions/Research Onion.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Philosophical Stances.md",
-    "PRAGMATISM.md",
-    "Pasted image 20230925131748.png",
-    "CONSTRUCTIVISM.md",
-    "Pasted image 20230925131714.png",
-    "OBJECTIVISM.md",
+    "Definitions/OBJECTIVISM.md",
+    "Definitions/Research Onion.md",
+    "Definitions/Research Philosophies.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "Definitions/PRAGMATISM.md",
+    "Images/Pasted image 20230925131748.png",
+    "Definitions/CONSTRUCTIVISM.md",
+    "Images/Pasted image 20230925131714.png",
     "Images/Pasted image 20230925131628.png",
     "Definitions/INTERPRETIVISM.md",
     "Images/Pasted image 20230925131458.png",
@@ -179,7 +168,6 @@
     "Images/Pasted image 20230925131256.png",
     "Images/Pasted image 20230925131153.png",
     "Definitions/AXIOLOGY.md",
-    "Definitions/Research Philosophies.md",
     "Images/Pasted image 20230925130531.png",
     "Images/Pasted image 20230925130635.png",
     "Definitions/ONTOLOGY.md",
@@ -195,7 +183,7 @@
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
-    "Devops Lectures/Paradigm Definition.md",
+    "Definitions/Paradigm Definition.md",
     "README.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
