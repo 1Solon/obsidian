@@ -7,3 +7,7 @@
 * [[Scientific Method of Inquiry]]
 
 * [[Basic Types of Research]]
+
+* [[General Process of Research]]
+
+* [[Research Onion]]

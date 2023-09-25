@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "b0d9f7cc207a70b1",
+            "id": "801943f5b3f2d93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Types of Research.md",
+                "file": "Definitions/Research Onion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a494e5f0d43888d",
+            "id": "bcc47a3b73b2ecaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qualitative and Quantitative.md",
+                "file": "General Process of Research.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "research",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualitative and Quantitative.md",
+                "file": "Definitions/Research Onion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualitative and Quantitative.md",
+                "file": "Definitions/Research Onion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +161,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "801943f5b3f2d93b",
   "lastOpenFiles": [
-    "Qualitative and Quantitative.md",
-    "Basic Types of Research.md",
+    "Pasted image 20230925125949.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
+    "General Process of Research.md",
+    "Basic Types of Research.md",
+    "Descriptive and Analytical.md",
+    "Basic and Applied.md",
+    "Qualitative and Quantitative.md",
     "Definitions/Scientific Method of Inquiry.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
@@ -199,10 +203,6 @@
     "Definitions/Scientific Research & Literature Lecture Lecturer Email.md",
     "Definitions/Scientific Research & Literature Description.md",
     "Definitions/Research Onion.md",
-    "Scientific Research & Literature",
-    "Definitions/Common research approaches.md",
-    "Definitions/How IAM determines permissions.md",
-    "Cloud Computing Lectures/Cloud Computing Lecture 2.md",
-    "Devops Lectures/DevOps Lecture 1.md"
+    "Scientific Research & Literature"
   ]
 }
