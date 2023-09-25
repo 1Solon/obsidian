@@ -1,0 +1,2 @@
+![[Pasted image 20230925131458.png]]
+> INTERPRETIVISM (from Epistemology) > Interpretivism refers to approaches emphasizing the meaningful nature of people's participation in social and cultural life. > Researchers working within this tradition analyse the meanings people confer upon their own and others' actions and take the view that cultural existence and change can be understood by studying what people think about, their ideas, and the meanings that are important to them.

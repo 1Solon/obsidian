@@ -1,0 +1,2 @@
+![[Pasted image 20230925131256.png]]
+> POSITIVISM (from Epistemology) * Positivism generates hypotheses (or research questions) that can be tested and allows explanations that are measured against accepted knowledge of the world we live in. > This position creates a body of research that can be replicated by other researchers to generate the same results. » The emphasis is on quantifiable results that lend themselves to statistical analysis.

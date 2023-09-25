@@ -1,0 +1,2 @@
+![[Pasted image 20230925131748.png]]
+> PRAGMATISM (from Ontology) » Pragmatism argues that both constructivism and objectivism are valid ways to approach research. » Pragmatism allows a researcher to view the topic from either or both points-of-view regarding the influence or role of social actors and uses these to create a practical approach to research. » This may be used to find solutions to problems.

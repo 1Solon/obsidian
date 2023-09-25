@@ -9,3 +9,5 @@
 > [!note] 
 > The above involves [[Research Philosophies]] 
 
+> [!note] 
+> The first layer involves [[Philosophical Stances]] 

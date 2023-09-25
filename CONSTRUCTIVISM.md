@@ -1,0 +1,2 @@
+![[Pasted image 20230925131714.png]]
+> CONSTRUCTIVISM (from Ontology) > Constructivism argues the opposite to objectivism. It is a standpoint that believes social phenomena are actually constructed by social actors. > So, if you had a constructive ontological worldview you would believe that, for example, a new law is the product of the behaviour of the group of people it now has an impact on.

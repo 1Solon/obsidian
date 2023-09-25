@@ -1,0 +1,2 @@
+![[Pasted image 20230925131628.png]]
+> OBJECTIVISM (from Ontology) > Objectivism recognises that social phenomena and their meanings exist separately to social actors. > An example of social phenomena could be heavy rain and social actors are people wanting to have a picnic outside. * The rain exists, it is real and would be acknowledged by everyone to exist and is therefore independent to the people who have had their day out ruined by it. > In your research this may be how a law (the social phenomenon) impacts on a group of people (social actors).
