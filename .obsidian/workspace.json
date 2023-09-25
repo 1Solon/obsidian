@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,10 @@
   },
   "active": "590cbd417af69f79",
   "lastOpenFiles": [
-    "Images/Pasted image 20230922111937.png",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "Images/Pasted image 20230922111937.png",
     "Definitions/Recursive Factorial.md",
     "Images/Pasted image 20230922112048.png",
     "Definitions/Loop Factorial.md",
@@ -197,7 +199,6 @@
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Web Applications Architectures",
     "Definitions/Literature Searching.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
