@@ -13,3 +13,5 @@
 * [[Research Onion]]
 
 * [[Research Philosophies]]
+
+* [[Philosophical Stances]]
