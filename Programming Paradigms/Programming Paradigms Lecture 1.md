@@ -24,11 +24,3 @@ print(factorial(input, 1))
 * A [[Loop Factorial]] is generally more memory efficient then a [[Recursive Factorial]] as the memory can be freed as the logic progresses, not only when finished. 
 
 * Tail recursion (the solution above) is considered the most efficient as only one value must be stored at any one time
-
-```json
-{
-    "FirstName": "Saul", 
-    "Address": "A96 NV96.", 
-    "Hobby": "sailing"
-}
-```
