@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e749816f6bc9ce4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is NoSQL Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases.md",
+                "file": "What is NoSQL Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases.md",
+                "file": "What is NoSQL Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +160,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "91d2cc0a15c6c707",
+  "active": "e749816f6bc9ce4a",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20230926141614.png",
     "Advanced Databases.md",
+    "What is NoSQL Database.md",
+    "README.md",
     "Definitions/EXPERIMENT.md",
     "Definitions/Survey.md",
     "Definitions/CASE STUDY.md",
@@ -184,8 +198,6 @@
     "Network Programming Lectures/NetProg Lecture 7.md",
     "Definitions/Philosophical Stances.md",
     "Definitions/OBJECTIVISM.md",
-    "Definitions/Research Philosophies.md",
-    "Definitions/PRAGMATISM.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
