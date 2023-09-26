@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Scientific Research & Literature",
@@ -29,10 +29,52 @@
       }
     },
     {
-      "query": "",
+      "query": "Devops",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "Mobile Software Development",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "NetProg",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Programming Paradigms",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Web Applications Architectures",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "Web Development",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "Cloud Computing",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -41,11 +83,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
+  "collapse-forces": true,
+  "centerStrength": 0.499134948096886,
+  "repelStrength": 15.0193771626298,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.32454193228771255,
-  "close": false
+  "linkDistance": 100,
+  "scale": 0.15963136281139065,
+  "close": true
 }
