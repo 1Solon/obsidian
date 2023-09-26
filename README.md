@@ -11,3 +11,4 @@ What it says on the tin, message me on whatsapp if you need help setting it up
 * [[Scientific Research & Literature Lecture 1]]
 * [[Web Applications Architectures Lecture 1]]
 * [[Programming Paradigms Lecture 1]]
+* [[Advanced Databases]]
