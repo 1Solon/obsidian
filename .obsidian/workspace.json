@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "aaefd5e98b70aaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why do we have NoSQL DBs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e749816f6bc9ce4a",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/What is NoSQL Database.md",
+                "file": "Why do we have NoSQL DBs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/What is NoSQL Database.md",
+                "file": "Why do we have NoSQL DBs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +172,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e749816f6bc9ce4a",
+  "active": "aaefd5e98b70aaeb",
   "lastOpenFiles": [
+    "Pasted image 20230926142603.png",
     "Advanced Databases/Advanced Databases Lecture 1.md",
+    "Why do we have NoSQL DBs.md",
     "Definitions/What is NoSQL Database.md",
     "Advanced Databases",
     "Images/Pasted image 20230926141614.png",
@@ -197,7 +211,6 @@
     "Mobile Software Development Lectures/Mobile Software Devlopment Lecture 5.md",
     "Network Programming Lectures/NetProg Lecture 7.md",
     "Definitions/Philosophical Stances.md",
-    "Definitions/OBJECTIVISM.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
