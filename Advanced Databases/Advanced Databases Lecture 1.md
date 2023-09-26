@@ -5,3 +5,5 @@
 * [[CAP Theorem]]
 
 * [[BASE]]
+
+* Advanced Databases Lecturer Email: brendan.tierney@TUDublin.ie

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASE.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASE.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +147,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "403f91541686d1b0",
+  "active": "91d2cc0a15c6c707",
   "lastOpenFiles": [
+    "BASE.md",
     "Pasted image 20230926144137.png",
     "Advanced Databases/Advanced Databases Lecture 1.md",
-    "BASE.md",
     "CAP Theorem.md",
     "Pasted image 20230926144003.png",
     "Pasted image 20230926143757.png",
@@ -176,7 +175,6 @@
     "Images/Pasted image 20230925135240.png",
     "Images/Pasted image 20230925135207.png",
     "Images/Pasted image 20230925135142.png",
-    "Images/Pasted image 20230925135106.png",
     "Definitions/Research Onion.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Choosing a Research Approach.md",
