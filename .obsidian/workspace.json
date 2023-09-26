@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is NoSQL Database.md",
+                "file": "Definitions/What is NoSQL Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is NoSQL Database.md",
+                "file": "Definitions/What is NoSQL Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is NoSQL Database.md",
+                "file": "Definitions/What is NoSQL Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +162,10 @@
   },
   "active": "e749816f6bc9ce4a",
   "lastOpenFiles": [
-    "Pasted image 20230926141614.png",
-    "Advanced Databases.md",
-    "What is NoSQL Database.md",
+    "Advanced Databases/Advanced Databases Lecture 1.md",
+    "Definitions/What is NoSQL Database.md",
+    "Advanced Databases",
+    "Images/Pasted image 20230926141614.png",
     "README.md",
     "Definitions/EXPERIMENT.md",
     "Definitions/Survey.md",
@@ -187,7 +188,6 @@
     "Definitions/Research Onion.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Choosing a Research Approach.md",
-    "Images/Pasted image 20230925134812.png",
     "Definitions/Choosing a Research Strategy.md",
     "Definitions/Inductive.md",
     "Definitions/Deductive.md",
