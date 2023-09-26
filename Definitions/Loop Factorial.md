@@ -1,1 +1,2 @@
 ![[Pasted image 20230922112013.png]]
+>public double factorial(int n) { double result = 1; for(double i = 2; i<=n; ++i) { result *= 1i; } return result; } Non-recursive (iterative). Advantage: usually more efficient than a recursive solution, less memory management, but usually harder to express

@@ -1,1 +1,2 @@
 ![[Pasted image 20230922112048.png]]
+> function factorial(number) { if (number < 2) { return 1; } else { return (number * factorial(number-1)); } } Recursive solution It needs a stack-like memory (last in is the first out) Compact and elegant solution
