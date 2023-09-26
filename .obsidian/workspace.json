@@ -4,131 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9798109a313bfc76",
+        "id": "920da8f2062412a8",
         "type": "tabs",
         "children": [
           {
-            "id": "0a47a6b93356f819",
+            "id": "d7c14ef248d6d70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04b0e03b064bfe40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Research Onion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc674a59c47a0346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Research Strategies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fbf1624b0d119a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Research Approaches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3306822419cd22dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/ETHNOGRAPHY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a7d174eb46cfc64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/GROUNDED THEORY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abc4d91ae21f9013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/ACTION RESEARCH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b80d0cdc56a2a715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/CASE STUDY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af8a3021cbf9ea60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Survey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c0081ab87c04b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/EXPERIMENT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -194,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Research Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Research Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,29 +132,29 @@
   },
   "active": "02e86af15d6b887b",
   "lastOpenFiles": [
+    "Definitions/EXPERIMENT.md",
+    "Definitions/Survey.md",
+    "Definitions/CASE STUDY.md",
     "Definitions/ACTION RESEARCH.md",
+    "Definitions/GROUNDED THEORY.md",
+    "Definitions/ETHNOGRAPHY.md",
+    "Definitions/Research Approaches.md",
+    "Definitions/Research Strategies.md",
     "Images/Pasted image 20230925133425.png",
     "Definitions/ARCHIVAL RESEARCH.md",
     "Images/Pasted image 20230925135252.png",
     "Images/Pasted image 20230925135240.png",
-    "Definitions/Research Strategies.md",
-    "Definitions/ETHNOGRAPHY.md",
     "Images/Pasted image 20230925135207.png",
-    "Definitions/GROUNDED THEORY.md",
     "Images/Pasted image 20230925135142.png",
     "Images/Pasted image 20230925135106.png",
-    "Definitions/CASE STUDY.md",
     "Images/Pasted image 20230925135030.png",
-    "Definitions/Survey.md",
     "Images/Pasted image 20230925134958.png",
-    "Definitions/EXPERIMENT.md",
     "Images/Pasted image 20230925134919.png",
     "Definitions/Research Onion.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Definitions/Choosing a Research Approach.md",
     "Images/Pasted image 20230925134812.png",
     "Definitions/Choosing a Research Strategy.md",
-    "Definitions/Research Approaches.md",
     "Definitions/Inductive.md",
     "Definitions/Deductive.md",
     "Definitions/Common research approaches.md",
