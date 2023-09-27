@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+                "file": "Definitions/Javascript Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+                "file": "Definitions/Javascript Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+                "file": "Definitions/Javascript Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,8 +137,10 @@
   },
   "active": "91d2cc0a15c6c707",
   "lastOpenFiles": [
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Definitions/Javascript Manipulating HTML Elements.md",
+    "Definitions/Javascript Overview.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Advanced Databases/Advanced Databases Lecture 1.md",
     "Definitions/ETHNOGRAPHY.md",
     "Definitions/GROUNDED THEORY.md",
@@ -165,10 +168,8 @@
     "Definitions/CAP Theorem.md",
     "Images/Pasted image 20230926144003.png",
     "Images/Pasted image 20230926143757.png",
-    "Definitions/Why do we have NoSQL DBs.md",
     "Advanced Databases",
     "Images/Pasted image 20230926141614.png",
-    "README.md",
     "Images/Pasted image 20230925133425.png",
     "Images/Pasted image 20230925135252.png",
     "Images/Pasted image 20230925135240.png",
