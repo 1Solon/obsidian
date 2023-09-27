@@ -11,11 +11,28 @@
             "id": "91d2cc0a15c6c707",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee0ef58fe0c8e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/SQL Program Structure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/SQL Program Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definitions/SQL Program Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +140,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -131,8 +150,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "6e5db499a584fa0f",
+  "active": "7ee0ef58fe0c8e05",
   "lastOpenFiles": [
+    "Definitions/SQL Programming.md",
+    "Definitions/SQL Application Layers.md",
+    "Definitions/What is NoSQL Database.md",
+    "Advanced Databases/Advanced Databases Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
@@ -143,13 +166,11 @@
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Definitions/BASE.md",
     "Images/Pasted image 20230926142603.png",
-    "Advanced Databases/Advanced Databases Lecture 1.md",
     "Images/Pasted image 20230926144137.png",
     "Definitions/CAP Theorem.md",
     "Images/Pasted image 20230926144003.png",
     "Images/Pasted image 20230926143757.png",
     "Definitions/Why do we have NoSQL DBs.md",
-    "Definitions/What is NoSQL Database.md",
     "Advanced Databases",
     "Images/Pasted image 20230926141614.png",
     "README.md",
@@ -168,8 +189,6 @@
     "Images/Pasted image 20230925135207.png",
     "Images/Pasted image 20230925135142.png",
     "Definitions/Research Onion.md",
-    "Definitions/Choosing a Research Approach.md",
-    "Definitions/Choosing a Research Strategy.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
