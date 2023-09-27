@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7ee0ef58fe0c8e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Research Onion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddc54aa4ca6aa80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/ETHNOGRAPHY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0017044480b67b20",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ethnog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/ETHNOGRAPHY.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/ETHNOGRAPHY.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +134,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "0017044480b67b20",
+  "active": "91d2cc0a15c6c707",
   "lastOpenFiles": [
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "Advanced Databases/Advanced Databases Lecture 1.md",
+    "Definitions/ETHNOGRAPHY.md",
     "Definitions/GROUNDED THEORY.md",
     "Definitions/ACTION RESEARCH.md",
     "Definitions/Descriptive and Analytical.md",
@@ -185,13 +153,11 @@
     "Definitions/SQL Programming.md",
     "Definitions/SQL Application Layers.md",
     "Definitions/What is NoSQL Database.md",
-    "Advanced Databases/Advanced Databases Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Definitions/BASE.md",
     "Images/Pasted image 20230926142603.png",
@@ -203,8 +169,6 @@
     "Advanced Databases",
     "Images/Pasted image 20230926141614.png",
     "README.md",
-    "Definitions/EXPERIMENT.md",
-    "Definitions/Survey.md",
     "Images/Pasted image 20230925133425.png",
     "Images/Pasted image 20230925135252.png",
     "Images/Pasted image 20230925135240.png",
