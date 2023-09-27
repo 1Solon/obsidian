@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/SQL Program Structure.md",
+                "file": "Definitions/Research Onion.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddc54aa4ca6aa80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/ETHNOGRAPHY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0017044480b67b20",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "ethnog",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/SQL Program Structure.md",
+                "file": "Definitions/ETHNOGRAPHY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/SQL Program Structure.md",
+                "file": "Definitions/ETHNOGRAPHY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,13 +152,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +170,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "7ee0ef58fe0c8e05",
+  "active": "0017044480b67b20",
   "lastOpenFiles": [
+    "Definitions/GROUNDED THEORY.md",
+    "Definitions/ACTION RESEARCH.md",
+    "Definitions/Descriptive and Analytical.md",
+    "Images/Pasted image 20230918124648.png",
+    "Definitions/Research Onion.md",
+    "Definitions/Research Strategies.md",
+    "Definitions/ARCHIVAL RESEARCH.md",
+    "Definitions/Common research approaches.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
+    "Definitions/SQL Program Structure.md",
     "Definitions/SQL Programming.md",
     "Definitions/SQL Application Layers.md",
     "Definitions/What is NoSQL Database.md",
@@ -159,7 +189,6 @@
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Recursive Factorial.md",
     "Definitions/Loop Factorial.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
@@ -176,19 +205,10 @@
     "README.md",
     "Definitions/EXPERIMENT.md",
     "Definitions/Survey.md",
-    "Definitions/CASE STUDY.md",
-    "Definitions/ACTION RESEARCH.md",
-    "Definitions/GROUNDED THEORY.md",
-    "Definitions/ETHNOGRAPHY.md",
-    "Definitions/Research Approaches.md",
-    "Definitions/Research Strategies.md",
     "Images/Pasted image 20230925133425.png",
-    "Definitions/ARCHIVAL RESEARCH.md",
     "Images/Pasted image 20230925135252.png",
     "Images/Pasted image 20230925135240.png",
     "Images/Pasted image 20230925135207.png",
-    "Images/Pasted image 20230925135142.png",
-    "Definitions/Research Onion.md",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
