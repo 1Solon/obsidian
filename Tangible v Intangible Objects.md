@@ -1,0 +1,2 @@
+![[Pasted image 20230928111527.png]]
+> (3] Tangible and Intangible Objects * Tangible = Have a physical existence in the real world - Student, Lecturer, Classroom... * Intangible = E.g. - Invoice, Timetable, Payment... = Consider the case of the Receipt in the sale of any article by a supermarket. - Tosome it is simply an exchange of cash for goods discarding the Receipt. - To others it may represent a complex relationship between the supermarket, customer and manufacturer. * Warranty + Contribution to bonus points + Coupons * Guarantee

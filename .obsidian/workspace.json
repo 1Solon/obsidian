@@ -30,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14dc8931f70ac28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Design/Software Design Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c0e239f8976bbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object Orientated Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29828e3d4892e682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f4ffc7f717979ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tangible v Intangible Objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c4e54b568fdecc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Purpose of Objects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Javascript Overview.md",
+                "file": "Tangible v Intangible Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Javascript Overview.md",
+                "file": "Tangible v Intangible Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +208,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "74e0a965ad3b1c47",
+  "active": "0f4ffc7f717979ef",
   "lastOpenFiles": [
-    "Definitions/Dynamic Programming Language.md",
+    "Pasted image 20230928111527.png",
+    "Objects.md",
+    "Tangible v Intangible Objects.md",
+    "Purpose of Objects.md",
+    "Pasted image 20230928111455.png",
+    "Pasted image 20230928111410.png",
+    "Pasted image 20230928111347.png",
+    "Object Orientated Programming.md",
+    "Pasted image 20230928111229.png",
+    "Software Design/Software Design Lecture 1.md",
+    "README.md",
     "Definitions/Javascript Overview.md",
+    "Software Design",
+    "Definitions/Dynamic Programming Language.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Definitions/Javascript Manipulating HTML Elements.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
@@ -170,23 +242,12 @@
     "Definitions/SQL Programming.md",
     "Definitions/SQL Application Layers.md",
     "Definitions/What is NoSQL Database.md",
-    "Programming Paradigms/Programming Paradigms Lecture 1.md",
-    "Definitions/Recursive Factorial.md",
-    "Definitions/Loop Factorial.md",
-    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
-    "Definitions/BASE.md",
     "Images/Pasted image 20230926142603.png",
     "Images/Pasted image 20230926144137.png",
     "Images/Pasted image 20230926144003.png",
     "Images/Pasted image 20230926143757.png",
     "Advanced Databases",
     "Images/Pasted image 20230926141614.png",
-    "Images/Pasted image 20230925133425.png",
-    "Images/Pasted image 20230925135252.png",
-    "Images/Pasted image 20230925135240.png",
-    "Images/Pasted image 20230925135207.png",
     "Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
