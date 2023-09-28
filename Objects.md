@@ -9,3 +9,4 @@
 * [[Common Characteristics of Objects]]
 * [[Java Encapsulation]]]
 * [[Interfaces]]
+* [[Java Inheritance]]
