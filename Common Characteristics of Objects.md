@@ -1,0 +1,2 @@
+![[Pasted image 20230928111959.png]]
+> 8 Common Characteristics of Objects « State = Particular condition that an object may be in at a moment in its life Behaviour = What an object can do, how it can respond to events and stimuli = Things that an object can do (methods) that are relevant to the view or abstraction of interest. « |dentity = Every object is unique

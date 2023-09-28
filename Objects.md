@@ -6,3 +6,5 @@
 
 * [[Purpose of Objects]]
 * [[Tangible v Intangible Objects]]
+* [[Common Characteristics of Objects]]
+* [[Java Encapsulation]]]
