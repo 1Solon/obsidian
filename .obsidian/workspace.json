@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "15ee5db84276dcf5",
+            "id": "7521c0ed36afd596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Java Encapsulation.md",
+                "file": "Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Java Encapsulation.md",
+                "file": "Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Java Encapsulation.md",
+                "file": "Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,16 +208,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "15ee5db84276dcf5",
+  "active": "7521c0ed36afd596",
   "lastOpenFiles": [
+    "Pasted image 20230928112554.png",
+    "Objects.md",
+    "Interfaces.md",
+    "Common Characteristics of Objects.md",
+    "Definitions/Java Encapsulation.md",
     "Pasted image 20230928112219.png",
     "Pasted image 20230928112210.png",
     "Pasted image 20230928112130.png",
     "Pasted image 20230928112111.png",
-    "Objects.md",
     "Object Orientated Programming.md",
     "Software Design/Software Design Lecture 1.md",
-    "Common Characteristics of Objects.md",
     "Pasted image 20230928111959.png",
     "Tangible v Intangible Objects.md",
     "Pasted image 20230928111527.png",
@@ -238,15 +241,12 @@
     "Definitions/GROUNDED THEORY.md",
     "Definitions/ACTION RESEARCH.md",
     "Definitions/Descriptive and Analytical.md",
-    "Images/Pasted image 20230918124648.png",
     "Definitions/Research Onion.md",
     "Definitions/Research Strategies.md",
     "Definitions/ARCHIVAL RESEARCH.md",
     "Definitions/Common research approaches.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "Definitions/SQL Program Structure.md",
-    "Definitions/SQL Programming.md",
-    "Definitions/SQL Application Layers.md",
     "Advanced Databases",
     "Programming Paradigms",
     "Untitled 1.canvas",

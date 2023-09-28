@@ -8,3 +8,4 @@
 * [[Tangible v Intangible Objects]]
 * [[Common Characteristics of Objects]]
 * [[Java Encapsulation]]]
+* [[Interfaces]]
