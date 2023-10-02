@@ -12,4 +12,6 @@
 
 * "Experiments can be both [[Qualitative and Quantitative]]"
 
+* "Experiments are typically [[Deductive]]" (Same statement as above, tends to repeat? Useful)
+
 * 
