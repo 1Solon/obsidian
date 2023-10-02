@@ -19,3 +19,9 @@
 * [[INTERPRETIVISM]]
 
 * [[OBJECTIVISM]] -> "Facts exist are real, they can be identified, testing. Expert systems are expert system in nature, knowledge base, code information explicitly into the knowledge base"
+
+* [[EPISTEMOLOGY]] -> "Difference between real and fake"
+
+* [[ONTOLOGY]] -> "Associations and relationships between things"
+
+* 
