@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d42e44aa8c7d0118",
+        "id": "2097a4b5296d5e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e0457c7732d48e",
+            "id": "891d81b56201a517",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "064f3be59ccdd0a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +129,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "08d9b555ecc3f9f0",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
     "Untitled.md",
     "Definitions/Common Characteristics of Objects.md",
