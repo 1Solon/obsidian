@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Evaluating the Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5074ba2bd28a31a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Definitions/Credability.md",
                 "mode": "source",
                 "source": false
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Evaluating the Source.md",
+                "file": "Definitions/Credability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Evaluating the Source.md",
+                "file": "Definitions/Credability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +162,13 @@
   },
   "active": "f5302a8ab1bcec3b",
   "lastOpenFiles": [
-    "Definitions/Literature Survey.md",
-    "Definitions/Credability.md",
-    "Images/Pasted image 20231002133204.png",
     "Definitions/Evaluating the Source.md",
+    "Images/Pasted image 20231002133618.png",
+    "Definitions/Credability.md",
+    "Images/Pasted image 20231002133700.png",
+    "Images/Pasted image 20231002133638.png",
+    "Definitions/Literature Survey.md",
+    "Images/Pasted image 20231002133204.png",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Images/Pasted image 20231002132800.png",
     "Images/Pasted image 20231002132959.png",
@@ -189,11 +180,8 @@
     "Images/Pasted image 20231002125734.png",
     "Definitions/Find the characteristics of IP.md",
     "Definitions/Literature Review - Finished Product.md",
-    "Images/Pasted image 20231002124438.png",
     "Definitions/What is a Literature Review.md",
-    "Images/Pasted image 20231002124910.png",
     "Definitions/Literature Review - Why do I need it.md",
-    "Images/Pasted image 20231002124806.png",
     "Definitions/Literature Review - Process.md",
     "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
