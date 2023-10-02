@@ -6,3 +6,5 @@
 * "Verify trustworthiness of different reports"
 
 * [[Sources of Information]]
+
+* [[Evaluating the Source]]

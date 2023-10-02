@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "0259db3070568455",
+            "id": "09f9da60b8113a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Literature Survey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a1bb70fa0a828fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Sources of Information.md",
+                "file": "Credability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+                "file": "Credability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+                "file": "Credability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +148,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "891d81b56201a517",
+  "active": "09f9da60b8113a6d",
   "lastOpenFiles": [
-    "Definitions/Sources of Information.md",
-    "Images/Pasted image 20231002125912.png",
+    "Pasted image 20231002132959.png",
+    "Pasted image 20231002132942.png",
+    "Evaluating the Source.md",
+    "Credability.md",
+    "Usefulness.md",
+    "Pasted image 20231002132815.png",
+    "Pasted image 20231002132800.png",
     "Definitions/Literature Survey.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+    "Definitions/Sources of Information.md",
+    "Images/Pasted image 20231002125912.png",
     "Images/Pasted image 20231002125734.png",
     "Definitions/Find the characteristics of IP.md",
     "Definitions/Literature Review - Finished Product.md",
@@ -185,18 +181,12 @@
     "Definitions/Java Inheritance.md",
     "Definitions/Object Orientated Programming.md",
     "Software Design/Software Design Lecture 1.md",
-    "Images/Pasted image 20230928111229.png",
     "Definitions/Objects.md",
-    "Images/Pasted image 20230928112554.png",
     "Definitions/Java Encapsulation.md",
-    "Images/Pasted image 20230928112219.png",
     "Definitions/Tangible v Intangible Objects.md",
     "Definitions/Purpose of Objects.md",
     "README.md",
-    "Definitions/Javascript Overview.md",
     "Software Design",
-    "Definitions/Dynamic Programming Language.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Advanced Databases",
     "Programming Paradigms",
     "Untitled 1.canvas",
