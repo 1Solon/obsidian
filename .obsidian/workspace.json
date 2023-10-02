@@ -11,48 +11,15 @@
             "id": "f5302a8ab1bcec3b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "891d81b56201a517",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0707a1098cbedc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Evaluating the Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134a125c0d7bc249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Looking for Bias.md",
+                "file": "Definitions/Research Strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "survey",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+                "file": "Definitions/Research Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+                "file": "Definitions/Research Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,15 +136,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "891d81b56201a517",
+  "active": "f5302a8ab1bcec3b",
   "lastOpenFiles": [
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Definitions/Looking for Bias.md",
     "Images/Pasted image 20231002134259.png",
     "Definitions/Characteristics of a Good Source.md",
     "Images/Pasted image 20231002134704.png",
     "Definitions/Evaluating the Source.md",
     "Definitions/Literature Survey.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Definitions/Red Flags for Source Credibility.md",
     "Definitions/Bias.md",
     "Images/Pasted image 20231002134449.png",
@@ -197,7 +166,6 @@
     "Definitions/Literature Review - Process.md",
     "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Untitled.md",
     "Definitions/Common Characteristics of Objects.md",
     "Definitions/Interfaces.md",
