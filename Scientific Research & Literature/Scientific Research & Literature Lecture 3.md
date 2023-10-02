@@ -8,4 +8,6 @@
 
 * [[Inductive]] and [[Deductive]] <- Experiment is Deductive, etc
 
+* 'Need to identify for each paper, what is the purpose, what is the methodology (how does it address that question), research onion, techniques'
+
 * 
