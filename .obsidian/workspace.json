@@ -8,6 +8,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f5302a8ab1bcec3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "891d81b56201a517",
             "type": "leaf",
             "state": {
@@ -18,33 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a783b07b961ebdcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Literature Survey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5302a8ab1bcec3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Credability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Credability.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Credability.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,24 +144,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "f5302a8ab1bcec3b",
+  "active": "891d81b56201a517",
   "lastOpenFiles": [
+    "Red Flags for Source Credibility.md",
     "Definitions/Evaluating the Source.md",
-    "Images/Pasted image 20231002133618.png",
+    "Bias.md",
+    "Pasted image 20231002134449.png",
+    "Pasted image 20231002134444.png",
+    "Looking for Bias.md",
+    "Pasted image 20231002134344.png",
+    "Pasted image 20231002134317.png",
+    "Pasted image 20231002134259.png",
+    "Definitions/Literature Survey.md",
+    "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Definitions/Credability.md",
+    "Images/Pasted image 20231002133618.png",
     "Images/Pasted image 20231002133700.png",
     "Images/Pasted image 20231002133638.png",
-    "Definitions/Literature Survey.md",
     "Images/Pasted image 20231002133204.png",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Images/Pasted image 20231002132800.png",
-    "Images/Pasted image 20231002132959.png",
-    "Images/Pasted image 20231002132942.png",
     "Definitions/Usefulness.md",
-    "Images/Pasted image 20231002132815.png",
     "Definitions/Sources of Information.md",
-    "Images/Pasted image 20231002125912.png",
-    "Images/Pasted image 20231002125734.png",
     "Definitions/Find the characteristics of IP.md",
     "Definitions/Literature Review - Finished Product.md",
     "Definitions/What is a Literature Review.md",
@@ -194,9 +181,6 @@
     "Software Design/Software Design Lecture 1.md",
     "Definitions/Objects.md",
     "Definitions/Java Encapsulation.md",
-    "Definitions/Tangible v Intangible Objects.md",
-    "Definitions/Purpose of Objects.md",
-    "README.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

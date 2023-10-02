@@ -1,0 +1,2 @@
+![[Pasted image 20231002134344.png]]
+> In academic or business politics > Relationships between the author and publications > Author and other authors > Publications and sponsors > In self-promoters > Authors of books, websites, or various written works promote their works (ignoring other relevant work)
