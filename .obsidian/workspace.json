@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Sources of Information.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Sources of Information.md",
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +159,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "891d81b56201a517",
   "lastOpenFiles": [
+    "Definitions/Sources of Information.md",
     "Images/Pasted image 20231002125912.png",
     "Definitions/Literature Survey.md",
-    "Definitions/Sources of Information.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Images/Pasted image 20231002125734.png",
     "Definitions/Find the characteristics of IP.md",
@@ -191,7 +190,6 @@
     "Images/Pasted image 20230928112554.png",
     "Definitions/Java Encapsulation.md",
     "Images/Pasted image 20230928112219.png",
-    "Images/Pasted image 20230928112210.png",
     "Definitions/Tangible v Intangible Objects.md",
     "Definitions/Purpose of Objects.md",
     "README.md",
