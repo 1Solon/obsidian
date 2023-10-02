@@ -24,4 +24,14 @@
 
 * [[ONTOLOGY]] -> "Associations and relationships between things"
 
+* [[What is a Literature Review]]
+
+* "Start with identifying what it is you want to do, then ask questions and identify methods to answer those questions"
+
+* "Is there a gap, is there an inadequacy" - Identify in past papers or problems that exist, and then exploit them - "They got 89% I got 90%, why is that, identify the difference"
+
+* "Use terms in ways that others in the literature are using them, make sure to define concepts that you introduce"
+
+* (Grumble, Grumble. I really don't like how he shifts between rhetorical and actual questions)
+
 * 

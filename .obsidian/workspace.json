@@ -11,12 +11,8 @@
             "id": "891d81b56201a517",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +131,17 @@
   },
   "active": "891d81b56201a517",
   "lastOpenFiles": [
-    "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+    "Definitions/Literature Review - Finished Product.md",
+    "Images/Pasted image 20231002124438.png",
+    "Definitions/What is a Literature Review.md",
+    "Images/Pasted image 20231002124910.png",
+    "Definitions/Literature Review - Why do I need it.md",
+    "Images/Pasted image 20231002124806.png",
+    "Images/Pasted image 20231002124654.png",
+    "Definitions/Literature Review - Process.md",
+    "Images/Pasted image 20231002124550.png",
+    "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
     "Untitled.md",
@@ -154,13 +157,8 @@
     "Images/Pasted image 20230928112219.png",
     "Images/Pasted image 20230928112210.png",
     "Images/Pasted image 20230928112130.png",
-    "Images/Pasted image 20230928112111.png",
-    "Images/Pasted image 20230928111959.png",
     "Definitions/Tangible v Intangible Objects.md",
-    "Images/Pasted image 20230928111527.png",
     "Definitions/Purpose of Objects.md",
-    "Images/Pasted image 20230928111455.png",
-    "Images/Pasted image 20230928111410.png",
     "README.md",
     "Definitions/Javascript Overview.md",
     "Software Design",
@@ -169,11 +167,6 @@
     "Definitions/Javascript Manipulating HTML Elements.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Advanced Databases/Advanced Databases Lecture 1.md",
-    "Definitions/ETHNOGRAPHY.md",
-    "Definitions/GROUNDED THEORY.md",
-    "Definitions/ACTION RESEARCH.md",
-    "Definitions/Descriptive and Analytical.md",
-    "Definitions/Research Onion.md",
     "Advanced Databases",
     "Programming Paradigms",
     "Untitled 1.canvas",

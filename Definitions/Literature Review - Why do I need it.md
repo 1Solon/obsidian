@@ -1,0 +1,5 @@
+![[Pasted image 20231002124654.png]]
+> Finding out what is happening in your area of research is a vital step along your journey to discovery > To find and understand how leading researchers in your field have tackled similar problems and the results they obtained, shortcomings they observed and methodologies they employed » = goals of the literature review process.
+
+![[Pasted image 20231002124806.png]]
+> It shares with the reader other studies closely related to your work > It relates your work to the larger, on-going dialogue in the literature > It introduces terminology and definitions to clarify how terms are being used in the context of your work > It shows how your study is filling in gaps and extending prior studies > It provides a framework for establishing the importance of your study > It provides a benchmark for comparing the results of your study with other findings
