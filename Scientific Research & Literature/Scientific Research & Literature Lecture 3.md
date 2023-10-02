@@ -4,4 +4,8 @@
 
 * Benchmarking, Surveys, Automatic Testing <- (Discussion on assignment 1)
 
+* Not interested in Epistemology Anackonlgy? (Unsure of spelling, safe to ignore any 'ology')
+
+* [[Inductive]] and [[Deductive]] <- Experiment is Deductive, etc
+
 * 

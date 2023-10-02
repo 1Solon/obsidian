@@ -11,8 +11,12 @@
             "id": "891d81b56201a517",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +137,7 @@
   },
   "active": "891d81b56201a517",
   "lastOpenFiles": [
+    "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
@@ -167,7 +174,6 @@
     "Definitions/ACTION RESEARCH.md",
     "Definitions/Descriptive and Analytical.md",
     "Definitions/Research Onion.md",
-    "Definitions/Research Strategies.md",
     "Advanced Databases",
     "Programming Paradigms",
     "Untitled 1.canvas",
