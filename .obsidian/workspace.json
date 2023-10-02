@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "09f9da60b8113a6d",
+            "id": "a783b07b961ebdcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credability.md",
+                "file": "Definitions/Literature Survey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5302a8ab1bcec3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Evaluating the Source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5074ba2bd28a31a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Credability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credability.md",
+                "file": "Definitions/Evaluating the Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credability.md",
+                "file": "Definitions/Evaluating the Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +172,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "09f9da60b8113a6d",
+  "active": "f5302a8ab1bcec3b",
   "lastOpenFiles": [
-    "Pasted image 20231002132959.png",
-    "Pasted image 20231002132942.png",
-    "Evaluating the Source.md",
-    "Credability.md",
-    "Usefulness.md",
-    "Pasted image 20231002132815.png",
-    "Pasted image 20231002132800.png",
     "Definitions/Literature Survey.md",
+    "Definitions/Credability.md",
+    "Images/Pasted image 20231002133204.png",
+    "Definitions/Evaluating the Source.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
+    "Images/Pasted image 20231002132800.png",
+    "Images/Pasted image 20231002132959.png",
+    "Images/Pasted image 20231002132942.png",
+    "Definitions/Usefulness.md",
+    "Images/Pasted image 20231002132815.png",
     "Definitions/Sources of Information.md",
     "Images/Pasted image 20231002125912.png",
     "Images/Pasted image 20231002125734.png",
@@ -169,9 +194,7 @@
     "Images/Pasted image 20231002124910.png",
     "Definitions/Literature Review - Why do I need it.md",
     "Images/Pasted image 20231002124806.png",
-    "Images/Pasted image 20231002124654.png",
     "Definitions/Literature Review - Process.md",
-    "Images/Pasted image 20231002124550.png",
     "Definitions/Inductive.md",
     "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
     "Scientific Research & Literature/Scientific Research & Literature Reading.md",
