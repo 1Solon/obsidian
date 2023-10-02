@@ -10,4 +10,6 @@
 
 * 'Need to identify for each paper, what is the purpose, what is the methodology (how does it address that question), research onion, techniques'
 
+* "Experiments can be both [[Qualitative and Quantitative]]"
+
 * 
