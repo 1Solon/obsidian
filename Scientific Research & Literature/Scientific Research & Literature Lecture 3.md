@@ -14,4 +14,8 @@
 
 * "Experiments are typically [[Deductive]]" (Same statement as above, tends to repeat? Useful)
 
-* 
+* "[[REALISM]] relies on the idea of independence"
+
+* [[INTERPRETIVISM]]
+
+* [[OBJECTIVISM]] -> "Facts exist are real, they can be identified, testing. Expert systems are expert system in nature, knowledge base, code information explicitly into the knowledge base"
