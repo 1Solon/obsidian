@@ -32,7 +32,7 @@
     {
       "name": "latex",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "greekLetters",
@@ -47,7 +47,7 @@
     {
       "name": "callouts",
       "active": true,
-      "visible": true
+      "visible": false
     }
   ]
 }
