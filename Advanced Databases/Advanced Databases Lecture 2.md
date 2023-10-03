@@ -6,4 +6,6 @@
   
   * No notes available for this week- this lecture is almost impossible to write notes for. Defer to previous Database modules in this such as [[Databases 2 Lecture 2]] 
 
+* "Unique identifiers are sequence numbers"
+
 * 
