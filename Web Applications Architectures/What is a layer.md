@@ -1,0 +1,2 @@
+![[Pasted image 20231004154320.png]]
+> » Alayer is an isolated part of the application. * This can be a specific functionality offered in the application. Each layer should communicate with the layer above/below via well defined interfaces. + A layer will expose its functionality through an abstract API.
