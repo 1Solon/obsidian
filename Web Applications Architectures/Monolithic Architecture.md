@@ -1,0 +1,5 @@
+![[Pasted image 20231004153403.png]]
+> Key Components: Advantages: Disadvantages: + Authorization + Better throughput > L e e LB e large/complex codebase. - P tati * M ier to test/debug? resentation ay be easier to te g > B SR e » Business Logic + Single codebase — easier redeployed after changes - Database Layer configuration and logging/monitoring . Scalability can suffer - Application Integration + Horizontal scaling behind a load + Reliability — single point of failure balancer if needed « Difficult to introduce new - Suited to simple, lightweight technologies without a full - , refactor of the codebase applications that won’t change much
+
+![[Pasted image 20231004153439.png]]
+> « This would have been considered to be the traditional unified modei 101 uie design of a software program. » Monolithic is referring to everything being contained in one system/piece. « Self contained, tightly coupled, usually single tier. » Usually a large codebase and can be difficult to maintain. » Layered approach, each layer depends on each other. « This is the default mode of coding. « Each layer will take care of a major responsibility/task.

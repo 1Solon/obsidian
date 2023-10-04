@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 2.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c10349722b1e895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/Monolithic Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 2.md",
+                "file": "Web Applications Architectures/Monolithic Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 2.md",
+                "file": "Web Applications Architectures/Monolithic Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,10 +148,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "f5302a8ab1bcec3b",
+  "active": "8c10349722b1e895",
   "lastOpenFiles": [
-    "Definitions/EXPERIMENT.md",
+    "Images/Pasted image 20231004153439.png",
+    "Images/Pasted image 20231004153409.png",
+    "Images/Pasted image 20231004153403.png",
+    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "Web Applications Architectures/Monolithic Architecture.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Advanced Databases/Advanced Databases Lecture 2.md",
+    "Definitions/EXPERIMENT.md",
     "Definitions/Research Strategies.md",
     "Definitions/ETHNOGRAPHY.md",
     "Definitions/CASE STUDY.md",
@@ -161,18 +181,11 @@
     "Definitions/Credability.md",
     "Images/Pasted image 20231002133618.png",
     "Images/Pasted image 20231002133700.png",
-    "Images/Pasted image 20231002133638.png",
-    "Images/Pasted image 20231002133204.png",
     "Definitions/Usefulness.md",
     "Definitions/Sources of Information.md",
     "Definitions/Find the characteristics of IP.md",
     "Definitions/Literature Review - Finished Product.md",
     "Definitions/What is a Literature Review.md",
-    "Definitions/Literature Review - Why do I need it.md",
-    "Definitions/Literature Review - Process.md",
-    "Definitions/Inductive.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 2.md",
-    "Untitled.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
