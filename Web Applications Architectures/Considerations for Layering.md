@@ -1,0 +1,2 @@
+![[Pasted image 20231004160701.png]]
+> Limitations: Advantages: Disadvantages: « Lack of agility + SoC of layered corrections + Potential single point of failure - Difficult to deploy (size) ~ + Layers of isolation (limit * Not following the pattern i correctly and having a tightl » Low performance CEpETiEnELEs) y g- g ! y - coupled system that is difficult + Testability of layers L to maintain » Scalability + Interdependence between layers

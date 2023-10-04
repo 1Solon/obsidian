@@ -9,3 +9,4 @@
 * [[What is a layer]]
 * [[Types of Layered Pattern]]
 * [[How to Plan for a Layered Approach]]
+* [[Considerations for Layering]]
