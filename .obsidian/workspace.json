@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "06050d3f3619ad28",
+            "id": "7c00f13e48ff20af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Layered Architectural Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bcf99691200c364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/Considerations for Layering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84ee4dabf68ddad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/How to Plan for a Layered Approach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0ae8cab412b96d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/3-Tier Layer.md",
+                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Considerations for Layering.md",
+                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Considerations for Layering.md",
+                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,12 +148,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "4bcf99691200c364",
+  "active": "7c00f13e48ff20af",
   "lastOpenFiles": [
-    "Images/Pasted image 20231004160701.png",
+    "Images/Pasted image 20231004161228.png",
+    "Images/Pasted image 20231004161150.png",
+    "Images/Pasted image 20231004161127.png",
+    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "Web Applications Architectures/Server Side Rendering (SSR).md",
+    "Web Applications Architectures/Different Types of Web Arch.md",
+    "Images/Pasted image 20231004161058.png",
     "Web Applications Architectures/Layered Architectural Pattern.md",
     "Web Applications Architectures/Considerations for Layering.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "Images/Pasted image 20231004160701.png",
     "Web Applications Architectures/How to Plan for a Layered Approach.md",
     "Images/Pasted image 20231004155231.png",
     "Web Applications Architectures/3-Tier Layer.md",
@@ -200,11 +170,7 @@
     "Images/Pasted image 20231004154508.png",
     "Images/Pasted image 20231004154459.png",
     "Images/Pasted image 20231004154320.png",
-    "Images/Pasted image 20231004154124.png",
-    "Images/Pasted image 20231004154059.png",
     "Web Applications Architectures/Monolithic Architecture.md",
-    "Images/Pasted image 20231004153439.png",
-    "Images/Pasted image 20231004153409.png",
     "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Advanced Databases/Advanced Databases Lecture 2.md",
@@ -220,8 +186,6 @@
     "Definitions/Characteristics of a Good Source.md",
     "Definitions/Evaluating the Source.md",
     "Definitions/Literature Survey.md",
-    "Definitions/Red Flags for Source Credibility.md",
-    "Definitions/Bias.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
