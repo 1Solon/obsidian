@@ -7,3 +7,4 @@
 ### Layers
 ---
 * [[What is a layer]]
+* [[Types of Layered Pattern]]

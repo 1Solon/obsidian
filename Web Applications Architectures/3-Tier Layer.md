@@ -1,0 +1,2 @@
+![[Pasted image 20231004154722.png]]
+> Each layer runs on its own Presentation Tier Application Tier Data Tier infrastructure. Can be developed in parallel by different teams. —— —— If the layered pattern is Co— ] implemented correctly a —] — developer can update and scale each tier as needed without impacting the rest Web Server and Database Server airtine AgpleElen: Application Server
