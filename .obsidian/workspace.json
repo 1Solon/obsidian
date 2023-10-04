@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "84ee4dabf68ddad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/How to Plan for a Layered Approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0ae8cab412b96d1",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/3-Tier Layer.md",
+                "file": "Web Applications Architectures/How to Plan for a Layered Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/3-Tier Layer.md",
+                "file": "Web Applications Architectures/How to Plan for a Layered Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +172,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "c0ae8cab412b96d1",
+  "active": "84ee4dabf68ddad7",
   "lastOpenFiles": [
+    "Images/Pasted image 20231004155231.png",
     "Web Applications Architectures/Layered Architectural Pattern.md",
-    "Web Applications Architectures/Types of Layered Pattern.md",
+    "Web Applications Architectures/How to Plan for a Layered Approach.md",
     "Web Applications Architectures/3-Tier Layer.md",
+    "Web Applications Architectures/Types of Layered Pattern.md",
     "Images/Pasted image 20231004154722.png",
     "Images/Pasted image 20231004154628.png",
     "Web Applications Architectures/What is a layer.md",
@@ -196,7 +210,6 @@
     "Definitions/Red Flags for Source Credibility.md",
     "Definitions/Bias.md",
     "Definitions/Credability.md",
-    "Definitions/Usefulness.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

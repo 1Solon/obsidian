@@ -1,0 +1,2 @@
+![[Pasted image 20231004155231.png]]
+> 1.Group functionality « Try decide the names and number of layers « Consider how large the layers may be 2. Develop the layers. Try avoid open layers if possible. + |dentify the functionality to be exposed to the application. » Set the API of the layer. 3. Implement the messaging mechanism between layers 4. Communication model » Follow a top down approach to deal with requests + See what layers can be made cacheable
