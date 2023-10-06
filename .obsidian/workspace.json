@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "c72331c3c6c1847a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Paradigms/Pointers and Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83942b96b89cef07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Paradigms/Avoiding Dangeling Refrerences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "851b4600ead78480",
+            "id": "6cde92b63a557055",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -52,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,30 +142,35 @@
       "templates:Insert template": false
     }
   },
-  "active": "851b4600ead78480",
+  "active": "6cde92b63a557055",
   "lastOpenFiles": [
+    "Programming Paradigms/Programming Paradigms Lecture 2.md",
+    "Programming Paradigms/Memory Management.md",
+    "Programming Paradigms/Cheney's Algorithm.md",
+    "Images/Pasted image 20231006112439.png",
+    "Programming Paradigms/Mark and Copy.md",
+    "Images/Pasted image 20231006112351.png",
+    "Programming Paradigms/Mark and Sweep.md",
+    "Images/Pasted image 20231006112256.png",
+    "Programming Paradigms/Garbage Collection.md",
+    "Images/Pasted image 20231006112128.png",
+    "Programming Paradigms/Pointers.md",
+    "Programming Paradigms/Locks and Keys.md",
+    "Images/Pasted image 20231006112009.png",
+    "Programming Paradigms/Pointers and Memory.md",
     "Programming Paradigms/Avoiding Dangeling Refrerences.md",
     "Images/Pasted image 20231006111645.png",
-    "Programming Paradigms/Memory Management.md",
-    "Programming Paradigms/Pointers and Memory.md",
     "Images/Pasted image 20231006111515.png",
     "Images/Pasted image 20231006111506.png",
-    "Programming Paradigms/Programming Paradigms Lecture 2.md",
     "Programming Paradigms/Static Chain Pointers.md",
     "Images/Pasted image 20231006110128.png",
     "Images/Pasted image 20231006110052.png",
-    "Programming Paradigms/Pointers.md",
     "Programming Paradigms/Multiple Free Lists Memory.md",
-    "Images/Pasted image 20231006105856.png",
     "Programming Paradigms/Memory Block Types.md",
     "Programming Paradigms/Variable Length Memory.md",
-    "Images/Pasted image 20231006105749.png",
-    "Images/Pasted image 20231006105719.png",
     "Programming Paradigms/Fixed Length Memory.md",
-    "Images/Pasted image 20231006105632.png",
     "Programming Paradigms/Dynamic Memory Management.md",
     "Programming Paradigms/Dynamic Memory Management Using Heap.md",
-    "Images/Pasted image 20231006105500.png",
     "Programming Paradigms/When a Procedure is Finished.md",
     "Programming Paradigms/Procedures.md",
     "Programming Paradigms/When a Procedure is Called.md",
@@ -199,11 +179,6 @@
     "Programming Paradigms/Static Memory Management.md",
     "Definitions/Qualitative and Quantitative.md",
     "Definitions/CONSTRUCTIVISM.md",
-    "Definitions/Philosophical Stances.md",
-    "Definitions/OBJECTIVISM.md",
-    "Definitions/REALISM.md",
-    "Definitions/INTERPRETIVISM.md",
-    "Definitions/POSITIVISM.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

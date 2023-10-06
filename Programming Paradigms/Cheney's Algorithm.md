@@ -1,0 +1,2 @@
+![[Pasted image 20231006112439.png]]
+> B— AN y %’ E oo oo 1] ﬁ‘ A L!If N\ [N 1{*‘ B C : 7\ istesns AL ::?\{ g pit SN <77 \ \ Lﬁﬁﬁ#w » Used to store data structure that are used by the program (accessible) in the mark and copy algorithm

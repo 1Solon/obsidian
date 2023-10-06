@@ -9,3 +9,10 @@
 * [[Memory Block Types]]
 * [[Pointers]]
 * [[Avoiding Dangeling Refrerences]]
+* [[Garbage Collection]]
+
+# Algorithms
+---
+* [[Mark and Sweep]]
+* [[Mark and Copy]]
+* [[Cheney's Algorithm]]

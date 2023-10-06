@@ -1,0 +1,2 @@
+![[Pasted image 20231006112128.png]]
+> ; :;—-r—j E 2 5 fﬁ“—"‘\—‘ . » The free memory should be reused » Two phases: detection and collection » First solution: counting added to the created object » Plus: interleaved to normal operations » Not efficient, overhead especially for short-living data » Circular references
