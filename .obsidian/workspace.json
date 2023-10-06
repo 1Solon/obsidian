@@ -13,62 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms/Memory Management.md",
+                "file": "Programming Paradigms/Programming Paradigms Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9b496fa72b69dbd",
+            "id": "c72331c3c6c1847a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms/Pointers.md",
+                "file": "Programming Paradigms/Pointers and Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d95fe72103640730",
+            "id": "83942b96b89cef07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms/Static Chain Pointers.md",
+                "file": "Programming Paradigms/Avoiding Dangeling Refrerences.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "335b8e47ec356bba",
+            "id": "851b4600ead78480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Paradigms/Memory Block Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c53150e5aec3eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Paradigms/Multiple Free Lists Memory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Paradigms/Static Chain Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Paradigms/Static Chain Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,13 +167,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "d95fe72103640730",
+  "active": "851b4600ead78480",
   "lastOpenFiles": [
+    "Programming Paradigms/Avoiding Dangeling Refrerences.md",
+    "Images/Pasted image 20231006111645.png",
+    "Programming Paradigms/Memory Management.md",
+    "Programming Paradigms/Pointers and Memory.md",
+    "Images/Pasted image 20231006111515.png",
+    "Images/Pasted image 20231006111506.png",
+    "Programming Paradigms/Programming Paradigms Lecture 2.md",
+    "Programming Paradigms/Static Chain Pointers.md",
     "Images/Pasted image 20231006110128.png",
     "Images/Pasted image 20231006110052.png",
     "Programming Paradigms/Pointers.md",
-    "Programming Paradigms/Static Chain Pointers.md",
-    "Programming Paradigms/Memory Management.md",
     "Programming Paradigms/Multiple Free Lists Memory.md",
     "Images/Pasted image 20231006105856.png",
     "Programming Paradigms/Memory Block Types.md",
@@ -204,14 +192,9 @@
     "Programming Paradigms/Dynamic Memory Management Using Heap.md",
     "Images/Pasted image 20231006105500.png",
     "Programming Paradigms/When a Procedure is Finished.md",
-    "Images/Pasted image 20231006105420.png",
     "Programming Paradigms/Procedures.md",
     "Programming Paradigms/When a Procedure is Called.md",
-    "Images/Pasted image 20231006105349.png",
-    "Images/Pasted image 20231006105310.png",
     "Programming Paradigms/Activation Record for a Procedure.md",
-    "Images/Pasted image 20231006105205.png",
-    "Programming Paradigms/Programming Paradigms Lecture 2.md",
     "Programming Paradigms/Inline Block Example.md",
     "Programming Paradigms/Static Memory Management.md",
     "Definitions/Qualitative and Quantitative.md",
@@ -221,8 +204,6 @@
     "Definitions/REALISM.md",
     "Definitions/INTERPRETIVISM.md",
     "Definitions/POSITIVISM.md",
-    "Definitions/Choosing a Research Strategy.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
