@@ -1,0 +1,2 @@
+![[Pasted image 20231006105500.png]]
+> int *p, *q; /* p,g NULL pointers to integers */ p = malloc (sizeof (int)); /* allocates the memory pointed to by p */ g = malloc (sizeof (int)); /* allocates the memory pointed to by g */ *p = 0; /* dereferences and assigns */ *q = 1; /* dereferences and assigns */ free(p); /* deallocates the memory pointed to by p */ free(q); /* deallocates the memory pointed to by g */ » Why pointers cannot always go on the stack » Heap is not ordered » Fixed and Variable Length block

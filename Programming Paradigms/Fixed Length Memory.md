@@ -1,0 +1,2 @@
+![[Pasted image 20231006105632.png]]
+> o =R » Each block has a fixed length — » Free List of blocks are stored EE as a linked list i » The used memory grows . downwards » Problem of internal e el —H fragmentation — L [ — — B

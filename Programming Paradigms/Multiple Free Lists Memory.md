@@ -1,0 +1,2 @@
+![[Pasted image 20231006105856.png]]
+> » More than one free list Used i Dl-rcc Memory » Each of them keeping ’ D Occupied . . Memory blocks of different size . . 1 Requested » Dynamic ¥ D Memory » Buddy system - » Search for the block ~ s » |f not found chose the y <% father (double) z » Split it » Add the unused part to the son lists » When free look for a buddy » Fibonacci system

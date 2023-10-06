@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "2097a4b5296d5e7e",
+        "id": "99f3e22f183037d2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5302a8ab1bcec3b",
+            "id": "37eb3a7adea5df1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+                "file": "Programming Paradigms/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c00f13e48ff20af",
+            "id": "f9b496fa72b69dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
+                "file": "Programming Paradigms/Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d95fe72103640730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Paradigms/Static Chain Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335b8e47ec356bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Paradigms/Memory Block Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c53150e5aec3eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Paradigms/Multiple Free Lists Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pointers",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
+                "file": "Programming Paradigms/Static Chain Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Server Side Rendering (SSR).md",
+                "file": "Programming Paradigms/Static Chain Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,44 +185,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c00f13e48ff20af",
+  "active": "d95fe72103640730",
   "lastOpenFiles": [
-    "Images/Pasted image 20231004161228.png",
-    "Images/Pasted image 20231004161150.png",
-    "Images/Pasted image 20231004161127.png",
+    "Images/Pasted image 20231006110128.png",
+    "Images/Pasted image 20231006110052.png",
+    "Programming Paradigms/Pointers.md",
+    "Programming Paradigms/Static Chain Pointers.md",
+    "Programming Paradigms/Memory Management.md",
+    "Programming Paradigms/Multiple Free Lists Memory.md",
+    "Images/Pasted image 20231006105856.png",
+    "Programming Paradigms/Memory Block Types.md",
+    "Programming Paradigms/Variable Length Memory.md",
+    "Images/Pasted image 20231006105749.png",
+    "Images/Pasted image 20231006105719.png",
+    "Programming Paradigms/Fixed Length Memory.md",
+    "Images/Pasted image 20231006105632.png",
+    "Programming Paradigms/Dynamic Memory Management.md",
+    "Programming Paradigms/Dynamic Memory Management Using Heap.md",
+    "Images/Pasted image 20231006105500.png",
+    "Programming Paradigms/When a Procedure is Finished.md",
+    "Images/Pasted image 20231006105420.png",
+    "Programming Paradigms/Procedures.md",
+    "Programming Paradigms/When a Procedure is Called.md",
+    "Images/Pasted image 20231006105349.png",
+    "Images/Pasted image 20231006105310.png",
+    "Programming Paradigms/Activation Record for a Procedure.md",
+    "Images/Pasted image 20231006105205.png",
+    "Programming Paradigms/Programming Paradigms Lecture 2.md",
+    "Programming Paradigms/Inline Block Example.md",
+    "Programming Paradigms/Static Memory Management.md",
+    "Definitions/Qualitative and Quantitative.md",
+    "Definitions/CONSTRUCTIVISM.md",
+    "Definitions/Philosophical Stances.md",
+    "Definitions/OBJECTIVISM.md",
+    "Definitions/REALISM.md",
+    "Definitions/INTERPRETIVISM.md",
+    "Definitions/POSITIVISM.md",
+    "Definitions/Choosing a Research Strategy.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
-    "Web Applications Architectures/Server Side Rendering (SSR).md",
-    "Web Applications Architectures/Different Types of Web Arch.md",
-    "Images/Pasted image 20231004161058.png",
-    "Web Applications Architectures/Layered Architectural Pattern.md",
-    "Web Applications Architectures/Considerations for Layering.md",
-    "Images/Pasted image 20231004160701.png",
-    "Web Applications Architectures/How to Plan for a Layered Approach.md",
-    "Images/Pasted image 20231004155231.png",
-    "Web Applications Architectures/3-Tier Layer.md",
-    "Web Applications Architectures/Types of Layered Pattern.md",
-    "Images/Pasted image 20231004154722.png",
-    "Images/Pasted image 20231004154628.png",
-    "Web Applications Architectures/What is a layer.md",
-    "Images/Pasted image 20231004154508.png",
-    "Images/Pasted image 20231004154459.png",
-    "Images/Pasted image 20231004154320.png",
-    "Web Applications Architectures/Monolithic Architecture.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
-    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
-    "Advanced Databases/Advanced Databases Lecture 2.md",
-    "Definitions/EXPERIMENT.md",
-    "Definitions/Research Strategies.md",
-    "Definitions/ETHNOGRAPHY.md",
-    "Definitions/CASE STUDY.md",
-    "Definitions/Survey.md",
-    "Definitions/ACTION RESEARCH.md",
-    "Scientific Research & Literature/Scientific Research & Literature Lecture 3.md",
-    "Scientific Research & Literature/Scientific Research & Literature Reading.md",
-    "Definitions/Looking for Bias.md",
-    "Definitions/Characteristics of a Good Source.md",
-    "Definitions/Evaluating the Source.md",
-    "Definitions/Literature Survey.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

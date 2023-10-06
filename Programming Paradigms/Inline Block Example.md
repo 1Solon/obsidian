@@ -1,0 +1,2 @@
+![[Pasted image 20231006105035.png]]
+> [ — (nt = =3; b= (a+x)/ (x+y):]} » Sometime intermediate values need to be store » They are stored in the activation record » Variable of fixed length? Example of arrays
