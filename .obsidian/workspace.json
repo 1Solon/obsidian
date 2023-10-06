@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms/Programming Paradigms Lecture 2.md",
+                "file": "Web Development Lectures/WebDev Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development Lectures/WebDev Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development Lectures/WebDev Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +146,14 @@
   },
   "active": "6cde92b63a557055",
   "lastOpenFiles": [
+    "Web Development Lectures/WebDev Lecture 3.md",
+    "Web Development Lectures/WebDev Lecture 2.md",
+    "Software Design/Software Design Lecture 1.md",
+    "Databases 2/Databases 2 Lecture 2.md",
+    "Databases 2/Databases 2 Lecture 3.md",
+    "Definitions/SQL Program Structure.md",
+    "Definitions/SQL Application Layers.md",
+    "Databases 2/Databases 2 Lecture 4.md",
     "Programming Paradigms/Programming Paradigms Lecture 2.md",
     "Programming Paradigms/Memory Management.md",
     "Programming Paradigms/Cheney's Algorithm.md",
@@ -172,13 +182,6 @@
     "Programming Paradigms/Dynamic Memory Management.md",
     "Programming Paradigms/Dynamic Memory Management Using Heap.md",
     "Programming Paradigms/When a Procedure is Finished.md",
-    "Programming Paradigms/Procedures.md",
-    "Programming Paradigms/When a Procedure is Called.md",
-    "Programming Paradigms/Activation Record for a Procedure.md",
-    "Programming Paradigms/Inline Block Example.md",
-    "Programming Paradigms/Static Memory Management.md",
-    "Definitions/Qualitative and Quantitative.md",
-    "Definitions/CONSTRUCTIVISM.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
