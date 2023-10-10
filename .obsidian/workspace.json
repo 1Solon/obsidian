@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37eb3a7adea5df1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development Lectures/WebDev Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cde92b63a557055",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "c56aeb1be8e0a96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development Lectures/WebDev Lecture 3.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development Lectures/WebDev Lecture 3.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +144,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "6cde92b63a557055",
+  "active": "c56aeb1be8e0a96f",
   "lastOpenFiles": [
+    "Advanced Databases/Advanced Databases Lecture 3.md",
     "Web Development Lectures/WebDev Lecture 3.md",
     "Web Development Lectures/WebDev Lecture 2.md",
     "Software Design/Software Design Lecture 1.md",
@@ -181,7 +182,6 @@
     "Programming Paradigms/Fixed Length Memory.md",
     "Programming Paradigms/Dynamic Memory Management.md",
     "Programming Paradigms/Dynamic Memory Management Using Heap.md",
-    "Programming Paradigms/When a Procedure is Finished.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
