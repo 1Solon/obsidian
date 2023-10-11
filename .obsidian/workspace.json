@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55f1149f3f57921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Node.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd784594399326a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Why Not Node.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
+                "file": "Definitions/Why Not Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 3.md",
+                "file": "Definitions/Why Not Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +168,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "c56aeb1be8e0a96f",
+  "active": "acd784594399326a",
   "lastOpenFiles": [
+    "Images/Pasted image 20231011151339.png",
+    "Definitions/Node.js.md",
+    "Definitions/Why Not Node.js.md",
+    "Definitions/Why Node.js.md",
+    "Images/Pasted image 20231011151300.png",
+    "Images/Pasted image 20231011151256.png",
+    "Web Applications Architectures/Web Applications Architectures Lecture 4.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
     "Advanced Databases/Advanced Databases Lecture 3.md",
     "Web Development Lectures/WebDev Lecture 3.md",
     "Web Development Lectures/WebDev Lecture 2.md",
@@ -168,20 +203,9 @@
     "Programming Paradigms/Pointers.md",
     "Programming Paradigms/Locks and Keys.md",
     "Images/Pasted image 20231006112009.png",
-    "Programming Paradigms/Pointers and Memory.md",
-    "Programming Paradigms/Avoiding Dangeling Refrerences.md",
     "Images/Pasted image 20231006111645.png",
     "Images/Pasted image 20231006111515.png",
     "Images/Pasted image 20231006111506.png",
-    "Programming Paradigms/Static Chain Pointers.md",
-    "Images/Pasted image 20231006110128.png",
-    "Images/Pasted image 20231006110052.png",
-    "Programming Paradigms/Multiple Free Lists Memory.md",
-    "Programming Paradigms/Memory Block Types.md",
-    "Programming Paradigms/Variable Length Memory.md",
-    "Programming Paradigms/Fixed Length Memory.md",
-    "Programming Paradigms/Dynamic Memory Management.md",
-    "Programming Paradigms/Dynamic Memory Management Using Heap.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

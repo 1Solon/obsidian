@@ -1,0 +1,2 @@
+![[Pasted image 20231011151339.png]]
+> » Not multi-threaded (yet) « But allows multiple cores, child processes communicating with sockets — DIY load balancing » CPU intensive operations will perform poorly » Only I/O is asynchronous, it has no thread switching + Loss of data + In case of error (with single thread), global data may be lost + Maturity of documentation, support « Frequent changes, not always backward compatible + It takes experience to judge the packages in NPM
