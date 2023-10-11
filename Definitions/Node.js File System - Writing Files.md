@@ -1,0 +1,2 @@
+![[Pasted image 20231011152506.png]]
+> . . . L. const fs = require('fs') + We can write to files in a similar manner as let content = "This is what will be written to the file" reading them try { fs.writeFileSync('test.txt', content) . Sync = Top console. log("File written!") } catch (err) { console.error(err) » Async - Bottom | const fs = require('fs') let content = "This is what will be written to the file" fs.writeFileI'lest.txt', content, (err) => { if (err) { console.error(err) return ¥ I console.log("File written!") ¥

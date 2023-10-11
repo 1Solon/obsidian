@@ -1,0 +1,2 @@
+![[Pasted image 20231011152725.png]]
+> » We will learn how to make a web server with the HTTP module in Node.js « HTTP resides on the application layer of the internet protocol suite. » This is the layer users interact with using a website’s front-end. » Node.js allows us to serve web pages using the http module. * Let’s see how a simple server can be made in just a few lines of code. * Run the code ‘node server.js’ » Navigate to http://0.0.0.0:3500

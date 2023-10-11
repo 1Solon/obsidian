@@ -40,12 +40,24 @@
             }
           },
           {
-            "id": "65356dcd78578f22",
+            "id": "daba4db599bc3a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Node.js Handling Errors.md",
+                "file": "Definitions/Node.js Package.json.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2ed55a9cb1ba239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Node.js Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Node.js Handling Errors.md",
+                "file": "Definitions/Node.js Package.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Node.js Handling Errors.md",
+                "file": "Definitions/Node.js Package.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,44 +180,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "65356dcd78578f22",
+  "active": "daba4db599bc3a09",
   "lastOpenFiles": [
-    "Images/Pasted image 20231011151930.png",
+    "Images/Pasted image 20231011152833.png",
     "Definitions/Node.js.md",
+    "Definitions/Node.js Package.json.md",
+    "Definitions/Node.js Packages.md",
+    "Images/Pasted image 20231011152808.png",
+    "Images/Pasted image 20231011152754.png",
+    "Definitions/Node.js Core Modules.md",
+    "Definitions/Node.js Core Modules - HTTP.md",
+    "Images/Pasted image 20231011152725.png",
+    "Definitions/Node.js Core Modules - OS.md",
+    "Images/Pasted image 20231011152702.png",
+    "Definitions/Node.js Modules.md",
+    "Images/Pasted image 20231011152623.png",
+    "Images/Pasted image 20231011152558.png",
+    "Definitions/Node.js File System.md",
+    "Definitions/Node.js File System - Writing Files.md",
+    "Images/Pasted image 20231011152506.png",
+    "Definitions/Node.js File System - Reading Files.md",
+    "Images/Pasted image 20231011152428.png",
+    "Images/Pasted image 20231011152409.png",
+    "Images/Pasted image 20231011152333.png",
+    "Definitions/Node.js Global Objects.md",
     "Definitions/Node.js Handling Errors.md",
     "Definitions/Node.js Event Driven Once.md",
-    "Images/Pasted image 20231011151845.png",
-    "Images/Pasted image 20231011151839.png",
     "Definitions/Node.js Event Driven Architecture.md",
-    "Images/Pasted image 20231011151756.png",
-    "Images/Pasted image 20231011151751.png",
     "Definitions/Node.js Async.md",
-    "Images/Pasted image 20231011151717.png",
     "Definitions/Node.js controller.md",
     "Definitions/Node.js view.md",
     "Definitions/Node.js Concurrency.md",
-    "Images/Pasted image 20231011151644.png",
-    "Images/Pasted image 20231011151629.png",
     "Definitions/Why Not Node.js.md",
-    "Images/Pasted image 20231011151339.png",
     "Definitions/Why Node.js.md",
-    "Images/Pasted image 20231011151300.png",
-    "Images/Pasted image 20231011151256.png",
     "Web Applications Architectures/Web Applications Architectures Lecture 4.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Web Applications Architectures/Web Applications Architectures Module Assessment.md",
-    "Advanced Databases/Advanced Databases Lecture 3.md",
-    "Web Development Lectures/WebDev Lecture 3.md",
-    "Web Development Lectures/WebDev Lecture 2.md",
-    "Software Design/Software Design Lecture 1.md",
-    "Databases 2/Databases 2 Lecture 2.md",
-    "Databases 2/Databases 2 Lecture 3.md",
-    "Definitions/SQL Program Structure.md",
-    "Definitions/SQL Application Layers.md",
-    "Databases 2/Databases 2 Lecture 4.md",
-    "Programming Paradigms/Programming Paradigms Lecture 2.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
