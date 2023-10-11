@@ -40,12 +40,12 @@
             }
           },
           {
-            "id": "acd784594399326a",
+            "id": "65356dcd78578f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Why Not Node.js.md",
+                "file": "Definitions/Node.js Handling Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Why Not Node.js.md",
+                "file": "Definitions/Node.js Handling Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Why Not Node.js.md",
+                "file": "Definitions/Node.js Handling Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +168,26 @@
       "templates:Insert template": false
     }
   },
-  "active": "acd784594399326a",
+  "active": "65356dcd78578f22",
   "lastOpenFiles": [
-    "Images/Pasted image 20231011151339.png",
+    "Images/Pasted image 20231011151930.png",
     "Definitions/Node.js.md",
+    "Definitions/Node.js Handling Errors.md",
+    "Definitions/Node.js Event Driven Once.md",
+    "Images/Pasted image 20231011151845.png",
+    "Images/Pasted image 20231011151839.png",
+    "Definitions/Node.js Event Driven Architecture.md",
+    "Images/Pasted image 20231011151756.png",
+    "Images/Pasted image 20231011151751.png",
+    "Definitions/Node.js Async.md",
+    "Images/Pasted image 20231011151717.png",
+    "Definitions/Node.js controller.md",
+    "Definitions/Node.js view.md",
+    "Definitions/Node.js Concurrency.md",
+    "Images/Pasted image 20231011151644.png",
+    "Images/Pasted image 20231011151629.png",
     "Definitions/Why Not Node.js.md",
+    "Images/Pasted image 20231011151339.png",
     "Definitions/Why Node.js.md",
     "Images/Pasted image 20231011151300.png",
     "Images/Pasted image 20231011151256.png",
@@ -191,21 +206,6 @@
     "Definitions/SQL Application Layers.md",
     "Databases 2/Databases 2 Lecture 4.md",
     "Programming Paradigms/Programming Paradigms Lecture 2.md",
-    "Programming Paradigms/Memory Management.md",
-    "Programming Paradigms/Cheney's Algorithm.md",
-    "Images/Pasted image 20231006112439.png",
-    "Programming Paradigms/Mark and Copy.md",
-    "Images/Pasted image 20231006112351.png",
-    "Programming Paradigms/Mark and Sweep.md",
-    "Images/Pasted image 20231006112256.png",
-    "Programming Paradigms/Garbage Collection.md",
-    "Images/Pasted image 20231006112128.png",
-    "Programming Paradigms/Pointers.md",
-    "Programming Paradigms/Locks and Keys.md",
-    "Images/Pasted image 20231006112009.png",
-    "Images/Pasted image 20231006111645.png",
-    "Images/Pasted image 20231006111515.png",
-    "Images/Pasted image 20231006111506.png",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

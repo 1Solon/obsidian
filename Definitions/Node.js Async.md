@@ -1,0 +1,2 @@
+![[Pasted image 20231011151717.png]]
+> * You do not need to wait or block for an action to be executed, instead, you can just ask the OS to work on it and call you back when it’'s done processing. + It allows a single server to handle multiple clients at once. * Node.js processes code sequentially.

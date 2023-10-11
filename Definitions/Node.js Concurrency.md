@@ -1,0 +1,5 @@
+![[Pasted image 20231011151629.png]]
+> » Node.js provides us with several APIs that allow us to make asynchronous calls. + Node js uses an event loop. The event loop is initialized when Node js -— top runs. It can perform otherwise blocking operations in a non-blocking » The event queue stores incoming events in an orderly fashion. It then passes those events one-by-one to the event loop.
+
+![[Pasted image 20231011151644.png]]
+> » The event loop is a fundamental part of Node.js and is the secret to its efficiency. » However, Node.js is still limited by the amount of processing power it can harness. « Complex programs that require a lot of processing significantly can slow things down. « While Node.js can handle asynchronous I/O functions with ease, it is not suitable for compute-intensive applications like machine learning. » Hence, it is essential to weigh the pros and cons before choosing a framework or a runtime environment.
