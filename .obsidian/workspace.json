@@ -14,57 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "c56aeb1be8e0a96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55f1149f3f57921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Node.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daba4db599bc3a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Node.js Package.json.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2ed55a9cb1ba239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Node.js Packages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointers",
+                "query": "programming parad",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -130,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Node.js Package.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Node.js Package.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +129,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "daba4db599bc3a09",
+  "active": "6cde92b63a557055",
   "lastOpenFiles": [
+    "Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "Definitions/Node.js Package.json.md",
     "Images/Pasted image 20231011152833.png",
     "Definitions/Node.js.md",
-    "Definitions/Node.js Package.json.md",
     "Definitions/Node.js Packages.md",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
@@ -202,7 +152,6 @@
     "Definitions/Node.js File System - Reading Files.md",
     "Images/Pasted image 20231011152428.png",
     "Images/Pasted image 20231011152409.png",
-    "Images/Pasted image 20231011152333.png",
     "Definitions/Node.js Global Objects.md",
     "Definitions/Node.js Handling Errors.md",
     "Definitions/Node.js Event Driven Once.md",
