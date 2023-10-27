@@ -11,8 +11,12 @@
             "id": "6cde92b63a557055",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Paradigms/Programming Paradigms Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
