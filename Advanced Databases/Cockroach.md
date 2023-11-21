@@ -17,4 +17,5 @@
 * Deployable on all cloud services
 * Started development 10 years ago in 2014
 * Can be run locally, not just cloud service
+* By default it takes five minutes to determine if a cluster is dead
 * 
