@@ -135,12 +135,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "6b58fe4931ecb978",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
-    "Advanced Databases/In-memory-db.md",
-    "Advanced Databases/Aerospike & Scylla.md",
-    "Advanced Databases/Presentations.md",
     "Advanced Databases/Cockroach.md",
+    "Advanced Databases/In-memory-db.md",
+    "Advanced Databases/Presentations.md",
+    "Advanced Databases/Aerospike & Scylla.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
