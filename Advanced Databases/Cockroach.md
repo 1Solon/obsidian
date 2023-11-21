@@ -20,4 +20,5 @@
 * By default it takes five minutes to determine if a cluster is dead
 * Serverless, cannot create nodes
 * Dedicated, create nodes, not as fast
+* Don't support triggers
 * 
