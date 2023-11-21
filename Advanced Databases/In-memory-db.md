@@ -20,7 +20,7 @@
 * TimesTen XE offers a cut-down service ??? `What is the benifit?`
 * Setup seems very complicated
 * TTISQL used to connect
-* Seems to use standard SQL? ??? `What version of SQL does it support?`
+* TT Seems to use standard SQL? ??? `What version of SQL does it support?`
 * Hybrid databases use disk and ram elements
 * Supports structured and unstructured data
 * Useful in scenarios where rapid access is desired but large storage is also desired
