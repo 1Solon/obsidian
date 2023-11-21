@@ -24,4 +24,6 @@
 * Hybrid databases use disk and ram elements
 * Supports structured and unstructured data
 * Useful in scenarios where rapid access is desired but large storage is also desired
+* PostgreSQL offers hybrid functionality
+* PostgreSQL formed out of IngreSQL hence "post gres"
 * 
