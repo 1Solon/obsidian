@@ -15,4 +15,5 @@
 * Two big releases every year
 * Open source? (seems to be on Git)
 * Deployable on all cloud services
+* Started development 10 years ago in 2014
 * 
