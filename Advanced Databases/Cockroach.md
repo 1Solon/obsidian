@@ -21,4 +21,5 @@
 * Serverless, cannot create nodes
 * Dedicated, create nodes, not as fast
 * Don't support triggers
+* Only partial support for SQL standards
 * 
