@@ -3,4 +3,5 @@
 * Supports Restful interaction with the database
 * Highly independent, nodes can fail and the system will continue to function
 * All about performance, focusing on quick data access
+* Dynamic load balancer stuff
 * 
