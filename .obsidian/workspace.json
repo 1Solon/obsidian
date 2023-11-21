@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "Advanced Databases/Aerospike & Scylla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "Advanced Databases/Aerospike & Scylla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "Advanced Databases/Aerospike & Scylla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +137,9 @@
   },
   "active": "6b58fe4931ecb978",
   "lastOpenFiles": [
-    "Advanced Databases/Presentations.md",
     "Advanced Databases/In-memory-db.md",
+    "Advanced Databases/Aerospike & Scylla.md",
+    "Advanced Databases/Presentations.md",
     "Advanced Databases/Cockroach.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
@@ -172,7 +173,6 @@
     "Definitions/Node.js view.md",
     "Definitions/Node.js Concurrency.md",
     "Definitions/Why Not Node.js.md",
-    "Definitions/Why Node.js.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
