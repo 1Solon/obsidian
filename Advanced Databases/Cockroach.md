@@ -3,7 +3,7 @@
 * Strongly consistent, scalability, fault tolerance
 * Scalability is handled by horizontal scaling
 * Very fast to scale nodes
-* Consistency is handled by a consensus algorithm called "graph"
+* Consistency is handled by a consensus algorithm called "raft"
 * "Makes sure consistency, rebalance nodes if failure (replica)"
 * Offers automatic shading and rebalancing
 * Latency are based on "sysbench" by "tpc"
