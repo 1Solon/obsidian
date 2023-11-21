@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Presentations.md",
+                "file": "Advanced Databases/Cockroach.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/Presentations.md",
+                "file": "Advanced Databases/Cockroach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/Presentations.md",
+                "file": "Advanced Databases/Cockroach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +137,8 @@
   },
   "active": "6b58fe4931ecb978",
   "lastOpenFiles": [
-    "Advanced Databases/Cockroach.md",
     "Advanced Databases/Presentations.md",
+    "Advanced Databases/Cockroach.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",

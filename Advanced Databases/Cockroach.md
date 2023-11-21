@@ -1,3 +1,18 @@
-* 22-23 minutes per presentation
-
+*  Designed for resilience
+* Released in 2017, former google staff
+* Strongly consistent, scalability, fault tolerance
+* Scalability is handled by horizontal scaling
+* Very fast to scale nodes
+* Consistency is handled by a consensus algorithm called "graph"
+* "Makes sure consistency, rebalance nodes if failure (replica)"
+* Offers automatic shading and rebalancing
+* Latency are based on "sysbench" by "tpc"
+* "Secondary indexes by standard"
+* "Robust monitoring features- dashboard"
+* "If outage, cluster-log will be sent"
+* "Node map is a visualisation of multi-region nodes"
+* Highly scalable, high availability
+* Two big releases every year
+* Open source? (seems to be on Git)
+* Deployable on all cloud services
 * 
