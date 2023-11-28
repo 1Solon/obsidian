@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
+                "file": "Advanced Databases/Presentations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ce089dd32bd9425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Databases/BlockchainDB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
+                "file": "Advanced Databases/BlockchainDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
+                "file": "Advanced Databases/BlockchainDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +148,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "6b58fe4931ecb978",
+  "active": "8ce089dd32bd9425",
   "lastOpenFiles": [
+    "Advanced Databases/Presentations.md",
+    "Advanced Databases/BlockchainDB.md",
+    "Advanced Databases/Advanced Databases Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Advanced Databases/Aerospike & Scylla.md",
     "Advanced Databases/Cockroach.md",
     "Advanced Databases/In-memory-db.md",
-    "Advanced Databases/Presentations.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
     "Definitions/Node.js Package.json.md",
@@ -171,8 +186,6 @@
     "Definitions/Node.js Async.md",
     "Definitions/Node.js controller.md",
     "Definitions/Node.js view.md",
-    "Definitions/Node.js Concurrency.md",
-    "Definitions/Why Not Node.js.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",
