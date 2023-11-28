@@ -4,7 +4,7 @@
 * Streamlining audits, data auditing, supply chain management, easy analysis of decentralised blockchains -> example use cases
 
 * v 19.10 of oracleDB introduced
-* Long, some time types, xml are unsupprted
+* Long, some time types, xml are unsupported
 * Some tables do not allow for deletes
 * Amazon QLDB (alternative)
 * 
