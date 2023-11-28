@@ -5,4 +5,6 @@
 
 * v 19.10 of oracleDB introduced
 * Long, some time types, xml are unsupprted
+* Some tables do not allow for deletes
+* Amazon QLDB (alternative)
 * 
