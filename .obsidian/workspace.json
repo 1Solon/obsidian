@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Aerospike & Scylla.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programming parad",
+                "query": "programming paradigm exam",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/Aerospike & Scylla.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/Aerospike & Scylla.md",
+                "file": "Advanced Databases/Advanced Databases Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,15 +135,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "6b58fe4931ecb978",
   "lastOpenFiles": [
+    "Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "Advanced Databases/Aerospike & Scylla.md",
     "Advanced Databases/Cockroach.md",
     "Advanced Databases/In-memory-db.md",
     "Advanced Databases/Presentations.md",
-    "Advanced Databases/Aerospike & Scylla.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
-    "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Definitions/Node.js Package.json.md",
     "Images/Pasted image 20231011152833.png",
     "Definitions/Node.js.md",
