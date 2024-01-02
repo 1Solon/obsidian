@@ -8,6 +8,13 @@
 * Infinite list (append more) 
 * Text clear button
 
+**Image example:**
+![[Pasted image 20240102154741.png]]
+
+* Loading indicators
+* Filmstrip (swipe navigation)
+* Clear Text Button (Erase all text in a box)
+
 ## From other notes:
 ![[Pasted image 20240102154246.png]]
 > For EASY USE: * Optimize the most common interaction sequences * Eliminate or reduce typing . e.g. type = email on forms, a mobile browser will add ‘@’ “.com’ on main keyboard . hints and auto-complete (AJAX, browser cache...) * Reduce the number of taps . reduce the number of steps to complete tasks

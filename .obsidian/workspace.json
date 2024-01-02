@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Bootstrap Mobile First.md",
+                "file": "Definitions/Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8b317e77b584c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Bootstrap Grid System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0af77921cb7fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Bootstrap Object Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mobile",
+                "query": "Browser object model",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Bootstrap Mobile First.md",
+                "file": "Definitions/Bootstrap Grid System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Bootstrap Mobile First.md",
+                "file": "Definitions/Bootstrap Grid System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,16 +161,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "807d6a829b7b45e1",
+  "active": "e8b317e77b584c20",
   "lastOpenFiles": [
-    "Definitions/Differences between mobile and web apps.md",
+    "Definitions/Bootstrap.md",
+    "Definitions/Bootstrap Object Model.md",
+    "Definitions/Bootstrap Grid System.md",
     "Definitions/Bootstrap Mobile First.md",
     "Definitions/Mobile Interaction Design.md",
+    "Images/Pasted image 20240102154741.png",
+    "Definitions/Differences between mobile and web apps.md",
     "Images/Pasted image 20240102154317.png",
     "Images/Pasted image 20240102154246.png",
     "Definitions/Web App v Native App.md",
     "Definitions/The Challenges of Mobile Interaction Design.md",
-    "Definitions/Bootstrap.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
     "Web Applications Architectures/Bootstrap.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
@@ -166,13 +194,11 @@
     "Web Applications Architectures/First In, First Out (FIFO).md",
     "Web Applications Architectures/Asynchronous.md",
     "Web Applications Architectures/Memcache.md",
-    "Web Applications Architectures/Caching Service.md",
     "Images/Pasted image 20231011152833.png",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
     "Images/Pasted image 20231011152725.png",
     "Images/Pasted image 20231011152702.png",
-    "Images/Pasted image 20231011152623.png",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

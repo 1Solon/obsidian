@@ -1,6 +1,7 @@
 **General Notes:**
 *   [[Starting Bootstrap]]
 *   [[Bootstrap Grid System]]
+* [[Bootstrap Object Model]]
 *   [[Bootstrap Styles]]
 * [[Bootstrap Mobile First]]
 
