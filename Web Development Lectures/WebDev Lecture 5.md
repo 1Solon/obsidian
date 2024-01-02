@@ -1,3 +1,3 @@
 **General Notes:**
 * Continues from [[WebDev Lecture 4]]
-* Mostly covers [[Bootstrap]]
+* Mostly covers [[Definitions/Bootstrap]]

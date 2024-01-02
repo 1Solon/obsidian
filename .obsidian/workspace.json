@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b05d034e6be2ca38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae127575aa7fbde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/API Gateway Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "807d6a829b7b45e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Bootstrap Mobile First.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FIF",
+                "query": "Mobile",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/API Gateway Architecture.md",
+                "file": "Definitions/Bootstrap Mobile First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +103,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/API Gateway Architecture.md",
+                "file": "Definitions/Bootstrap Mobile First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "08d9b555ecc3f9f0",
+            "id": "b6dc7a28678e0e49",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -157,12 +136,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "dae127575aa7fbde",
+  "active": "807d6a829b7b45e1",
   "lastOpenFiles": [
-    "Web Applications Architectures/Application Programming Interface (API).md",
-    "Web Applications Architectures/API Gateway Architecture.md",
-    "Web Applications Architectures/Representational State Transfer (REST).md",
+    "Definitions/Differences between mobile and web apps.md",
+    "Definitions/Bootstrap Mobile First.md",
+    "Definitions/Mobile Interaction Design.md",
+    "Images/Pasted image 20240102154317.png",
+    "Images/Pasted image 20240102154246.png",
+    "Definitions/Web App v Native App.md",
+    "Definitions/The Challenges of Mobile Interaction Design.md",
+    "Definitions/Bootstrap.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "Web Applications Architectures/Bootstrap.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/API Gateway Architecture.md",
+    "Web Applications Architectures/Application Programming Interface (API).md",
+    "Web Applications Architectures/Representational State Transfer (REST).md",
     "Web Applications Architectures/3-Tier Architecture.md",
     "Images/Pasted image 20240102152505.png",
     "Definitions/Client Server Model.md",
@@ -175,26 +165,14 @@
     "Web Applications Architectures/Job Server (Queue).md",
     "Web Applications Architectures/First In, First Out (FIFO).md",
     "Web Applications Architectures/Asynchronous.md",
-    "Web Applications Architectures/Untitled.md",
     "Web Applications Architectures/Memcache.md",
     "Web Applications Architectures/Caching Service.md",
-    "Web Applications Architectures/Redis.md",
-    "Web Applications Architectures/Databases.md",
-    "Web Applications Architectures/CRUD.md",
-    "Web Applications Architectures/NoSQL.md",
-    "Web Applications Architectures/SQL.md",
-    "Web Applications Architectures/Load Balancer Definition.md",
-    "Web Applications Architectures/Scaling.md",
-    "Web Applications Architectures/Horizontal.md",
-    "Web Applications Architectures/Vertical.md",
     "Images/Pasted image 20231011152833.png",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
     "Images/Pasted image 20231011152725.png",
     "Images/Pasted image 20231011152702.png",
     "Images/Pasted image 20231011152623.png",
-    "Images/Pasted image 20231011152558.png",
-    "Images/Pasted image 20231011152506.png",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

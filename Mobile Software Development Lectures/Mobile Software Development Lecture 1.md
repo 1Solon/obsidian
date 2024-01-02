@@ -2,7 +2,7 @@
 * [[Mobile Software Development Exam]]
 * [[Mobile Software Development Schedule]]
 * [[Differences between mobile and web apps]]
-* [[Mobile Interaction Design Patterns]]
+* [[Mobile Interaction Design]]
 * [[Programming Language Overview]]
 * [[Java Overview]]
 * [[Java Casting]]
