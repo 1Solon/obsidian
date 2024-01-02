@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "livePreview": true
 }

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59c2a567b0f7356b",
+        "id": "3e4d56d01e3abddb",
         "type": "tabs",
         "children": [
           {
-            "id": "6b58fe4931ecb978",
+            "id": "b05d034e6be2ca38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/Presentations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ce089dd32bd9425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Databases/BlockchainDB.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/BlockchainDB.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/BlockchainDB.md",
+                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +135,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "8ce089dd32bd9425",
+  "active": "b05d034e6be2ca38",
   "lastOpenFiles": [
-    "Advanced Databases/Presentations.md",
     "Advanced Databases/BlockchainDB.md",
+    "Advanced Databases/Presentations.md",
     "Advanced Databases/Advanced Databases Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
     "Advanced Databases/Aerospike & Scylla.md",
