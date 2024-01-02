@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "807d6a829b7b45e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -151,14 +159,16 @@
   },
   "active": "e04f9cb44e5f7c00",
   "lastOpenFiles": [
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/Asynchronous.md",
+    "Web Applications Architectures/Untitled.md",
+    "Web Applications Architectures/First In, First Out.md",
     "Web Applications Architectures/Job Server (Queue).md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Web Applications Architectures/Memcache.md",
     "Web Applications Architectures/Caching Service.md",
     "Web Applications Architectures/Redis.md",
     "Web Applications Architectures/Databases.md",
     "Web Applications Architectures/CRUD.md",
-    "Web Applications Architectures/Untitled.md",
     "Web Applications Architectures/NoSQL.md",
     "Web Applications Architectures/SQL.md",
     "Web Applications Architectures/Load Balancer Definition.md",
@@ -175,8 +185,6 @@
     "Advanced Databases/Aerospike & Scylla.md",
     "Advanced Databases/Cockroach.md",
     "Advanced Databases/In-memory-db.md",
-    "Programming Paradigms/Programming Paradigms Lecture 6.md",
-    "Advanced Databases/Advanced Databases Lecture 4.md",
     "Images/Pasted image 20231011152833.png",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
