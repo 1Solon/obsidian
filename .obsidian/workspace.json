@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "c3238d0e249d902c",
+            "id": "e04f9cb44e5f7c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Database Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f414126b42906440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e751c18eba5c1e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Applications Architectures/NoSQL.md",
+                "file": "Web Applications Architectures/Job Server (Queue).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programming paradigm exam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -102,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/CRUD.md",
+                "file": "Web Applications Architectures/Job Server (Queue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/CRUD.md",
+                "file": "Web Applications Architectures/Job Server (Queue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +149,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "f414126b42906440",
+  "active": "e04f9cb44e5f7c00",
   "lastOpenFiles": [
-    "Web Applications Architectures/Database Definition.md",
-    "Web Applications Architectures/CRUD.md",
     "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/Job Server (Queue).md",
+    "Web Applications Architectures/Memcache.md",
+    "Web Applications Architectures/Caching Service.md",
+    "Web Applications Architectures/Redis.md",
+    "Web Applications Architectures/Databases.md",
+    "Web Applications Architectures/CRUD.md",
+    "Web Applications Architectures/Untitled.md",
     "Web Applications Architectures/NoSQL.md",
     "Web Applications Architectures/SQL.md",
     "Web Applications Architectures/Load Balancer Definition.md",
@@ -195,14 +177,9 @@
     "Advanced Databases/In-memory-db.md",
     "Programming Paradigms/Programming Paradigms Lecture 6.md",
     "Advanced Databases/Advanced Databases Lecture 4.md",
-    "Definitions/Node.js Package.json.md",
     "Images/Pasted image 20231011152833.png",
-    "Definitions/Node.js.md",
-    "Definitions/Node.js Packages.md",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
-    "Definitions/Node.js Core Modules.md",
-    "Definitions/Node.js Core Modules - HTTP.md",
     "Images/Pasted image 20231011152725.png",
     "Images/Pasted image 20231011152702.png",
     "Images/Pasted image 20231011152623.png",
