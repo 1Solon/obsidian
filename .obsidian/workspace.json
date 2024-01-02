@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3238d0e249d902c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/Database Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f414126b42906440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/CRUD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e751c18eba5c1e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/NoSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+                "file": "Web Applications Architectures/CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+                "file": "Web Applications Architectures/CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +172,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "b05d034e6be2ca38",
+  "active": "f414126b42906440",
   "lastOpenFiles": [
+    "Web Applications Architectures/Database Definition.md",
+    "Web Applications Architectures/CRUD.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/NoSQL.md",
+    "Web Applications Architectures/SQL.md",
+    "Web Applications Architectures/Load Balancer Definition.md",
+    "Web Applications Architectures/Scaling.md",
+    "Web Applications Architectures/Horizontal.md",
+    "Web Applications Architectures/Vertical.md",
+    "Definitions/Importance of Architecture.md",
+    "Definitions/Web App Definition.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "Advanced Databases/BlockchainDB.md",
     "Advanced Databases/Presentations.md",
     "Advanced Databases/Advanced Databases Lecture 1.md",
@@ -155,24 +204,12 @@
     "Definitions/Node.js Core Modules.md",
     "Definitions/Node.js Core Modules - HTTP.md",
     "Images/Pasted image 20231011152725.png",
-    "Definitions/Node.js Core Modules - OS.md",
     "Images/Pasted image 20231011152702.png",
-    "Definitions/Node.js Modules.md",
     "Images/Pasted image 20231011152623.png",
     "Images/Pasted image 20231011152558.png",
-    "Definitions/Node.js File System.md",
-    "Definitions/Node.js File System - Writing Files.md",
     "Images/Pasted image 20231011152506.png",
-    "Definitions/Node.js File System - Reading Files.md",
     "Images/Pasted image 20231011152428.png",
     "Images/Pasted image 20231011152409.png",
-    "Definitions/Node.js Global Objects.md",
-    "Definitions/Node.js Handling Errors.md",
-    "Definitions/Node.js Event Driven Once.md",
-    "Definitions/Node.js Event Driven Architecture.md",
-    "Definitions/Node.js Async.md",
-    "Definitions/Node.js controller.md",
-    "Definitions/Node.js view.md",
     "Software Design",
     "Advanced Databases",
     "Programming Paradigms",

@@ -1,0 +1,1 @@
+Vertical Scaling is servers, either as containers or as discreet services, are scaled on a single machine.

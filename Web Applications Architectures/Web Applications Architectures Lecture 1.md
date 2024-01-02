@@ -16,4 +16,6 @@
 
 * [[Importance of Architecture]]
 
-* 
+* [[Load Balancer Definition]]
+
+* [[Database Definition]]
