@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "e04f9cb44e5f7c00",
+            "id": "cf973c525cdb348e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications Architectures/Job Server (Queue).md",
+                "file": "Web Applications Architectures/Data Streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e40f04a6351e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications Architectures/Data Warehouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Data Warehouse",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications Architectures/Job Server (Queue).md",
+                "file": "Web Applications Architectures/Data Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications Architectures/Job Server (Queue).md",
+                "file": "Web Applications Architectures/Data Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,13 +169,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "e04f9cb44e5f7c00",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
+    "Web Applications Architectures/Data Streams.md",
+    "Web Applications Architectures/Data Warehouse.md",
+    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "Web Applications Architectures/Services.md",
+    "Web Applications Architectures/Job Server (Queue).md",
+    "Web Applications Architectures/First In, First Out.md",
     "Web Applications Architectures/Asynchronous.md",
     "Web Applications Architectures/Untitled.md",
-    "Web Applications Architectures/First In, First Out.md",
-    "Web Applications Architectures/Job Server (Queue).md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Web Applications Architectures/Memcache.md",
     "Web Applications Architectures/Caching Service.md",
     "Web Applications Architectures/Redis.md",
@@ -182,9 +197,6 @@
     "Advanced Databases/Presentations.md",
     "Advanced Databases/Advanced Databases Lecture 1.md",
     "Programming Paradigms/Programming Paradigms Lecture 1.md",
-    "Advanced Databases/Aerospike & Scylla.md",
-    "Advanced Databases/Cockroach.md",
-    "Advanced Databases/In-memory-db.md",
     "Images/Pasted image 20231011152833.png",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
