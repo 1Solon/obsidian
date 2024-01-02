@@ -3,4 +3,4 @@
 
 # Types of Layer
 ---
-* [[3-Tier Layer]]
+* [[3-Tier Architecture]]

@@ -18,3 +18,6 @@ kept secure
 * [[Sockets]]
 * [[ipv4 header]]
 * [[Type of Service in RFC791]]
+
+## Visual Diagram:
+![[Pasted image 20240102152353.png]]

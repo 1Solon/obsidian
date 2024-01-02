@@ -1,0 +1,1 @@
+The [[REST]] [[API]] acts as a gateway, or a single-entry point into the system.
