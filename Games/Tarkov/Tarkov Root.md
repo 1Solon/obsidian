@@ -8,6 +8,7 @@
 
 * [[Maps]]
 * [[Ammo]]
+* [[Earpieces]]
 
 # Current Quest Items
 
