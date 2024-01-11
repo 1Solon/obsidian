@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/036eb6152e2e598d225624d612e4581e.json","text":"var person = new Object(); person.firstname = \"John\"; person.lastname = \"Doe\"; person.age = 50; person.eyecolor = \"blue\";","libVersion":"0.2.2","langs":"eng"}

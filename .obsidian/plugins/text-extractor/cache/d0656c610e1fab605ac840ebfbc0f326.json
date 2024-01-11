@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/d0656c610e1fab605ac840ebfbc0f326.json","text":"stages { stage('Build program') { steps { sh \"make’ } } stage('Test program') { steps { sh 'make run_tests' } } }","libVersion":"0.2.2","langs":"eng"}

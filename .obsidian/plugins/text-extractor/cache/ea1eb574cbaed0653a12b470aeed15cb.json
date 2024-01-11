@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/ea1eb574cbaed0653a12b470aeed15cb.json","text":"function myFunction(){ varx=5; document.getElementByld(\"demo\").innerHTML = x == \"5\"; //returns true }","libVersion":"0.2.2","langs":"eng"}

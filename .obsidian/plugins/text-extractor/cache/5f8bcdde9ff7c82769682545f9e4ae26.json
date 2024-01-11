@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/5f8bcdde9ff7c82769682545f9e4ae26.json","text":"#!/bin/bash ' count_to=100 v=1 until [ $v -gt $count_to ]; do echo $v let v++ done","libVersion":"0.2.2","langs":"eng"}

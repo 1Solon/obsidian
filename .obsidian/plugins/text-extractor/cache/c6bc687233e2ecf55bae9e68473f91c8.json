@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/c6bc687233e2ecf55bae9e68473f91c8.json","text":"* Hard to manage and leads to code duplication 1lcls 2 PRINT \"I can draw Stars\" 4 INPUT \"How many stars do you want draw: \", N S5For I=1TON 6 PRINT “*\" 7 Next |","libVersion":"0.2.2","langs":"eng"}

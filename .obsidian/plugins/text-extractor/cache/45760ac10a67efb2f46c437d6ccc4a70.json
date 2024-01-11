@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/45760ac10a67efb2f46c437d6ccc4a70.json","text":"var message = \"Hello world!\"; var x = message.toUpperCase(); // returns HELLO WORLD!","libVersion":"0.2.2","langs":"eng"}

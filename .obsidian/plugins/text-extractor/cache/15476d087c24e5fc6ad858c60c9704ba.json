@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/15476d087c24e5fc6ad858c60c9704ba.json","text":"Encapsulation Radius is a private public class Circle { member variable and can only be private int radius; fﬁzerfeetf‘;:r:ugh provided. public int getRadius() { return radius; } public void setRadius(int new_radius) { radius = new_radius; } }","libVersion":"0.2.2","langs":"eng"}

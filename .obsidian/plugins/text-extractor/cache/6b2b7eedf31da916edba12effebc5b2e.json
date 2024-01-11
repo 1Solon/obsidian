@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/6b2b7eedf31da916edba12effebc5b2e.json","text":"let sum = 0; [1, 2, 3, 4, 5].forEach((n) => sum += n); console.log(sum); // 15","libVersion":"0.2.2","langs":"eng"}

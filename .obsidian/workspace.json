@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4d56d01e3abddb",
+        "id": "55d91180c3290a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "807d6a829b7b45e1",
+            "id": "7a0a2d87e48840ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Bootstrap.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "581868ce356597c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Tarkov/Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1025c8e3ec6461c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Tarkov/Reserve.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Browser object model",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Bootstrap.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Bootstrap.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,49 +160,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "807d6a829b7b45e1",
+  "active": "1025c8e3ec6461c8",
   "lastOpenFiles": [
-    "Definitions/Bootstrap Grid System.md",
+    "Images/Pasted image 20240111163007.png",
+    "Images/Pasted image 20240111162925.png",
+    "Games/Tarkov/Maps.md",
+    "Games/Tarkov/Reserve.md",
+    "Games/Tarkov/Tarkov Root.md",
+    "Games/Tarkov",
+    "README.md",
+    "College/Network Programming Lectures/NetProg Lecture 1.md",
+    "College/Definitions/Java Increment Opertators.md",
+    "College/Definitions/Java Pre and Post fix eg increment or decrement.md",
+    "College/Databases 2/Databases 2 Lecture 2.md",
+    "Games",
+    "College/Definitions/Software as a service (SaaS).md",
+    "College/Cloud Computing Lectures/Cloud Computing Lecture 2.md",
+    "College",
+    "College/Definitions/Bootstrap.md",
+    "College/Definitions/Bootstrap Grid System.md",
     "Images/Pasted image 20240102155318.png",
-    "Definitions/Bootstrap.md",
-    "Definitions/Bootstrap Object Model.md",
-    "Definitions/Bootstrap Mobile First.md",
-    "Definitions/Mobile Interaction Design.md",
+    "College/Definitions/Bootstrap Object Model.md",
+    "College/Definitions/Bootstrap Mobile First.md",
+    "College/Definitions/Mobile Interaction Design.md",
     "Images/Pasted image 20240102154741.png",
-    "Definitions/Differences between mobile and web apps.md",
+    "College/Definitions/Differences between mobile and web apps.md",
     "Images/Pasted image 20240102154317.png",
     "Images/Pasted image 20240102154246.png",
-    "Definitions/Web App v Native App.md",
-    "Definitions/The Challenges of Mobile Interaction Design.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "College/Definitions/Web App v Native App.md",
+    "College/Definitions/The Challenges of Mobile Interaction Design.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 3.md",
     "Web Applications Architectures/Bootstrap.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 2.md",
-    "Web Applications Architectures/Web Applications Architectures Lecture 1.md",
-    "Web Applications Architectures/API Gateway Architecture.md",
-    "Web Applications Architectures/Application Programming Interface (API).md",
-    "Web Applications Architectures/Representational State Transfer (REST).md",
-    "Web Applications Architectures/3-Tier Architecture.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "College/Web Applications Architectures/API Gateway Architecture.md",
+    "College/Web Applications Architectures/Application Programming Interface (API).md",
+    "College/Web Applications Architectures/Representational State Transfer (REST).md",
     "Images/Pasted image 20240102152505.png",
-    "Definitions/Client Server Model.md",
     "Images/Pasted image 20240102152353.png",
-    "Web Applications Architectures/Content Delivery Network (CDN).md",
-    "Web Applications Architectures/Cloud.md",
-    "Web Applications Architectures/Data Streams.md",
-    "Web Applications Architectures/Data Warehouse.md",
-    "Web Applications Architectures/Services.md",
-    "Web Applications Architectures/Job Server (Queue).md",
-    "Web Applications Architectures/First In, First Out (FIFO).md",
-    "Web Applications Architectures/Asynchronous.md",
     "Images/Pasted image 20231011152833.png",
     "Images/Pasted image 20231011152808.png",
     "Images/Pasted image 20231011152754.png",
-    "Images/Pasted image 20231011152725.png",
-    "Software Design",
-    "Advanced Databases",
-    "Programming Paradigms",
+    "College/Software Design",
+    "College/Advanced Databases",
+    "College/Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Web Applications Architectures",
-    "Scientific Research & Literature"
+    "College/Web Applications Architectures",
+    "College/Scientific Research & Literature"
   ]
 }
