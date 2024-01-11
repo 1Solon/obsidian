@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Customs.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1025c8e3ec6461c8",
+            "id": "5e3f683b5adf4d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Reserve.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Customs.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Customs.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +149,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "f112c2606ec85f89",
+  "active": "5e3f683b5adf4d5a",
   "lastOpenFiles": [
-    "Images/Pasted image 20240111163457.png",
     "Games/Tarkov/Reserve.md",
-    "Games/Tarkov/Customs.md",
     "Games/Tarkov/Maps.md",
+    "Games/Tarkov/Customs.md",
+    "Images/Pasted image 20240111163457.png",
     "Images/Pasted image 20240111163007.png",
     "Images/Pasted image 20240111162925.png",
     "Games/Tarkov/Tarkov Root.md",
@@ -187,7 +189,6 @@
     "Images/Pasted image 20240102152505.png",
     "Images/Pasted image 20240102152353.png",
     "Images/Pasted image 20231011152833.png",
-    "Images/Pasted image 20231011152808.png",
     "College/Software Design",
     "College/Advanced Databases",
     "College/Programming Paradigms",
