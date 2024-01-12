@@ -160,10 +160,47 @@
       "templates:Insert template": false
     }
   },
-  "active": "5e3f683b5adf4d5a",
+  "floating": {
+    "id": "3c4da75bc08ae30e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "86ead5dd855c7ee8",
+        "type": "window",
+        "children": [
+          {
+            "id": "28a76f961be19178",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08c4b2eb33ba8569",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Games/Tarkov/Tarkov Root.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -834,
+        "y": 11,
+        "width": 1096,
+        "height": 1216,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "08c4b2eb33ba8569",
   "lastOpenFiles": [
-    "Games/Tarkov/Customs.md",
     "Games/Tarkov/Reserve.md",
+    "Games/Tarkov/Customs.md",
     "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240111222901.png",

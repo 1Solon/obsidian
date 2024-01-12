@@ -12,7 +12,6 @@
 
 # Current Quest Items
 
-* Iskra Ration Packs
 * Cans of Beef Stew (Large)
 * Toilet Paper
 * Toothpaste
