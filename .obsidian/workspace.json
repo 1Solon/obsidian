@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +161,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "5e3f683b5adf4d5a",
+  "active": "f112c2606ec85f89",
   "lastOpenFiles": [
+    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240111222901.png",
-    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Maps.md",
     "Games/Tarkov/Customs.md",
     "Images/Pasted image 20240111163457.png",
