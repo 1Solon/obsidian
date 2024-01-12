@@ -14,7 +14,6 @@
 
 * Iskra Ration Packs
 * Cans of Beef Stew (Large)
-* BNTI Module-3M Body Armour
 * Toilet Paper
 * Toothpaste
 * Corrugated Hose
