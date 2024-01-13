@@ -13,8 +13,5 @@
 # Current Quest Items
 
 * Cans of Beef Stew (Large)
-* Toilet Paper
 * Toothpaste
-* Corrugated Hose
-* Phase Control Relay
 
