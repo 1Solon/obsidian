@@ -9,4 +9,7 @@ Reserve is the primary area for [[Scav]] spawns, it contains much of the useful 
 ![[Pasted image 20240111163007.png]]
 
 
-
+## General Loot Run
+---
+![[Pasted image 20240113180554.png]]
+* Take ORB-1/2/3 keys if possible and hit rooms
