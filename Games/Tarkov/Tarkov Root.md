@@ -10,8 +10,9 @@
 * [[Ammo]]
 * [[Earpieces]]
 
-# Current Quest Items
+# Current Sought Items
 
 * Cans of Beef Stew (Large)
 * Toothpaste
+* Gas Analyzer
 
