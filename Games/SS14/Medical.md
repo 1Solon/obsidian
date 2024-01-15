@@ -4,24 +4,25 @@ Medical involves treating symptoms of problems, and generally healing crew that 
 
 ## Damage Types & Treatments
 ---
-* Brute:
+* **Brute:**
 	* Bicardine 
-	* Bruise Packs
-
-* Burn:
-	* Dermaline
+	* Bruise Packs 
+	
+* **Burn:**
+	* Dermaline 
 	* Ointment
-
-* Toxin (Poison)
+	
+* **Toxin (Poison)**
 	* Dylovene
-
-* Toxin (Radiation)
+	
+* **Toxin (Radiation)**
 	* Hyronalin
 	* Arithrazine
-
-* Bloodloss
+	
+* **Bloodloss**
 	* Dexaline
-
-* Bleeding
+	
+* **Bleeding**
 	* Tranexamic Acid
 	* Gauze
+

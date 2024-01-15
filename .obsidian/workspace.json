@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ffaa00",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "2249468a69f1756d",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
     "Games/SS14/Delta-V.md",
     "Games/SS14/Medical.md",
