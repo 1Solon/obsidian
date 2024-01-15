@@ -5,11 +5,11 @@ Medical involves treating symptoms of problems, and generally healing crew that 
 ## Damage Types & Treatments
 ---
 * **Brute:**
-	* Bicardine 
+	* Bicardine **O: 30u**
 	* Bruise Packs 
 	
 * **Burn:**
-	* Dermaline 
+	* Dermaline **O: 30u**
 	* Ointment
 	
 * **Toxin (Poison)**
