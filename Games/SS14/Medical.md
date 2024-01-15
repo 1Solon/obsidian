@@ -14,6 +14,10 @@ Medical involves treating symptoms of problems, and generally healing crew that 
 	
 * **Toxin (Poison)**
 	* Dylovene
+
+* Airloss
+	* Dexaline
+	* Inaprovaline
 	
 * **Toxin (Radiation)**
 	* Hyronalin
