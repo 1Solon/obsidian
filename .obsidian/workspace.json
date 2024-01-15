@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Reserve.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Reserve.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Reserve.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +174,10 @@
   },
   "active": "cc8edd5550171975",
   "lastOpenFiles": [
+    "Games/Tarkov/Reserve.md",
     "Images/Pasted image 20240113180554.png",
     "Games/Tarkov/Customs.md",
     "Games/Tarkov/Ammo.md",
-    "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240111222901.png",
@@ -212,7 +212,6 @@
     "College/Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "College/Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "Images/Pasted image 20240102152505.png",
-    "Images/Pasted image 20240102152353.png",
     "College/Software Design",
     "College/Advanced Databases",
     "College/Programming Paradigms",
