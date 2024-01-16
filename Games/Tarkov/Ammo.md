@@ -2,6 +2,8 @@
 ---
 This page contains information on which bullets are useful to keep, sorted by their calibre. All information is sourced from [eft ammo](https://www.eft-ammo.com)
 
+* Note: The below tables are sorted from **least pen -> most pen**, I do not tend to keep any ammo that does not pen at least **class 3**
+
 ## 12 Gauge Shot
 ---
 ![[Pasted image 20240116183215.png]]
