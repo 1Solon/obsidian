@@ -12,4 +12,5 @@ This page contains information on which bullets are useful to keep, sorted by th
 |  | 7MM BUCKSHOT | 0.853 | - | 39 | 3 | 415 | 3 | 3 | 3 | 3 | 3 | 3 |  |  |  |  |
 |  | PIRANHA | 0.625 | - | - | - | 310 | 6 | 6 | 5 | 4 | 4 | 4 |  |  |  |  |
 | Subsonic | FLECHETTE | 0.823 | - | - | Never | 320 | 6 | 6 | 6 | 5 | 5 | 5 |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
