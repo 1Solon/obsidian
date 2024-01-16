@@ -11,8 +11,9 @@ This page contains information on which bullets are useful to keep, sorted by th
 ## 12 Gauge Slug
 ---
 ![[Pasted image 20240116183228.png]]
+
 ## 20 Gauge
---- 
+---
 ![[Pasted image 20240116183242.png]]
 ## 23x75mm
 ---
