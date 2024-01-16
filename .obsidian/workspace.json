@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce586bcb4d271220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Tarkov/Earpieces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,18 +160,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "2249468a69f1756d",
+  "active": "ce586bcb4d271220",
   "lastOpenFiles": [
+    "Games/Tarkov/Tarkov Root.md",
+    "Games/SS14/Delta-V.md",
     "Games/Tarkov/Earpieces.md",
     "Games/SS14/Medical.md",
-    "Games/SS14/Delta-V.md",
     "Games/SS14/SS14 Root.md",
     "Games/SS14",
     "Games/Tarkov/Reserve.md",
     "Images/Pasted image 20240113180554.png",
     "Games/Tarkov/Customs.md",
     "Games/Tarkov/Ammo.md",
-    "Games/Tarkov/Tarkov Root.md",
     "Images/Pasted image 20240111222901.png",
     "Games/Tarkov/Maps.md",
     "Images/Pasted image 20240111163457.png",
