@@ -14,5 +14,12 @@
 
 * Cans of Beef Stew (Large)
 * Toothpaste
-* Gas Analyzer
-
+* Light Bulb
+* Fierce Blow Sledgehammer
+* Bottle of Saline
+* Medical Tools
+* Medical Bloodset
+* Dry Fuel
+* Crickent Lighter
+* Car Battery
+* WD-40

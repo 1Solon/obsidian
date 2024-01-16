@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/SS14/Medical.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ffaa00",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/SS14/Medical.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/SS14/Medical.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +148,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "2249468a69f1756d",
   "lastOpenFiles": [
-    "Games/SS14/Delta-V.md",
-    "Games/SS14/Medical.md",
-    "Games/SS14/SS14 Root.md",
     "Games/Tarkov/Earpieces.md",
+    "Games/SS14/Medical.md",
+    "Games/SS14/Delta-V.md",
+    "Games/SS14/SS14 Root.md",
     "Games/SS14",
     "Games/Tarkov/Reserve.md",
     "Images/Pasted image 20240113180554.png",
