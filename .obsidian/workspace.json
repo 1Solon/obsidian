@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "Games/Tarkov/Reserve.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +149,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "2249468a69f1756d",
+  "active": "ce586bcb4d271220",
   "lastOpenFiles": [
-    "Games/Tarkov/Tarkov Root.md",
+    "Games/Tarkov/Reserve.md",
+    "Games/Tarkov/Maps.md",
     "Games/Tarkov/Ammo.md",
+    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240116183641.png",
     "Images/Pasted image 20240116183632.png",
@@ -167,9 +170,7 @@
     "Games/SS14/Medical.md",
     "Games/SS14/SS14 Root.md",
     "Games/SS14",
-    "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Customs.md",
-    "Games/Tarkov/Maps.md",
     "Games/Tarkov",
     "README.md",
     "College/Network Programming Lectures/NetProg Lecture 1.md",

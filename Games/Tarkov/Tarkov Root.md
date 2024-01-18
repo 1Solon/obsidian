@@ -23,3 +23,8 @@
 * Crickent Lighter
 * Car Battery
 * WD-40
+* KENTAPE Duct Tape
+* Corrugated Hose
+* Pack of Screws
+* Electric Drill
+* 
