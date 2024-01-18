@@ -27,4 +27,3 @@
 * Corrugated Hose
 * Pack of Screws
 * Electric Drill
-* 
