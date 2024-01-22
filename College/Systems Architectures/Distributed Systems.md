@@ -26,3 +26,4 @@
 * [[Scalability]]
 * [[Failure Handling]]
 * [[Concurrency]]
+* [[Transparency]]
