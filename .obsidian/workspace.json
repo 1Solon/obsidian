@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9922bfa67a878ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -146,9 +138,11 @@
   },
   "active": "6b58fe4931ecb978",
   "lastOpenFiles": [
-    "College/Systems Architectures/Mobile Code.md",
-    "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures/Architectural Models.md",
+    "College/Systems Architectures/SysArch Lecture 1.md",
+    "College/Definitions/Javascript Overview.md",
+    "College/Definitions/Javascript Usage.md",
+    "College/Systems Architectures/Mobile Code.md",
     "College/Systems Architectures/Thin Clients.md",
     "Images/Pasted image 20240122162936.png",
     "Images/Pasted image 20240122162856.png",
@@ -180,7 +174,6 @@
     "College/Systems Architectures/Operating Systems.md",
     "College/Definitions/find.md",
     "College/Systems Architectures/Von Neumann Architecture.md",
-    "College/Systems Architectures/Von Neumann Memory Subsystem.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",
