@@ -1,4 +1,4 @@
-* 100% CA
+* 100% CA!!
 * Will be swapping lecturers midway
 * Edge Computing, Fog Computing, etc
 * First assignment will be large scale (traditional architecture) design
