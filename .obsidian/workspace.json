@@ -20,15 +20,23 @@
             }
           },
           {
-            "id": "7701eb932367d235",
+            "id": "ea24f95491bdefda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Systems Architectures/Operating Systems.md",
+                "file": "College/Systems Architectures/Distributed Systems.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f9922bfa67a878ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/Operating Systems.md",
+                "file": "College/Systems Architectures/Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/Operating Systems.md",
+                "file": "College/Systems Architectures/Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,10 +157,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "7701eb932367d235",
+  "active": "ea24f95491bdefda",
   "lastOpenFiles": [
+    "Images/Pasted image 20240122152926.png",
+    "Images/Pasted image 20240122152854.png",
+    "Images/Pasted image 20240122152816.png",
+    "Images/Pasted image 20240122152732.png",
     "College/Systems Architectures/SysArch Lecture 1.md",
+    "College/Systems Architectures/Distributed Systems.md",
     "College/Systems Architectures/Operating Systems.md",
+    "College/Definitions/find.md",
     "Images/Pasted image 20240122152030.png",
     "Images/Pasted image 20240122151924.png",
     "Images/Pasted image 20240122151752.png",
@@ -168,9 +182,6 @@
     "conflict-files-obsidian-git.md",
     "Advanced Databases/In-memory-db.md",
     "Images/Pasted image 20240116183641.png",
-    "Images/Pasted image 20240116183632.png",
-    "Images/Pasted image 20240116183624.png",
-    "Images/Pasted image 20240116183617.png",
     "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Earpieces.md",
@@ -188,8 +199,6 @@
     "College/Web Development Lectures/WebDev Lecture 5.md",
     "College/Web Development Lectures/WebDev Lecture 3.md",
     "College/Web Development Lectures/WebDev Lecture 2.md",
-    "College/Software Design/Software Design Lecture 1.md",
-    "College/Web Applications Architectures/What is a layer.md",
     "College/Web Development Lectures",
     "College/Software Design",
     "College/Web Applications Architectures",
