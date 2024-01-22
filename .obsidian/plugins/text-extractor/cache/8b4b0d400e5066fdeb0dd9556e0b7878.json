@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/8b4b0d400e5066fdeb0dd9556e0b7878.json","text":"* Step 1: Create a ServerSocket ServerSocket server = new ServerSocket( portNumber, queuelength ); * Step 2: Wait for a Connection Socket connection = server.accept();","libVersion":"0.2.2","langs":"eng"}

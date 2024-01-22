@@ -1,0 +1,1 @@
+Horizontal scaling is when services, servers or containers are scaled over several machines. Usually in response to load.

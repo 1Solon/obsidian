@@ -11,21 +11,17 @@
             "id": "6b58fe4931ecb978",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Databases/Presentations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "8ce089dd32bd9425",
+            "id": "bd66eb88ef3d7c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Databases/In-memory-db.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,50 +145,55 @@
       "templates:Insert template": false
     }
   },
-  "active": "8ce089dd32bd9425",
+  "active": "08d9b555ecc3f9f0",
   "lastOpenFiles": [
-    "Advanced Databases/BlockchainDB.md",
-    "Advanced Databases/Presentations.md",
-    "Advanced Databases/Advanced Databases Lecture 1.md",
-    "Programming Paradigms/Programming Paradigms Lecture 1.md",
-    "Advanced Databases/Aerospike & Scylla.md",
-    "Advanced Databases/Cockroach.md",
     "Advanced Databases/In-memory-db.md",
-    "Programming Paradigms/Programming Paradigms Lecture 6.md",
-    "Advanced Databases/Advanced Databases Lecture 4.md",
-    "Definitions/Node.js Package.json.md",
-    "Images/Pasted image 20231011152833.png",
-    "Definitions/Node.js.md",
-    "Definitions/Node.js Packages.md",
-    "Images/Pasted image 20231011152808.png",
-    "Images/Pasted image 20231011152754.png",
-    "Definitions/Node.js Core Modules.md",
-    "Definitions/Node.js Core Modules - HTTP.md",
-    "Images/Pasted image 20231011152725.png",
-    "Definitions/Node.js Core Modules - OS.md",
-    "Images/Pasted image 20231011152702.png",
-    "Definitions/Node.js Modules.md",
-    "Images/Pasted image 20231011152623.png",
-    "Images/Pasted image 20231011152558.png",
-    "Definitions/Node.js File System.md",
-    "Definitions/Node.js File System - Writing Files.md",
-    "Images/Pasted image 20231011152506.png",
-    "Definitions/Node.js File System - Reading Files.md",
-    "Images/Pasted image 20231011152428.png",
-    "Images/Pasted image 20231011152409.png",
-    "Definitions/Node.js Global Objects.md",
-    "Definitions/Node.js Handling Errors.md",
-    "Definitions/Node.js Event Driven Once.md",
-    "Definitions/Node.js Event Driven Architecture.md",
-    "Definitions/Node.js Async.md",
-    "Definitions/Node.js controller.md",
-    "Definitions/Node.js view.md",
-    "Software Design",
-    "Advanced Databases",
-    "Programming Paradigms",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20240116183641.png",
+    "Images/Pasted image 20240116183632.png",
+    "Images/Pasted image 20240116183624.png",
+    "Images/Pasted image 20240116183617.png",
+    "Images/Pasted image 20240116183609.png",
+    "Images/Pasted image 20240116183601.png",
+    "Images/Pasted image 20240116183555.png",
+    "Images/Pasted image 20240116183546.png",
+    "Images/Pasted image 20240116183538.png",
+    "Images/Pasted image 20240116183530.png",
+    "Games/Tarkov/Tarkov Root.md",
+    "Games/Tarkov/Reserve.md",
+    "Games/Tarkov/Earpieces.md",
+    "Games/Tarkov/Maps.md",
+    "Games/Tarkov/Customs.md",
+    "Games/Tarkov/Ammo.md",
+    "Games/SS14/SS14 Root.md",
+    "Games/SS14/Medical.md",
+    "Games/SS14/Delta-V.md",
+    "Games/Tarkov",
+    "Games/SS14",
+    "Games",
+    "College/Web Development Lectures/WebDev Lecture 6.md",
+    "College/Web Development Lectures/WebDev Lecture 4.md",
+    "College/Web Development Lectures/WebDev Lecture 5.md",
+    "College/Web Development Lectures/WebDev Lecture 3.md",
+    "College/Web Development Lectures/WebDev Lecture 2.md",
+    "College/Software Design/Software Design Lecture 1.md",
+    "College/Web Applications Architectures/What is a layer.md",
+    "College/Web Applications Architectures/Web Applications Architectures Module Assessment.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 4.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 3.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 2.md",
+    "College/Web Applications Architectures/Web Applications Architectures Lecture 1.md",
+    "College/Web Applications Architectures/Vertical.md",
+    "College/Web Applications Architectures/Types of Layered Pattern.md",
+    "College/Web Applications Architectures/SQL.md",
+    "College/Web Development Lectures",
+    "College/Software Design",
+    "College/Web Applications Architectures",
+    "College/Programming Paradigms",
+    "College/Scientific Research & Literature",
+    "College/Mobile Software Development Lectures",
+    "College/Definitions",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Web Applications Architectures",
-    "Scientific Research & Literature"
+    "Untitled.canvas"
   ]
 }

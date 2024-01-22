@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/576211429f3190072e62523e898e0726.json","text":"name=$(whoami) echo “Hello, $name!”","libVersion":"0.2.2","langs":"eng"}

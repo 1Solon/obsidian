@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/0a10eaa03d8ffc024346957389d24b81.json","text":"#!/bin/bash count _files() { Is-1$1 | we -l } copy_files() { cp $1/* $2 } num_files=$(count_files $1) echo \"Copying $num_files in $1 to $2\" copy_files $1 $2","libVersion":"0.2.2","langs":"eng"}

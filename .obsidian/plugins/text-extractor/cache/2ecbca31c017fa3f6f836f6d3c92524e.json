@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/2ecbca31c017fa3f6f836f6d3c92524e.json","text":"#!/bin/bash echo \"Enter a number: * read number case $(( $Snumber % 2)) in ozlum_typez\"even\" i num_type=\"odd\" esac printf “%6d is an %s number\\n” $number $num_type","libVersion":"0.2.2","langs":"eng"}

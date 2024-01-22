@@ -75,6 +75,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b4610a1656107ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }

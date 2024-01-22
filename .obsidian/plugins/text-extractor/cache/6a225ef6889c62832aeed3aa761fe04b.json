@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/6a225ef6889c62832aeed3aa761fe04b.json","text":"if statement A condition is an expression that can be true or false. Program to make a decision based on a condition’s value. If students grade is reater than or equal to 60 Print “Passed” if ( studentGrade »= 60 ) System.out.println( \"Passed” );","libVersion":"0.2.2","langs":"eng"}
