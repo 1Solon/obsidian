@@ -1,0 +1,2 @@
+![[Pasted image 20240122162653.png]]
+> A service provmed Dy multlple Servers ® Multiple servers provide o Senvice . services to clients | I TS ® Servers may partition the (ctent p—" »‘ : service objects or replicate - } /"éerl;éé"\ : them (Akamai) L . R e Ne || * WWW: partitioned objects (ot e A . T E— +< Server > ® Sun NIS: replica of a T password file maintained at eaCh server ©Pearson Education 2001 ® Computing clusters
