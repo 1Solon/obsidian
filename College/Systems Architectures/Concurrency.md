@@ -1,0 +1,2 @@
+![[Pasted image 20240122153731.png]]
+> * The problem: — different clients simultaneous accessing a shared resource * Solutions — limit the number of users to 1 + (inefficient and restrictive) — allow concurrent executions * non-trivial » Synchronization tools are needed — Known techniques e.g. semaphores

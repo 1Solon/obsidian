@@ -20,4 +20,9 @@
 
 ## Challenges of Distributed Systems
 ---
-* 
+* [[Heterogeneity]]
+* [[Openess]]
+* [[Security]]
+* [[Scalability]]
+* [[Failure Handling]]
+* [[Concurrency]]

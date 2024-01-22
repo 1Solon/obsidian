@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/Systems Architectures/Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/Systems Architectures/Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,25 +157,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "f9922bfa67a878ed",
+  "active": "ea24f95491bdefda",
   "lastOpenFiles": [
-    "README.md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures/Distributed Systems.md",
+    "College/Systems Architectures/Concurrency.md",
+    "Images/Pasted image 20240122153731.png",
+    "College/Systems Architectures/Failure Handling.md",
+    "Images/Pasted image 20240122153703.png",
+    "College/Systems Architectures/Scalability.md",
+    "College/Web Applications Architectures/Scaling.md",
+    "Images/Pasted image 20240122153553.png",
+    "College/Systems Architectures/Security.md",
+    "Images/Pasted image 20240122153525.png",
+    "College/Systems Architectures/Openess.md",
+    "Images/Pasted image 20240122153456.png",
+    "College/Systems Architectures/Heterogeneity.md",
+    "Images/Pasted image 20240122153427.png",
+    "README.md",
     "Images/Pasted image 20240122152926.png",
     "Images/Pasted image 20240122152854.png",
     "Images/Pasted image 20240122152816.png",
     "Images/Pasted image 20240122152732.png",
     "College/Systems Architectures/Operating Systems.md",
     "College/Definitions/find.md",
-    "Images/Pasted image 20240122152030.png",
-    "Images/Pasted image 20240122151924.png",
-    "Images/Pasted image 20240122151752.png",
     "College/Systems Architectures/Von Neumann Architecture.md",
     "College/Systems Architectures/Von Neumann Memory Subsystem.md",
-    "Images/Pasted image 20240122151628.png",
-    "Images/Pasted image 20240122151542.png",
-    "Images/Pasted image 20240122151506.png",
     "College/Systems Architectures/Computer Architectures.md",
     "College/Systems Architectures/Harvard Architecture.md",
     "College/Systems Architectures/System Architecture.md",
@@ -186,17 +195,9 @@
     "Games/Tarkov/Maps.md",
     "Games/Tarkov/Customs.md",
     "Games/Tarkov/Ammo.md",
-    "Games/SS14/SS14 Root.md",
-    "Games/SS14/Medical.md",
-    "Games/SS14/Delta-V.md",
     "Games/Tarkov",
     "Games/SS14",
     "Games",
-    "College/Web Development Lectures/WebDev Lecture 6.md",
-    "College/Web Development Lectures/WebDev Lecture 4.md",
-    "College/Web Development Lectures/WebDev Lecture 5.md",
-    "College/Web Development Lectures/WebDev Lecture 3.md",
-    "College/Web Development Lectures/WebDev Lecture 2.md",
     "College/Web Development Lectures",
     "College/Software Design",
     "College/Web Applications Architectures",

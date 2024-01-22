@@ -1,0 +1,2 @@
+![[Pasted image 20240122153525.png]]
+> * Attacks against — Confidentiality/privacy — Integrity of messages — Authentication of user: simulating false identity — Availability : unauthorized use of resources » Accessing files, printers, ... * Denial of service: blocking server by overwhelming it with requests * Mobile code performing unauthorized operations

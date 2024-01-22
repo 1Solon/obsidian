@@ -1,0 +1,2 @@
+![[Pasted image 20240122153703.png]]
+> * Partial failures => Difficult to handle * Techniques used: — Detecting failures (e.g. checksums) — Masking failures (e.g. message retransmission) — Tolerating failures (e.g. browser announces server not available) — Recovery from failures (e.g. save & restore state) — Redundancy: replicating services
