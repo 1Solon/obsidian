@@ -7,4 +7,5 @@
 
 * **He apparently do not like virtualisation, or load balancers. Or seems to be at least hesitant about them. Unsure if this is prejudice or lack of knowledge, leaning toward latter based on statements**
 
+* [[System Architecture]]
 * 

@@ -1,0 +1,1 @@
+* **Definition:** A system architecture is a conceptual model that defines the structure, behaviour and views of a system, in a way that supports reasoning about the structures and behaviours of the system.

@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "036d6a91093638b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Systems Architectures/System Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -138,6 +150,7 @@
   },
   "active": "6b58fe4931ecb978",
   "lastOpenFiles": [
+    "College/Systems Architectures/System Architecture.md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures",
     "conflict-files-obsidian-git.md",
@@ -177,7 +190,6 @@
     "College/Web Applications Architectures/Web Applications Architectures Lecture 2.md",
     "College/Web Applications Architectures/Web Applications Architectures Lecture 1.md",
     "College/Web Applications Architectures/Vertical.md",
-    "College/Web Applications Architectures/Types of Layered Pattern.md",
     "College/Web Development Lectures",
     "College/Software Design",
     "College/Web Applications Architectures",
