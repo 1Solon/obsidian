@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59c2a567b0f7356b",
+        "id": "f70dd431a1ea17de",
         "type": "tabs",
         "children": [
           {
-            "id": "6b58fe4931ecb978",
+            "id": "9d10ffb327000196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Secure Systems Development/SSD Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Secure Systems Development/SSD Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Secure Systems Development/SSD Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +136,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "6b58fe4931ecb978",
+  "active": "9d10ffb327000196",
   "lastOpenFiles": [
-    "College/Systems Architectures/Architectural Models.md",
+    "Images/Pasted image 20240123112522.png",
+    "README.md",
+    "College/Secure Systems Development/SSD Lecture 1.md",
+    "College/Secure Systems Development",
     "College/Systems Architectures/SysArch Lecture 1.md",
+    "College/Systems Architectures/Architectural Models.md",
     "College/Definitions/Javascript Overview.md",
     "College/Definitions/Javascript Usage.md",
     "College/Systems Architectures/Mobile Code.md",
@@ -170,10 +174,7 @@
     "College/Systems Architectures/Security.md",
     "College/Systems Architectures/Openess.md",
     "College/Systems Architectures/Heterogeneity.md",
-    "README.md",
     "College/Systems Architectures/Operating Systems.md",
-    "College/Definitions/find.md",
-    "College/Systems Architectures/Von Neumann Architecture.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",
@@ -183,7 +184,6 @@
     "College/Web Applications Architectures",
     "College/Programming Paradigms",
     "College/Scientific Research & Literature",
-    "College/Mobile Software Development Lectures",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
