@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Secure Systems Development/SSD Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Secure Systems Development/SSD Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Secure Systems Development/SSD Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +138,11 @@
   },
   "active": "9d10ffb327000196",
   "lastOpenFiles": [
+    "College/Secure Systems Development/SSD Lecture 1.md",
+    "College/Research Design/Research Design Lecture 1.md",
+    "College/Research Design",
     "Images/Pasted image 20240123112522.png",
     "README.md",
-    "College/Secure Systems Development/SSD Lecture 1.md",
     "College/Secure Systems Development",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures/Architectural Models.md",
@@ -162,7 +164,6 @@
     "College/Definitions/Client Server Model.md",
     "Images/Pasted image 20240122162413.png",
     "Images/Pasted image 20240122162317.png",
-    "Images/Pasted image 20240122162249.png",
     "College/Systems Architectures/Middleware.md",
     "College/Systems Architectures/Platform Layer.md",
     "College/Systems Architectures/Transparency.md",
@@ -183,7 +184,6 @@
     "College/Software Design",
     "College/Web Applications Architectures",
     "College/Programming Paradigms",
-    "College/Scientific Research & Literature",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
