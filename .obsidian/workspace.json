@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "8999895439ee440e",
+            "id": "ea63dc9c6416abd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Research Design/Occams Razor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c149d464d63233f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Research Design/Laws of Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc53225508aa606a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Research Design/Kuhns Paradigm.md",
+                "file": "College/Research Design/Selecting Thesis Topic.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,9 +150,11 @@
   },
   "active": "9d10ffb327000196",
   "lastOpenFiles": [
+    "College/Research Design/Selecting Thesis Topic.md",
+    "Images/Pasted image 20240123153315.png",
+    "College/Research Design/Research Design Lecture 1.md",
     "College/Research Design/Occams Razor.md",
     "Images/Pasted image 20240123152743.png",
-    "College/Research Design/Research Design Lecture 1.md",
     "College/Research Design/Laws of Logic.md",
     "Images/Pasted image 20240123152707.png",
     "Images/Pasted image 20240123152622.png",
@@ -190,7 +168,6 @@
     "Images/Pasted image 20240123152003.png",
     "Images/Pasted image 20240123151943.png",
     "College/Definitions/Inductive.md",
-    "Images/Pasted image 20240123151859.png",
     "College/Definitions/Scientific Method of Inquiry.md",
     "College/Research Design/What is Research.md",
     "College/Research Design/Research Design Learning Outcomes.md",
@@ -210,7 +187,6 @@
     "College/Systems Architectures/Peer to Peer Model.md",
     "College/Definitions/Client Server Model.md",
     "College/Systems Architectures/Middleware.md",
-    "College/Systems Architectures/Platform Layer.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",

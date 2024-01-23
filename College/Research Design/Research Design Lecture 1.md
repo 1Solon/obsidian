@@ -17,4 +17,11 @@
 * He used a story about worms and mazes to describe the above, the jist is that a researcher determined that worms had genetic memory, and that they could transfer this by ingesting previous worms who had completed the maze. It was eventually determined that there were simply slime trails from a previous worms that the newer worms were following.
 
 * [Clever Hans](https://en.wikipedia.org/wiki/Clever_Hans) was used as another example
+
+* **"We would prefer you do good plumbing over writing 10k lines of code"**
+
+* [[Selecting Thesis Topic]]
+
+* **"I would expect you to all have a topic by week 7**
+
 * 
