@@ -1,0 +1,2 @@
+![[Pasted image 20240123151604.png]]
+> What is research? e We ask questions all the time e Research is a formal way of going about asking questions e Uses methodologies e Many different kinds (e.g. market research, media research and social research) e Basic research methods can be learned easily
