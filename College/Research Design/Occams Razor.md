@@ -1,0 +1,2 @@
+![[Pasted image 20240123152743.png]]
+> e Finally we have Occam’s Razor, which in its original form states "Entities should not be multiplied unnecessarily" {"Pluralitas non est ponenda sine neccesitate"}, taken to mean in this case that if two theories present themselves that are both equally likely to be true, pick the one that makes the fewest assumptions.
