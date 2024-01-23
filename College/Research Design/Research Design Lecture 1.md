@@ -24,4 +24,6 @@
 
 * **"I would expect you to all have a topic by week 7**
 
+* [Examples of other projects](http://www.damiantgordon.com/Research/research8.html)
+* [Examples of research areas](http://www.damiantgordon.com/Courses/RDPW/Week1/Research-Areas.pdf)
 * 
