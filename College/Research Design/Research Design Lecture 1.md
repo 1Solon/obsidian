@@ -4,4 +4,7 @@
 * 100% CA!!
 * "Individual statements are not peer review, repeatable and logical reports are"
 * [[What is Research]]
-* 
+* [[Scientific Method of Inquiry]]
+* [[Inductive]]
+* [[Popper’s Falsifiability]]
+* [[Kuhns Paradigm]]
