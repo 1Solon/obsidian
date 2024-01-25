@@ -1,0 +1,2 @@
+![[Pasted image 20240123153315.png]]
+> e Selecting a topic for your research is the single most important decision that you will make for your post- graduate tenure. e To sustain your interest over a number of months it is very important that you find a topic that not only interests you but engages your imagination. e If you have a passion for a particular area of research, this passion will give you the determination you need to reach your goal.

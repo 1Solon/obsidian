@@ -1,0 +1,2 @@
+![[Pasted image 20240123151306.png]]
+> Learning Outcomes e 1 Critically evaluate and synthesise literature relevant to a proposed research question e 2 Choose and justify a research design to address a specific research question e 3 Choose and justify appropriate data collection methods for a specific research question e 4 Choose and justify appropriate analysis and evaluation methods for a specific research question e 5 Prepare and present a realistic and feasible research proposal

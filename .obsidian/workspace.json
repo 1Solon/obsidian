@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1f0ea123a17b4349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce586bcb4d271220",
             "type": "leaf",
             "state": {
@@ -37,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,53 +173,55 @@
       "templates:Insert template": false
     }
   },
-  "active": "2249468a69f1756d",
+  "active": "0f1339f4748ee27e",
   "lastOpenFiles": [
-    "Games/Tarkov/Reserve.md",
-    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Ammo.md",
-    "Games/Tarkov/Earpieces.md",
-    "Games/Tarkov/Maps.md",
-    "Images/Pasted image 20240116183641.png",
-    "Images/Pasted image 20240116183632.png",
-    "Images/Pasted image 20240116183624.png",
-    "Images/Pasted image 20240116183617.png",
-    "Images/Pasted image 20240116183609.png",
-    "Images/Pasted image 20240116183601.png",
-    "Images/Pasted image 20240116183555.png",
-    "Images/Pasted image 20240116183546.png",
-    "Images/Pasted image 20240116183538.png",
-    "Images/Pasted image 20240116183530.png",
-    "Games/SS14/Delta-V.md",
-    "Games/SS14/Medical.md",
-    "Games/SS14/SS14 Root.md",
+    "conflict-files-obsidian-git.md",
+    "Games/Tarkov/Tarkov Root.md",
+    "College/Machine Learning/sckit-learn.md",
+    "College/Machine Learning/ML Lecture 1.md",
+    "College/Machine Learning",
+    "Images/Pasted image 20240123153315.png",
+    "Images/Pasted image 20240123152743.png",
+    "Images/Pasted image 20240123152707.png",
+    "Images/Pasted image 20240123152622.png",
+    "Images/Pasted image 20240123152545.png",
+    "Images/Pasted image 20240123152213.png",
+    "Images/Pasted image 20240123152157.png",
+    "Images/Pasted image 20240123152114.png",
+    "Images/Pasted image 20240123152003.png",
+    "Images/Pasted image 20240123151943.png",
+    "College/Systems Architectures/Von Neumann Memory Subsystem.md",
+    "College/Systems Architectures/Von Neumann Architecture.md",
+    "College/Systems Architectures/Transparency.md",
+    "College/Systems Architectures/Thin Clients.md",
+    "College/Systems Architectures/System Architecture.md",
+    "College/Systems Architectures/SysArch Lecture 1.md",
+    "College/Systems Architectures/Services Offered by Multiple Servers.md",
+    "College/Systems Architectures/Security.md",
+    "College/Systems Architectures/Scalability.md",
+    "College/Systems Architectures/Proxy Servers and Caches.md",
+    "College/Systems Architectures/Platform Layer.md",
+    "College/Systems Architectures/Peer to Peer Model.md",
+    "College/Systems Architectures/Operating Systems.md",
+    "College/Systems Architectures/Openess.md",
+    "College/Systems Architectures/Mobile Code.md",
+    "College/Systems Architectures/Middleware.md",
+    "College/Systems Architectures/Heterogeneity.md",
+    "College/Systems Architectures/Harvard Architecture.md",
+    "College/Systems Architectures/Failure Handling.md",
+    "College/Systems Architectures/Distributed Systems.md",
+    "College/Systems Architectures/Concurrency.md",
+    "College/Systems Architectures",
+    "College/Secure Systems Development",
+    "College/Research Design",
     "Games/SS14",
-    "Games/Tarkov/Customs.md",
     "Games/Tarkov",
-    "README.md",
-    "College/Network Programming Lectures/NetProg Lecture 1.md",
-    "College/Definitions/Java Increment Opertators.md",
-    "College/Definitions/Java Pre and Post fix eg increment or decrement.md",
-    "College/Databases 2/Databases 2 Lecture 2.md",
     "Games",
-    "College/Definitions/Software as a service (SaaS).md",
-    "College/Cloud Computing Lectures/Cloud Computing Lecture 2.md",
     "College",
-    "College/Definitions/Bootstrap.md",
-    "College/Definitions/Bootstrap Grid System.md",
-    "College/Definitions/Bootstrap Object Model.md",
-    "College/Definitions/Bootstrap Mobile First.md",
-    "College/Definitions/Mobile Interaction Design.md",
-    "College/Definitions/Differences between mobile and web apps.md",
-    "College/Definitions/Web App v Native App.md",
-    "College/Definitions/The Challenges of Mobile Interaction Design.md",
-    "College/Web Applications Architectures/Web Applications Architectures Lecture 3.md",
     "College/Software Design",
     "College/Advanced Databases",
-    "College/Programming Paradigms",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "College/Web Applications Architectures",
-    "College/Scientific Research & Literature"
+    "Untitled.canvas"
   ]
 }

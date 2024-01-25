@@ -1,0 +1,2 @@
+![[Pasted image 20240122162936.png]]
+> ® Similar to a network computer ® |nstead of downloading code to the user computer, it runs it on a compute server ® Software layer provides a window-based interface to the client (X Windows) ® Advanced systems work with audio and USB devices (Teradici, Burnaby) Thin clients and compute servers Network computer or PC Compute server 7 Thin N\ _/Application Celm e (s

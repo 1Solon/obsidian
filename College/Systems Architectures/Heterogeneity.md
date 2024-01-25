@@ -1,0 +1,2 @@
+![[Pasted image 20240122153427.png]]
+> * Heterogeneity at many levels — Networks (ethernet, tokenring, .. ) — Computer hardware — Operating systems (different API to internet) — Programming languages — Implementations by different developer (data structures) . . Remote procedures « Solutions ... middleware _ _ Remote method invocation - Java RMI Remot otificat _ CORBA emo € event noll 1.ca 10n — Implement uniform high level API Distributed transactions

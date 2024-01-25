@@ -21,3 +21,15 @@ kept secure
 
 ## Visual Diagram:
 ![[Pasted image 20240102152353.png]]
+
+## Alternate Explanation (From Systems Architectures)
+---
+![[Pasted image 20240122162249.png]]
+> * Client-server model — defines roles for 2 interacting entities — client: * needs a particular service * sends request to server + gets (after some time) reply — server. » awaits requests from clients » performs requested function — server can be client of another server
+
+![[Pasted image 20240122162413.png]]
+> ® Clients send requests to servers (i.e., invocation) ® Servers send responses to clients (i.e., result) ® Servers may be clients of other servers - A web server is often a client of a file server — An Internet service is a client of a DNS server - a server that translates DNS names to IP addresses ® Potential problem: a single server is a scalability bottleneck and a single point of failure
+
+### Alternative Diagram
+---
+![[Pasted image 20240122162317.png]]

@@ -13,3 +13,7 @@ What it says on the tin, message me on whatsapp if you need help setting it up
 * [[Programming Paradigms Lecture 1]]
 * [[Advanced Databases Lecture 1]]
 * [[Software Design Lecture 1]]
+* [[SysArch Lecture 1]]
+* [[SSD Lecture 1]]
+* [[Research Design Lecture 1]]
+* [[ML Lecture 1]]

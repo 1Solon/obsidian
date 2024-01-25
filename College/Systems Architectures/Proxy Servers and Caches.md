@@ -1,0 +1,4 @@
+* Links to [[Proxy Servers]]
+
+![[Pasted image 20240122162757.png]]
+> Proxy Servers and Caches Web proxy server ©Pearson Education 2001 - ‘,ﬁ’\ / W—Q Client ) #—_ Wb N \A ST . = server = T gerpvgyrjgf-”""" i R /C"em\,,‘:r"‘j'l"! \‘%/\}V:DQ\\ N N server_/ ® Acache is a store of recently used data objects that is closer than the main store ® A newly accessed object is added to the cache ®* When that object is accessed again, it is fetched from the cache, if there is an up-to-date copy in the cache ® Proxy servers intercept communication with the real server to provide faster service (e.g., deliver cached data), better security (e.g., a proxy configured as a firewall, SFU proxy)
