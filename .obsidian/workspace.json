@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Reserve.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f1339f4748ee27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Tarkov/Ammo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +160,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "ce586bcb4d271220",
+  "active": "2249468a69f1756d",
   "lastOpenFiles": [
     "Games/Tarkov/Reserve.md",
-    "Games/Tarkov/Maps.md",
-    "Games/Tarkov/Ammo.md",
     "Games/Tarkov/Tarkov Root.md",
+    "Games/Tarkov/Ammo.md",
     "Games/Tarkov/Earpieces.md",
+    "Games/Tarkov/Maps.md",
     "Images/Pasted image 20240116183641.png",
     "Images/Pasted image 20240116183632.png",
     "Images/Pasted image 20240116183624.png",
