@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "1f0ea123a17b4349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce586bcb4d271220",
             "type": "leaf",
             "state": {
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f1339f4748ee27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +149,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "0f1339f4748ee27e",
+  "active": "ce586bcb4d271220",
   "lastOpenFiles": [
-    "Games/Tarkov/Ammo.md",
     "conflict-files-obsidian-git.md",
+    "Games/Tarkov/Ammo.md",
     "Games/Tarkov/Tarkov Root.md",
     "College/Machine Learning/sckit-learn.md",
     "College/Machine Learning/ML Lecture 1.md",
