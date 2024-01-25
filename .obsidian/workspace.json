@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f70dd431a1ea17de",
+        "id": "80295741c6b9b395",
         "type": "tabs",
         "children": [
           {
-            "id": "9d10ffb327000196",
+            "id": "f42c32774bb587fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea63dc9c6416abd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Research Design/Selecting Thesis Topic.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +136,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "9d10ffb327000196",
+  "active": "f42c32774bb587fb",
   "lastOpenFiles": [
+    "College/Machine Learning/sckit-learn.md",
+    "College/Machine Learning/ML Lecture 1.md",
+    "README.md",
+    "College/Machine Learning",
     "College/Research Design/Selecting Thesis Topic.md",
-    "Images/Pasted image 20240123153315.png",
     "College/Research Design/Research Design Lecture 1.md",
+    "Images/Pasted image 20240123153315.png",
     "College/Research Design/Occams Razor.md",
     "Images/Pasted image 20240123152743.png",
     "College/Research Design/Laws of Logic.md",
@@ -171,7 +163,6 @@
     "College/Definitions/Scientific Method of Inquiry.md",
     "College/Research Design/What is Research.md",
     "College/Research Design/Research Design Learning Outcomes.md",
-    "README.md",
     "College/Secure Systems Development/SSD Lecture 1.md",
     "College/Research Design",
     "College/Secure Systems Development",
@@ -186,7 +177,6 @@
     "College/Systems Architectures/Services Offered by Multiple Servers.md",
     "College/Systems Architectures/Peer to Peer Model.md",
     "College/Definitions/Client Server Model.md",
-    "College/Systems Architectures/Middleware.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",
@@ -194,7 +184,6 @@
     "College/Web Development Lectures",
     "College/Software Design",
     "College/Web Applications Architectures",
-    "College/Programming Paradigms",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

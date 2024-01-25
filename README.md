@@ -16,3 +16,4 @@ What it says on the tin, message me on whatsapp if you need help setting it up
 * [[SysArch Lecture 1]]
 * [[SSD Lecture 1]]
 * [[Research Design Lecture 1]]
+* [[ML Lecture 1]]
