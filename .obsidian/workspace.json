@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "38a86ff2e90436fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Tarkov/Reserve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e77f7b8300269f7f",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Ammo.md",
+                "file": "Games/Tarkov/Tarkov Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,14 +185,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "c5d9bf6e941e2434",
+  "active": "2249468a69f1756d",
   "lastOpenFiles": [
-    "Games/Tarkov/Tarkov Root.md",
+    "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Maps.md",
+    "Games/Tarkov/Ammo.md",
+    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Customs.md",
     "Games/Tarkov/Interchange.md",
     "Images/Pasted image 20240126171538.png",
-    "Games/Tarkov/Ammo.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/sckit-learn.md",
     "College/Machine Learning/ML Lecture 1.md",
