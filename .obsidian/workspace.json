@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "ce586bcb4d271220",
+            "id": "36fdc40391e7b94f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Ammo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,11 +148,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "ce586bcb4d271220",
+  "active": "2249468a69f1756d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Games/Tarkov/Ammo.md",
     "Games/Tarkov/Tarkov Root.md",
+    "conflict-files-obsidian-git.md",
     "College/Machine Learning/sckit-learn.md",
     "College/Machine Learning/ML Lecture 1.md",
     "College/Machine Learning",
