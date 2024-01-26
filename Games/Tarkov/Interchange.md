@@ -6,3 +6,4 @@
 
 ## Static Map
 ---
+![[Pasted image 20240126171538.png]]
