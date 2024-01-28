@@ -38,3 +38,4 @@
 * Construction Measuring Tape
 * Tube of Poxeram Cold Welding
 * Wi-fi camera
+* Metal Cutting Scissors
