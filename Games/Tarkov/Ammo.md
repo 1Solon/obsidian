@@ -56,7 +56,7 @@ This page contains information on which bullets are useful to keep, sorted by th
 ![[Pasted image 20240116183546.png]]
 ## 7.62x39mm
 ---
-![[Pasted image 20240116183555.png]]
+![[Pasted image 20240116183555.png|770]]
 ## .300 blk
 ---
 ![[Pasted image 20240116183601.png]]

@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Ammo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Tarkov Root.md",
+                "file": "Games/Tarkov/Ammo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,14 +210,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "2249468a69f1756d",
+  "active": "c5d9bf6e941e2434",
   "lastOpenFiles": [
     "Games/Tarkov/Earpieces.md",
+    "Games/Tarkov/Reserve.md",
+    "Games/Tarkov/Tarkov Root.md",
     "Games/Tarkov/Ammo.md",
     "Games/Tarkov/Customs.md",
     "Games/Tarkov/Maps.md",
-    "Games/Tarkov/Tarkov Root.md",
-    "Games/Tarkov/Reserve.md",
     "Games/Tarkov/Interchange.md",
     "Images/Pasted image 20240126171538.png",
     "conflict-files-obsidian-git.md",
