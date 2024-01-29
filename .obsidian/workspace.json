@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 2.md",
+                "file": "College/Systems Architectures/Data In Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 2.md",
+                "file": "College/Systems Architectures/Data In Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,11 +170,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "55c5ccad26a19b97",
+  "active": "6fc80e69cb79887c",
   "lastOpenFiles": [
+    "College/Systems Architectures/SysArch Lecture 2.md",
     "College/Systems Architectures/Data In Distributed Systems.md",
     "College/Systems Architectures/Distributed Systems.md",
-    "College/Systems Architectures/SysArch Lecture 2.md",
     "Images/Pasted image 20240129162813.png",
     "Images/Pasted image 20240129162737.png",
     "Images/Pasted image 20240129162705.png",
