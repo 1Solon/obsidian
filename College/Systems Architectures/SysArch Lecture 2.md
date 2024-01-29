@@ -5,6 +5,7 @@
 * Would like locally hosted document management systems
 * "Health is chosen deliberately" -> I assume he wants us to be GDPR compliant?
 * Search "Systems Architecture" + "Document Management Systems" [link](https://www.google.com/search?q=systems+architecture+document+management+systems&rlz=1C1CHBF_en-GBIE972IE972&oq=systems+architecture+document+management+systems&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDcxODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+* It's fine to reference external systems, as long as you note the risks and implementation of their use
 * Monday 4th of March
 
 * [[Operating Systems]]
