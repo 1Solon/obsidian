@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/d0f4f4bf31b831a78850327407e9daa5.json","text":"* Different columns of a table at different sites * Advantages and disadvantages are the same as for horizontal partitioning except that combining data across partitions is more difficult because it requires joins (instead of unions)","libVersion":"0.2.2","langs":"eng"}

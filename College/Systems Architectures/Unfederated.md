@@ -1,0 +1,2 @@
+![[Pasted image 20240129162305.png]]
+> * Unfederated - Requires all access to go through a central, coordinating module e.g. Homogeneous, Non-Autonomous Database — Data is distributed across all the nodes — Same DBMS at each node — All data is managed by the distributed DBMS (no exclusively local data) — All access is through one, global schema — The global schema is the union of all the local schema

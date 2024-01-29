@@ -1,0 +1,2 @@
+![[Pasted image 20240129162232.png]]
+> * Federated - Supports local databases for unique data requests — Loose Integration - Local dbs have their own schemas e.g. Typical Heterogeneous Environment * E.g. Data distributed across all the nodes ¢ Different DBMSs may be used at each node * Local access is done using the local DBMS and schema * Remote access is done using the global schema — Tight Integration - Local dbs use common schema
