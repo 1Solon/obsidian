@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1adc3c811af5691e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +149,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "55c5ccad26a19b97",
+  "active": "1adc3c811af5691e",
   "lastOpenFiles": [
-    "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures/SysArch Lecture 2.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20240126171538.png",
+    "Games/Tarkov/Interchange.md",
+    "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 1.md",
     "College/Machine Learning/sckit-learn.md",
     "README.md",
@@ -160,7 +176,6 @@
     "Images/Pasted image 20240123152114.png",
     "College/Research Design/Popper’s Falsifiability.md",
     "Images/Pasted image 20240123152003.png",
-    "Images/Pasted image 20240123151943.png",
     "College/Definitions/Inductive.md",
     "College/Definitions/Scientific Method of Inquiry.md",
     "College/Research Design/What is Research.md",
@@ -175,8 +190,6 @@
     "College/Systems Architectures/Thin Clients.md",
     "College/Systems Architectures/Proxy Servers and Caches.md",
     "College/Definitions/Proxy Servers.md",
-    "College/Systems Architectures/Services Offered by Multiple Servers.md",
-    "College/Systems Architectures/Peer to Peer Model.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",

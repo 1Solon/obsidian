@@ -12,18 +12,30 @@
 
 # Current Sought Items
 
-* Cans of Beef Stew (Large)
-* Toothpaste
-* Light Bulb
-* Fierce Blow Sledgehammer
+* Energy Saving Lamp
+* Dry Fuel
+* Crickent Lighter
 * Bottle of Saline
 * Medical Tools
 * Medical Bloodset
-* Dry Fuel
-* Crickent Lighter
-* Car Battery
-* WD-40
-* KENTAPE Duct Tape
+* Sledgehammer
+* Alkaline Cleaner
+* Wrench
 * Corrugated Hose
+* Toolset
+* Electric Motor
+* KEKTAPE duct tape
+* Light Bulb
+* Car battery
+* Bulbex Cable Cutter
+* Relay
+* Wires
+* WD-40
 * Pack of Screws
 * Electric Drill
+* Bolts
+* Weapon Parts
+* Construction Measuring Tape
+* Tube of Poxeram Cold Welding
+* Wi-fi camera
+* Metal Cutting Scissors

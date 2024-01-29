@@ -26,7 +26,7 @@ This page contains information on which bullets are useful to keep, sorted by th
 ![[Pasted image 20240116183420.png]]
 ## 9x19mm
 ---
-![[Pasted image 20240116183433.png]]
+![[Pasted image 20240116183433.png|1500]]
 ## .45
 ---
 ![[Pasted image 20240116183444.png]]
@@ -50,13 +50,13 @@ This page contains information on which bullets are useful to keep, sorted by th
 ![[Pasted image 20240116183530.png]]
 ## 5.45x39mm
 ---
-![[Pasted image 20240116183538.png]]
+![[Pasted image 20240116183538.png|1500]]
 ## 5.56x45mm
 ---
 ![[Pasted image 20240116183546.png]]
 ## 7.62x39mm
 ---
-![[Pasted image 20240116183555.png]]
+![[Pasted image 20240116183555.png|770]]
 ## .300 blk
 ---
 ![[Pasted image 20240116183601.png]]
