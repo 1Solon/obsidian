@@ -70,9 +70,9 @@
 ![[Pasted image 20240129153814.png]]
 * Key goal is to provide multiple paths to each node
 * Very failure tolerant
-* 
 ## Links
 ---
 * [[Distributed Data Management]]
 * [[Distributed Process Management]]
 * [[Distributed Operating Systems]]
+* [[Distributed Systems Scaling Techniques]]
