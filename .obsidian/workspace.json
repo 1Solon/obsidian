@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80295741c6b9b395",
+        "id": "039f27ffd2f9be09",
         "type": "tabs",
         "children": [
           {
-            "id": "f42c32774bb587fb",
+            "id": "55c5ccad26a19b97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 1.md",
+                "file": "College/Systems Architectures/SysArch Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 1.md",
+                "file": "College/Systems Architectures/SysArch Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 1.md",
+                "file": "College/Systems Architectures/SysArch Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +136,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "f42c32774bb587fb",
+  "active": "55c5ccad26a19b97",
   "lastOpenFiles": [
-    "College/Machine Learning/sckit-learn.md",
+    "College/Systems Architectures/SysArch Lecture 1.md",
+    "College/Systems Architectures/SysArch Lecture 2.md",
     "College/Machine Learning/ML Lecture 1.md",
+    "College/Machine Learning/sckit-learn.md",
     "README.md",
     "College/Machine Learning",
     "College/Research Design/Selecting Thesis Topic.md",
@@ -166,7 +168,6 @@
     "College/Secure Systems Development/SSD Lecture 1.md",
     "College/Research Design",
     "College/Secure Systems Development",
-    "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Systems Architectures/Architectural Models.md",
     "College/Definitions/Javascript Overview.md",
     "College/Definitions/Javascript Usage.md",
@@ -176,7 +177,6 @@
     "College/Definitions/Proxy Servers.md",
     "College/Systems Architectures/Services Offered by Multiple Servers.md",
     "College/Systems Architectures/Peer to Peer Model.md",
-    "College/Definitions/Client Server Model.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",
