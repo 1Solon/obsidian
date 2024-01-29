@@ -4,6 +4,9 @@
 ![[Pasted image 20240129155250.png]]
 
 ![[Pasted image 20240129155327.png]]
+
+![[Pasted image 20240129155559.png]]
+> Third Scaling Technique - Replication * Replication: multiple identical copies of something — Replicated objects may also be distributed, but aren’t necessarily. * Replication — Increases availability — Improves performance through load balancing — May avoid latency by improving proximity of resource
 ## Distribution
 ---
 ![[Pasted image 20240129155305.png]]
