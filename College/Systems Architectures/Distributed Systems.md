@@ -18,6 +18,11 @@
 ![[Pasted image 20240122152926.png]]
 > * Requirement for advanced software to realize the potential benefits. * Security and privacy concerns regarding network communication * Replication of data and services provides fault tolerance and availability, but at a cost. * Network reliability, security, heterogeneity, topology * Latency and bandwidth * Administrative domains
 
+## Performance Advantages of Distributed Systems
+---
+![[Pasted image 20240129151957.png]]
+> * Two performance advantages of distributed systems — Concurrently running components of applications. — Fewer users are competing for resources on different computers
+
 ## Challenges of Distributed Systems
 ---
 * [[Heterogeneity]]

@@ -1,0 +1,2 @@
+![[Pasted image 20240129151633.png]]
+> * Developed at UCLA « Several PDP-11 computers on an Ethernet * Entire system ran as a single Unix system * A global directory with directories at different nodes all of which could be seen by each user * Implemented a partial solution to Network Partitioning where one node may get separated from others when links go down. * This allowed a degree of fault tolerance
