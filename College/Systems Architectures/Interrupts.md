@@ -1,0 +1,2 @@
+![[Pasted image 20240129144755.png]]
+> Interrupt Handling * First Level Interrupt Handling (FLIH) * Interrupt priorities * Interrupt Service Routines ISRs * Process States * Process Suspension and Resumption

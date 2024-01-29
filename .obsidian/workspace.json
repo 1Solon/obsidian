@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "abb03f43e7933774",
+            "id": "c37d98568a6cc001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Systems Architectures/Operating Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bea0b2f578e8546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Systems Architectures/OS Processes.md",
+                "file": "College/Systems Architectures/Distributed Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programming paradigm exam",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/OS Processes.md",
+                "file": "College/Systems Architectures/Distributed Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/OS Processes.md",
+                "file": "College/Systems Architectures/Distributed Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +150,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "4bea0b2f578e8546",
+  "active": "c37d98568a6cc001",
   "lastOpenFiles": [
-    "College/Systems Architectures/Operating Systems.md",
+    "Images/Pasted image 20240129151233.png",
+    "Images/Pasted image 20240129151201.png",
+    "Images/Pasted image 20240129151141.png",
     "College/Systems Architectures/SysArch Lecture 2.md",
+    "College/Systems Architectures/Distributed Operating Systems.md",
+    "College/Systems Architectures/Distributed Systems.md",
+    "College/Systems Architectures/Distributed Process Management.md",
+    "Images/Pasted image 20240129151011.png",
+    "Images/Pasted image 20240129150918.png",
+    "College/Systems Architectures/Distributed Data Management.md",
+    "Images/Pasted image 20240129150824.png",
+    "Images/Pasted image 20240129150747.png",
+    "Images/Pasted image 20240129150727.png",
+    "Images/Pasted image 20240129150705.png",
+    "Images/Pasted image 20240129150638.png",
+    "Images/Pasted image 20240129150614.png",
+    "College/Systems Architectures/Operating Systems.md",
+    "College/Systems Architectures/Unix.md",
+    "College/Systems Architectures/File Systems.md",
+    "College/Systems Architectures/Linux.md",
+    "College/Programming Paradigms/Memory Management.md",
     "College/Systems Architectures/OS Processes.md",
-    "Images/Pasted image 20240129144131.png",
-    "Images/Pasted image 20240129144109.png",
+    "College/Systems Architectures/Interrupts.md",
     "conflict-files-obsidian-git.md",
-    "Images/Pasted image 20240126171538.png",
     "Games/Tarkov/Interchange.md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 1.md",
@@ -178,29 +184,13 @@
     "College/Machine Learning",
     "College/Research Design/Selecting Thesis Topic.md",
     "College/Research Design/Research Design Lecture 1.md",
-    "Images/Pasted image 20240123153315.png",
     "College/Research Design/Occams Razor.md",
-    "Images/Pasted image 20240123152743.png",
     "College/Research Design/Laws of Logic.md",
-    "Images/Pasted image 20240123152707.png",
-    "Images/Pasted image 20240123152622.png",
-    "Images/Pasted image 20240123152545.png",
     "College/Research Design/Law of Identity.md",
     "College/Research Design/Kuhns Paradigm.md",
-    "Images/Pasted image 20240123152213.png",
-    "Images/Pasted image 20240123152157.png",
     "College/Research Design/Popper’s Falsifiability.md",
-    "College/Definitions/Inductive.md",
-    "College/Definitions/Scientific Method of Inquiry.md",
-    "College/Research Design/What is Research.md",
-    "College/Research Design/Research Design Learning Outcomes.md",
-    "College/Secure Systems Development/SSD Lecture 1.md",
     "College/Research Design",
     "College/Secure Systems Development",
-    "College/Systems Architectures/Architectural Models.md",
-    "College/Definitions/Javascript Overview.md",
-    "College/Definitions/Javascript Usage.md",
-    "College/Systems Architectures/Mobile Code.md",
     "College/Systems Architectures",
     "Games/Tarkov",
     "Games/SS14",
