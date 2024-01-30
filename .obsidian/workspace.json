@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Thesis Structure.md",
+                "file": "College/Research Design/Research Design Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Thesis Structure.md",
+                "file": "College/Research Design/Research Design Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,12 +160,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "45e0544866ccb0de",
+  "active": "d82b025c1362d299",
   "lastOpenFiles": [
+    "College/Research Design/Thesis Structure.md",
     "Images/Pasted image 20240130150819.png",
     "Images/Pasted image 20240130150802.png",
     "College/Research Design/Research Design Lecture 2.md",
-    "College/Research Design/Thesis Structure.md",
     "College/Research Design/Research Design Lecture 1.md",
     "College/Systems Architectures/Peer to Peer Model.md",
     "College/Systems Architectures/SysArch Lecture 2.md",
@@ -184,7 +183,6 @@
     "College/Systems Architectures/Replication.md",
     "Images/Pasted image 20240129162519.png",
     "Images/Pasted image 20240129162501.png",
-    "Images/Pasted image 20240129162446.png",
     "College/Systems Architectures/Unfederated.md",
     "College/Systems Architectures/Federated.md",
     "College/Systems Architectures/Distributed Systems Scaling Techniques.md",
