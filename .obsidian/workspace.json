@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Definitions/Literature Survey.md",
+                "file": "College/Research Design/Research Design Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Definitions/Literature Survey.md",
+                "file": "College/Research Design/Research Design Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +160,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "702365ad63c6aa9e",
+  "active": "d82b025c1362d299",
   "lastOpenFiles": [
-    "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/Literature Survey.md",
+    "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/What is a Literature Review.md",
     "College/Research Design/2D Analysis.md",
     "Images/Pasted image 20240130152954.png",
