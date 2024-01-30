@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "702365ad63c6aa9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Definitions/Literature Survey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ffb5317f6ab7c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Definitions/What is a Literature Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Definitions/Literature Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Definitions/Literature Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +161,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "d82b025c1362d299",
+  "active": "702365ad63c6aa9e",
   "lastOpenFiles": [
+    "College/Research Design/Research Design Lecture 2.md",
+    "College/Definitions/Literature Survey.md",
+    "College/Definitions/What is a Literature Review.md",
     "College/Research Design/2D Analysis.md",
     "Images/Pasted image 20240130152954.png",
     "Images/Pasted image 20240130152905.png",
@@ -145,7 +173,6 @@
     "College/Research Design/Thesis Introduction.md",
     "Images/Pasted image 20240130152739.png",
     "Images/Pasted image 20240130152654.png",
-    "College/Research Design/Research Design Lecture 2.md",
     "College/Research Design/Thesis Structure.md",
     "Images/Pasted image 20240130152618.png",
     "Images/Pasted image 20240130150819.png",
@@ -172,7 +199,6 @@
     "College/Systems Architectures/Newcastle Connection.md",
     "College/Systems Architectures/LOCUS.md",
     "College/Systems Architectures/Distributed Process Management.md",
-    "College/Systems Architectures/Operating Systems.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
