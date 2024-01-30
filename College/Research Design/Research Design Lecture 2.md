@@ -6,3 +6,5 @@
 * [[Thesis Introduction]]
 * [[What is a Literature Review]] (Same as Scientific Research and Literature)
 * [[Literature Survey]] (again, same)
+* "It is important to determine a list of words which relate to the same concept"
+* 
