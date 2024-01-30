@@ -5,4 +5,6 @@
 
 * "Books are peer reviewed, editor, etc" - "Tend to be good sources for general overviews of areas"
 
-* 
+## Alternative order of preference
+---
+![[Pasted image 20240130155345.png]]

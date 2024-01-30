@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "702365ad63c6aa9e",
+            "id": "e53dd06380c191ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "4ffb5317f6ab7c03",
+            "id": "05612e78eba9da11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Definitions/What is a Literature Review.md",
+                "file": "College/Definitions/Sources of Information.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Definitions/Literature Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Definitions/Literature Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +161,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "d82b025c1362d299",
+  "active": "e53dd06380c191ce",
   "lastOpenFiles": [
+    "College/Definitions/Sources of Information.md",
+    "Images/Pasted image 20240130155345.png",
+    "Images/Pasted image 20240130155341.png",
     "College/Definitions/Literature Survey.md",
     "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/What is a Literature Review.md",
@@ -183,8 +187,6 @@
     "College/Systems Architectures/Networked Operating Systems.md",
     "College/Systems Architectures/Distributed Systems.md",
     "College/Systems Architectures/Data In Distributed Systems.md",
-    "Images/Pasted image 20240129162813.png",
-    "Images/Pasted image 20240129162737.png",
     "College/Systems Architectures/Partitioning.md",
     "College/Systems Architectures/Replication.md",
     "College/Systems Architectures/Unfederated.md",
@@ -197,7 +199,6 @@
     "College/Systems Architectures/The V System.md",
     "College/Systems Architectures/Newcastle Connection.md",
     "College/Systems Architectures/LOCUS.md",
-    "College/Systems Architectures/Distributed Process Management.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
