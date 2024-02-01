@@ -17,7 +17,28 @@
 
 ## Distance Metrics
 ---
+### Euclidian Distance
+
 ![[Pasted image 20240201112639.png]]
 > * Mathematically a metric must conform to the following four criteria: 1. Non-negativity: metric(a,b) > 0 2. |dentity: metric(a,b) =0<=a=Db 3. Symmetry: metric(a,b) = metric(b, a) 4. Triangular Inequality: metric(a, b) < metric(a, ¢) + metric(b, c) * Most common distance metric is Euclidean distance which computes the length of a straight line between two points, a and b: m Euclidean(a,b) = , | Y (a[i] - b[i])® /\ pr DyBLIN R G
 
 * Important concept: [[Euclidian Distance]]
+
+### Manhattan Distance
+![[Pasted image 20240201113623.png]]
+> * Another, less well known distance measure is the Manhattan distance or taxi-cab distance Manhattan(a,b) = abs(ali] — bli]) 1=1 E ﬂf‘:, o ) (i 7 ;..5 ‘s , T uomme o Manhattan_______ ! gl N ricy DUBLJMN
+
+* "Manhattan has a slight computational advantage over [[Euclidian Distance]]"
+* [[Manhattan Distance]] 
+
+### Minkowski Distance
+![[Pasted image 20240201113919.png]]
+> e Euclidean and Manhattan distances are special cases of Minkowski distance: 1 m P Minkowski(a,b) = (Z abs(ali] — b[i])p) i=1 * Different values of parameter p result in different distance measures ¢ Manhattan distance forp=1 ¢ Euclidean distance forp =2 * The larger the value of p the more emphasis is placed on features with large differences in values because these differences are raised to the power pT I < DuBLIN
+
+* [[Minkowski Distance]] 
+
+## Non-Numeric Data
+---
+![[Pasted image 20240201114134.png]]
+> * Binary: Takes only two values - a boolean True/False decision e.g. married={True,False}, test result={Pass,Fail} * (Categorical (Nominal): A feature that takes values from a finite set of values, with no intrinsic ordering to the values e.g. blood group={A,B,AB,0}, nationality={French, Irish,Italian} * Ordinal: Similar to a categorical variable, but there is a clear ordering of the variables. e.g.grade={A,B,C,D,E,F}, dosage={Low,Medium,High} * Interval: Values that allow ordering and subtraction, but do not allow other arithmetic operations e.g date, time — o
+
