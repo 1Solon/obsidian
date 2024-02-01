@@ -50,3 +50,6 @@
 ![[Pasted image 20240201115047.png]]
 > * For ordinal features, calculate the absolute value of the difference between the two positions in the ordered list of possible values. e.g. Ordinal Feature Dosage: {Low,Medium,High} = {1, 2, 3} diff (Low,High) = [1-3] = 2 diff (Medium,Low) = |2-1] /\ diff (High,High) = [3-3] = 0 DuBL] R U e
 
+## Heterogeneous Distance Measures
+---
+
