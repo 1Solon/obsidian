@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81bcf192621f4c63",
+        "id": "6b179478ec2a0138",
         "type": "tabs",
         "children": [
           {
-            "id": "d82b025c1362d299",
+            "id": "3fc93b9c5fb4cd3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e53dd06380c191ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Definitions/Literature Survey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05612e78eba9da11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Definitions/Sources of Information.md",
+                "file": "College/Machine Learning/ML Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Machine Learning/ML Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 2.md",
+                "file": "College/Machine Learning/ML Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,13 +136,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "d82b025c1362d299",
+  "active": "3fc93b9c5fb4cd3e",
   "lastOpenFiles": [
-    "College/Definitions/Literature Survey.md",
+    "College/Machine Learning/ML Lecture 2.md",
     "College/Definitions/Sources of Information.md",
+    "College/Definitions/Literature Survey.md",
+    "College/Research Design/Research Design Lecture 2.md",
     "Images/Pasted image 20240130155345.png",
     "Images/Pasted image 20240130155341.png",
-    "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/What is a Literature Review.md",
     "College/Research Design/2D Analysis.md",
     "Images/Pasted image 20240130152954.png",
@@ -197,7 +174,6 @@
     "College/Systems Architectures/Amoeba.md",
     "College/Systems Architectures/The V System.md",
     "College/Systems Architectures/Newcastle Connection.md",
-    "College/Systems Architectures/LOCUS.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
