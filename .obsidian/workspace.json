@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Euclidian Distance.md",
+                "file": "College/Machine Learning/ML Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Euclidian Distance.md",
+                "file": "College/Machine Learning/ML Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +168,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "3025bc831d0a6ce0",
+  "active": "3fc93b9c5fb4cd3e",
   "lastOpenFiles": [
-    "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/Euclidian Distance.md",
+    "College/Machine Learning/Similarity Learning.md",
     "Images/Pasted image 20240201112639.png",
     "College/Machine Learning/ML Lecture 2.md",
     "College/Research Design/Law of Identity.md",
