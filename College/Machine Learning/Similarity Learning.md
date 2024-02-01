@@ -52,4 +52,29 @@
 
 ## Heterogeneous Distance Measures
 ---
+![[Pasted image 20240201120726.png]]
+> * In many datasets, the features associated with instances will have different types (e.g. continuous, categorical, ordinal etc). e | speed | gty | Genser [ evnainy) » Local distance function: “m Measure the distance e | an | e [ we | between two instances s | e | s | wee | wen based on a single feature. e e.g. distance between x1 and x2 in terms of Speed? e e.g. distance between x1 and x3 in terms of Gender? e e.g. distance between x1 and x2 in terms of Nationality? ¢ Global distance function: Measure the distance betweem based on the combination of the local distances across all fea &
 
+## Heterogeneous Distance Functions
+---
+![[Pasted image 20240201120759.png]]
+> * We can create a global measure from different local distance functions, using an appropriate function for each feature. Use absolute difference for continuous h m L iy m CHELEE features Speed & Agility a0 [ o0 | oo | e | mn | e [ om | em | wae | wn | Useouerlapfor categorical features o [ em | sw | wae | e | Genders Nationaiiy d(x1,%x2) = 1.25 + 2.0 + 1 + 0 = 4.25 Global distance calculated as sum over d(x1,x3) = 0.25 + 0.5 + 1 + 1 = 2.75 individual local distances d(x2,%3) = 1.5+ 2.5+ 0 + 1 = 5.0 ¢ Often domain expertise is required to choose an T uomme appropriate distance measure for a particular dataset. R DyBLIN
+
+## Nearest Neighbour Algorithm (k-NN)
+---
+![[Pasted image 20240201120844.png]]
+> * Have a set of training instances and a query to be classified * Steps: * lterate across the training instances in memory and find the instance(s) that is/are the most similar (shortest distance) to the query instance in the feature space * Make a prediction for the query instance based on the target values of the nearest neighbour(s) of the query instance * 1-NN - use the most similar/closest training instance * k-NN - use the k most similar/closest training inm
+
+### Example
+![[Pasted image 20240201120903.png]]
+![[Pasted image 20240201120913.png]]
+
+### Example: 1-Nearest Neighbour
+![[Pasted image 20240201120937.png]]
+> * Compute distance (using selected distance measure) of query to each training instance * Rank all instances based on calculated distance * See which is the closest to query Remember: lowest distance = highest similarity D P D A DRA Di ID SPEED AGILITY DRAFT Dist. 18 7.00 4.25 es 1.27 11 2.00 2.00 no 4.85 12 5.00 2.50 no 1.82 19 750 8.00 yes 5.06 10 4.25 3.75 no 2.61 3 2.25 5.50 no 5.15 20 7.25 5.75 yes 2.80 1 2.50 6.00 no 5.20 9 4.00 4.00 no 2.93 13 825 8.50 no 5.70 6 450 5.00 no 3.01 2 3.75 8.00 no 5.83 8 3.00 3.25 no 376 14 575 8.75 yes 584 15 4.75 6.25 yes 3.82 5 2.75 7.50 no 6.02 7 350 5.25 no 3.95 4 325 8.25 no 6.31 16 550 6.75 yes 395 17 525 9.50 yes 667
+
+### Example 3-Nearest Neighbours
+---
+![[Pasted image 20240201121013.png]]
+![[Pasted image 20240201121027.png]]
+> * Compute distance of query to each training instance * Rank all instances based on distance * Choose the k nearest neighbours * Determine predicted target by majority vote of target of the k nearest neighbours D PEED A DRA Di ID SPEED AGILITY DRAFT Dist. 12 5.00 2.50 no 1.82 19 7.50 8.00 yes 5.06 10 4.25 3.75 no 2.61 3 2.25 5.50 no 5.15 0 - A yes 80 1 2.50 6.00 no 5.20 9 4.00 4.00 no 2.93 13 8.25 8.50 no 5.70 6 4.50 5.00 no 3.01 2 3.75 8.00 no 5.83 / 8 3.00 3.25 no 3.76 14 5.75 8.75 yes 5.84 7 Sk 52 h a9 4 sz e no oo e 16 550 6.75 yos 395 17 525 9.50 yos 667 DysBl Wyi/d bout 4§NN?\
