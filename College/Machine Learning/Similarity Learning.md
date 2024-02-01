@@ -42,3 +42,7 @@
 ![[Pasted image 20240201114134.png]]
 > * Binary: Takes only two values - a boolean True/False decision e.g. married={True,False}, test result={Pass,Fail} * (Categorical (Nominal): A feature that takes values from a finite set of values, with no intrinsic ordering to the values e.g. blood group={A,B,AB,0}, nationality={French, Irish,Italian} * Ordinal: Similar to a categorical variable, but there is a clear ordering of the variables. e.g.grade={A,B,C,D,E,F}, dosage={Low,Medium,High} * Interval: Values that allow ordering and subtraction, but do not allow other arithmetic operations e.g date, time — o
 
+### Categorical Data
+![[Pasted image 20240201114400.png]]
+> * OQverlap Difference (feature level): Simplest | Athiete | Gender | Nationaiity | distance measure. Returns 0 if the two | [ Female | wsh | values for a feature are equal and 1 [ 2 [ vae [ wsh | otherwise | e | wele | i | For feature dg(x1,x2) =1 For feature ~ dn(xl,x2) = 0 Gender dg(x1,x3) =1 Nationality ~ dn(x1,x3) =1 dg(x2,x3) = 0 dn(x2,x3) =1 ¢ Hamming distance: Distance metric for instance represented with categorical data only, = the sum of the overlap differences across all features - i.e. number of features on which two examples disagree. d(xl,x2) =1 +0 =1 A T uomme A3 = 1 e L= 2 e tonalt DUBLIN d(x2,x3) =0+ 1=1 P v R
+
