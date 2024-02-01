@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+                "file": "Personal/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+                "file": "Personal/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+                "file": "Personal/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,19 +171,21 @@
   },
   "active": "0fd41613c1bf1b00",
   "lastOpenFiles": [
+    "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+    "Personal/Untitled.md",
+    "Personal",
+    "College/Machine Learning/Untitled.md",
+    "Images/Pasted image 20240201124258.png",
+    "Images/Pasted image 20240201124233.png",
+    "Images/Pasted image 20240201124159.png",
+    "Images/Pasted image 20240201124146.png",
+    "Images/Pasted image 20240201124121.png",
+    "Images/Pasted image 20240201124101.png",
     "Images/Pasted image 20240201122801.png",
     "College/Machine Learning/Similarity Learning.md",
-    "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
     "Images/Pasted image 20240201122647.png",
     "Images/Pasted image 20240201121027.png",
     "Images/Pasted image 20240201121013.png",
-    "Images/Pasted image 20240201120937.png",
-    "Images/Pasted image 20240201120913.png",
-    "Images/Pasted image 20240201120903.png",
-    "Images/Pasted image 20240201120844.png",
-    "Images/Pasted image 20240201120759.png",
-    "Images/Pasted image 20240201120726.png",
-    "Images/Pasted image 20240201120724.png",
     "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/Manhattan Distance.md",
@@ -206,7 +208,6 @@
     "College/Systems Architectures/Distributed Data Management.md",
     "College/Systems Architectures/Networked Operating Systems.md",
     "College/Systems Architectures/Distributed Systems.md",
-    "College/Systems Architectures/Data In Distributed Systems.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
@@ -216,7 +217,6 @@
     "Games",
     "College/Web Development Lectures",
     "College/Software Design",
-    "College/Web Applications Architectures",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
