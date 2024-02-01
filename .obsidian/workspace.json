@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45395e8c1e440f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Machine Learning/Normalisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d27043c223c4a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Machine Learning/Similarity Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -138,7 +162,13 @@
   },
   "active": "3fc93b9c5fb4cd3e",
   "lastOpenFiles": [
+    "College/Machine Learning/Normalisation.md",
     "College/Machine Learning/ML Lecture 2.md",
+    "College/Machine Learning/Similarity Learning.md",
+    "Images/Pasted image 20240201110953.png",
+    "Images/Pasted image 20240201110929.png",
+    "College/Machine Learning/Overfitting.md",
+    "College/Machine Learning/Underfitting.md",
     "College/Definitions/Sources of Information.md",
     "College/Definitions/Literature Survey.md",
     "College/Research Design/Research Design Lecture 2.md",
@@ -154,8 +184,6 @@
     "Images/Pasted image 20240130152654.png",
     "College/Research Design/Thesis Structure.md",
     "Images/Pasted image 20240130152618.png",
-    "Images/Pasted image 20240130150819.png",
-    "Images/Pasted image 20240130150802.png",
     "College/Research Design/Research Design Lecture 1.md",
     "College/Systems Architectures/Peer to Peer Model.md",
     "College/Systems Architectures/SysArch Lecture 2.md",
@@ -170,10 +198,6 @@
     "College/Systems Architectures/Distributed Systems Scaling Techniques.md",
     "College/Systems Architectures/Middleware.md",
     "College/Systems Architectures/Distributed Operating Systems.md",
-    "College/Systems Architectures/VaxCluster.md",
-    "College/Systems Architectures/Amoeba.md",
-    "College/Systems Architectures/The V System.md",
-    "College/Systems Architectures/Newcastle Connection.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
