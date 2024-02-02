@@ -5,6 +5,8 @@
 
 * "Verify trustworthiness of different reports"
 
+* "Identify keywords"
+
 * [[Sources of Information]]
 
 * [[Evaluating the Source]]

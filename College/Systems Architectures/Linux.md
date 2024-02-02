@@ -1,0 +1,2 @@
+![[Pasted image 20240129145440.png]]
+> * Created by Linus Torvalds 1991 * Open Source code * Development by 1000’s of volunteers * Contributions made by some of the finest programmers in the world, Universities, Labs etc * Version 1 released 1994 * Full featured UNIX clone * Big Uptake of LInux

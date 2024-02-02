@@ -1,0 +1,2 @@
+![[Pasted image 20240129151844.png]]
+> * Developed by Andrew S. Tanenbaum and others at the Dutch Vrije Universiteit * Runs on a collection of Motorola Machines * Key innovation is a Processor pool * Treats processing as another service * Maintains a pool of available processors. * If a user needs a huge amount of processing an allocation from the pool can be made and released once the job is over

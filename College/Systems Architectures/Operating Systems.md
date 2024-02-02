@@ -11,3 +11,25 @@
 ## OS Structure
 ---
 ![[Pasted image 20240122152030.png]]
+
+## OS Links
+---
+* [[OS Processes]]
+
+## Memory Management
+---
+* [[Memory Management]]
+
+## File Systems
+---
+* [[File Systems]]
+
+## System Administration
+---
+![[Pasted image 20240129145011.png]]
+> System Administration * User Accounts * Login and Passwords * Backups * Security * Virus Checkers, Firewalls etc * System Tuning * Batch Job Processing
+
+## Examples of Operating Systems
+---
+* [[Unix]]
+* [[Linux]]
