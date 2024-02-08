@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "aa8f848f7dfe0e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Machine Learning/Information Gain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bbc3192bda08f45c",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Entropy.md",
+                "file": "College/Machine Learning/Information Gain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Entropy.md",
+                "file": "College/Machine Learning/Information Gain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,15 +189,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "2b67adbf68e43584",
+  "active": "aa8f848f7dfe0e9b",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/Information Gain.md",
+    "College/Machine Learning/Entropy.md",
+    "College/Machine Learning/Decision Tree - Inductive Bias.md",
     "Images/Pasted image 20240208114747.png",
     "Images/Pasted image 20240208114731.png",
-    "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "College/Machine Learning/Entropy.md",
     "Images/Pasted image 20240208113824.png",
     "College/Machine Learning/Decision Trees.md",
-    "College/Machine Learning/ML Lecture 3.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 2.md",
     "Personal/Hosting my obsidian online (project).md",
@@ -200,7 +213,6 @@
     "Images/Pasted image 20240201124101.png",
     "Images/Pasted image 20240201122801.png",
     "College/Machine Learning/Similarity Learning.md",
-    "Images/Pasted image 20240201122647.png",
     "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/Manhattan Distance.md",
     "College/Machine Learning/Euclidian Distance.md",
