@@ -20,47 +20,27 @@
             }
           },
           {
-            "id": "aa8f848f7dfe0e9b",
+            "id": "48ef45b8df79ab8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbc3192bda08f45c",
+            "id": "34ad8cec092fef89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Decision Tree - Inductive Bias.md",
+                "file": "College/Machine Learning/Decision Trees - ID3.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2b67adbf68e43584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/Entropy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caf777c26b80dd33",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -72,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Decision Trees - ID3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Decision Trees - ID3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,30 +169,31 @@
       "templates:Insert template": false
     }
   },
-  "active": "aa8f848f7dfe0e9b",
+  "active": "34ad8cec092fef89",
   "lastOpenFiles": [
-    "Images/Pasted image 20240208120810.png",
-    "Images/Pasted image 20240208120757.png",
-    "Images/Pasted image 20240208120749.png",
-    "Images/Pasted image 20240208120739.png",
-    "Images/Pasted image 20240208120725.png",
-    "Images/Pasted image 20240208120647.png",
+    "Images/Pasted image 20240208124252.png",
+    "Images/Pasted image 20240208124230.png",
+    "Images/Pasted image 20240208124209.png",
+    "Images/Pasted image 20240208124144.png",
+    "Images/Pasted image 20240208124123.png",
+    "Images/Pasted image 20240208124107.png",
+    "Images/Pasted image 20240208124051.png",
+    "Images/Pasted image 20240208124030.png",
+    "Images/Pasted image 20240208124019.png",
+    "Images/Pasted image 20240208124004.png",
+    "Images/Pasted image 20240208123940.png",
+    "College/Machine Learning/Decision Trees.md",
+    "College/Machine Learning/Decision Trees - ID3.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "Images/Pasted image 20240208114747.png",
-    "Images/Pasted image 20240208114731.png",
-    "Images/Pasted image 20240208113824.png",
-    "College/Machine Learning/Decision Trees.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 2.md",
     "Personal/Hosting my obsidian online (project).md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
     "Personal",
     "College/Machine Learning/Untitled.md",
-    "Images/Pasted image 20240201124258.png",
-    "Images/Pasted image 20240201124233.png",
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/Manhattan Distance.md",
@@ -227,7 +208,6 @@
     "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/What is a Literature Review.md",
     "College/Research Design/2D Analysis.md",
-    "College/Research Design/Thesis Introduction.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",

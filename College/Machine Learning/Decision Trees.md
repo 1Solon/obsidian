@@ -38,3 +38,5 @@ Decision Trees are a versatile tool in machine learning, useful for both classif
 ## Links
 ---
 * [[Decision Tree - Inductive Bias]]
+* [[Information Gain]]
+* [[Decision Trees - ID3]]
