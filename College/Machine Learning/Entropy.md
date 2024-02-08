@@ -26,3 +26,11 @@ Entropy is a key concept in decision tree algorithms. It represents the level of
 ## Conclusion
 ---
 Understanding entropy is crucial in decision tree algorithms, as it aids in making more informed decisions about which features to use for data splitting, ultimately affecting the efficiency and accuracy of the model.
+
+## Slides
+---
+![[Pasted image 20240208114731.png]]
+> Node has high Node has low uncertainty uncertainty — High entropy — Low entropy * Entropy is related to the probability of an outcome. * High probability—> Low entropy * Low probability —> High entropy V
+
+![[Pasted image 20240208114747.png]]
+> * The log of a probability multiplied by -1 gives the mapping — High probability —> low entropy — Low probability —> high entropy - g’ £° 8., g, : - DUBLIN 0.0 0.2 04 oo 06 08 1.0 0.0 0.2 0.4 oo 06 08 1.0 s )
