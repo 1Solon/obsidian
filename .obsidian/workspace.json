@@ -20,15 +20,35 @@
             }
           },
           {
-            "id": "0174e3635c12d533",
+            "id": "bbc3192bda08f45c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Decision Trees.md",
+                "file": "College/Machine Learning/Decision Tree - Inductive Bias.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2b67adbf68e43584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Machine Learning/Entropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf777c26b80dd33",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -40,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Decision Trees.md",
+                "file": "College/Machine Learning/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Decision Trees.md",
+                "file": "College/Machine Learning/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +177,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "0174e3635c12d533",
+  "active": "2b67adbf68e43584",
   "lastOpenFiles": [
-    "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/Decision Tree - Inductive Bias.md",
+    "College/Machine Learning/Entropy.md",
+    "Images/Pasted image 20240208113824.png",
     "College/Machine Learning/Decision Trees.md",
+    "College/Machine Learning/ML Lecture 3.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 2.md",
     "Personal/Hosting my obsidian online (project).md",
@@ -177,7 +200,6 @@
     "College/Machine Learning/Similarity Learning.md",
     "Images/Pasted image 20240201122647.png",
     "Images/Pasted image 20240201121027.png",
-    "Images/Pasted image 20240201121013.png",
     "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/Manhattan Distance.md",
     "College/Machine Learning/Euclidian Distance.md",
@@ -194,8 +216,6 @@
     "College/Research Design/Thesis Introduction.md",
     "College/Research Design/Thesis Structure.md",
     "College/Research Design/Research Design Lecture 1.md",
-    "College/Systems Architectures/Peer to Peer Model.md",
-    "College/Systems Architectures/SysArch Lecture 2.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",

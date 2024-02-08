@@ -34,3 +34,7 @@ Decision Trees are a method used in machine learning and data analytics to make 
 ## Conclusion
 ---
 Decision Trees are a versatile tool in machine learning, useful for both classification and regression tasks, known for their interpretability and ability to handle diverse data types.
+
+## Links
+---
+* [[Decision Tree - Inductive Bias]]
