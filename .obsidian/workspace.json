@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b5cf952e0fd451e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Secure Systems Development/Stack Smash Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Secure Systems Development/SSD Lecture 4.md",
+                "file": "College/Secure Systems Development/Stack Smash Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Secure Systems Development/SSD Lecture 4.md",
+                "file": "College/Secure Systems Development/Stack Smash Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +149,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "cfa133effb642674",
+  "active": "1b5cf952e0fd451e",
   "lastOpenFiles": [
     "College/Secure Systems Development/SSD Lecture 4.md",
+    "College/Secure Systems Development/Stack Smash Attack.md",
     "College/Machine Learning/Decision Trees - ID3.md",
     "Images/Pasted image 20240208124252.png",
     "Images/Pasted image 20240208124230.png",
@@ -174,7 +188,6 @@
     "College/Definitions/Literature Survey.md",
     "College/Research Design/Research Design Lecture 2.md",
     "College/Definitions/What is a Literature Review.md",
-    "College/Research Design/2D Analysis.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
