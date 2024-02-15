@@ -1,0 +1,2 @@
+![[Pasted image 20240215111938.png]]
+> » Trade off between the number of descriptive features and the density of instances in the feature space " -‘ o 1.0 ; "/ 2.53.0 e L] D [Fescesvcsfecccccscceccoscccne w - " 009_5 00 05 10 15 20 25 30 00 05 10 15 20 25 30 <00 05 1.0 15 20 25 30 X X X + To maintain the sampling density of the feature space as the number of descriptive features increase we need to dramatically increase the number of instances T o < DUBLIN

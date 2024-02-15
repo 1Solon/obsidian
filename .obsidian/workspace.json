@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e3d1e4b9fd8f4ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Machine Learning/Curse of Dimensionality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e844cedf9355f1bc",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,12 @@
   },
   "active": "e844cedf9355f1bc",
   "lastOpenFiles": [
+    "College/Machine Learning/Curse of Dimensionality.md",
+    "Images/Pasted image 20240215111938.png",
     "College/Machine Learning/ML Lecture 4.md",
+    "College/Machine Learning/Probability Based Learning.md",
+    "Images/Pasted image 20240215111839.png",
+    "Images/Pasted image 20240215111833.png",
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Research Design/Research Design Lecture 4.md",
@@ -165,9 +182,6 @@
     "Images/Pasted image 20240208124123.png",
     "Images/Pasted image 20240208124107.png",
     "Images/Pasted image 20240208124051.png",
-    "Images/Pasted image 20240208124030.png",
-    "Images/Pasted image 20240208124019.png",
-    "Images/Pasted image 20240208124004.png",
     "College/Machine Learning/Decision Trees.md",
     "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Entropy.md",
@@ -185,9 +199,6 @@
     "College/Research Design/Law of Identity.md",
     "College/Research Design/Laws of Logic.md",
     "College/Machine Learning/Normalisation.md",
-    "College/Machine Learning/Overfitting.md",
-    "College/Machine Learning/Underfitting.md",
-    "College/Definitions/Sources of Information.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
