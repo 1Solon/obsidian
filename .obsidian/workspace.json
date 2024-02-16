@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e46afaab480b0434",
+        "id": "bcdbb45ef8ff8444",
         "type": "tabs",
         "children": [
           {
-            "id": "61e62a95f27394fd",
+            "id": "7eef32fa51c91024",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Kubernetes Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +130,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "61e62a95f27394fd",
+  "active": "7eef32fa51c91024",
   "lastOpenFiles": [
-    "Personal/Useful commands.md",
     "Personal/Kubernetes Notes.md",
+    "Personal/Useful commands.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
