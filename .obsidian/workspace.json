@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "61e62a95f27394fd",
   "lastOpenFiles": [
-    "Games/Tarkov/Earpieces.md",
     "Personal/Useful commands.md",
+    "Personal/Kubernetes Notes.md",
+    "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -174,7 +175,6 @@
     "College/Systems Architectures/Distributed Operating Systems.md",
     "College/Systems Architectures/Distributed Data Management.md",
     "College/Systems Architectures/Data In Distributed Systems.md",
-    "College/Systems Architectures/Amoeba.md",
     "College/Machine Learning",
     "College/Systems Architectures",
     "College/Secure Systems Development",
