@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "7eef32fa51c91024",
   "lastOpenFiles": [
-    "Personal/Kubernetes Notes.md",
+    "Personal/Hosting my obsidian online (project).md",
     "Personal/Future project idea.md",
+    "Personal/Kubernetes Notes.md",
     "Personal/Useful commands.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
@@ -163,7 +164,6 @@
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Trees.md",
     "College/Machine Learning/Decision Trees - ID3.md",
-    "Personal/Hosting my obsidian online (project).md",
     "conflict-files-obsidian-git.md",
     "Games/Tarkov/Interchange.md",
     "Games/Tarkov/Reserve.md",
