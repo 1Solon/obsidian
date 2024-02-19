@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1ae22e8efb5dc52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,8 +145,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "f862d33f5557743b",
+  "active": "1ae22e8efb5dc52b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Personal/Useful commands.md",
+    "Personal/Kubernetes Notes.md",
+    "Personal/Future project idea.md",
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/Curse of Dimensionality.md",
     "Images/Pasted image 20240215111938.png",
@@ -157,7 +174,6 @@
     "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 2.md",
     "Personal/Hosting my obsidian online (project).md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
@@ -168,8 +184,6 @@
     "College/Machine Learning/Manhattan Distance.md",
     "College/Machine Learning/Euclidian Distance.md",
     "College/Research Design/Law of Identity.md",
-    "College/Research Design/Laws of Logic.md",
-    "College/Machine Learning/Normalisation.md",
     "College/Machine Learning",
     "College/Research Design",
     "College/Secure Systems Development",
