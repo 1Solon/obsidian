@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bb5259ae58d2a21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Systems Architectures/P2P.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "308feabc34e35e63",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K-near",
+                "query": "transactions",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/Blockchain.md",
+                "file": "College/Systems Architectures/P2P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/Blockchain.md",
+                "file": "College/Systems Architectures/P2P.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +174,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "76824c4d20e941a3",
+  "active": "bb5259ae58d2a21d",
   "lastOpenFiles": [
-    "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Blockchain.md",
+    "College/Systems Architectures/P2P.md",
+    "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Untitled.md",
     "College/Systems Architectures/Green Computing.md",
     "Personal/Kubernetes Notes.md",
@@ -198,7 +212,6 @@
     "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "College/Machine Learning/ML Lecture 2.md",
     "Personal",
     "College/Machine Learning",
     "College/Research Design",

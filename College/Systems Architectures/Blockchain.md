@@ -14,10 +14,10 @@
 
 ## Peer-to-Peer (P2P) Network
 ---
-- In a P2P network, each peer in the network has equal power and can perform the same tasks.
+- In a [[P2P]] network, each peer in the network has equal power and can perform the same tasks.
 - It is used for sharing resources like files or providing direct services between systems in a blockchain network.
-- This decentralized nature of P2P networks increases security, as there is no single point of failure.
-- P2P is integral to blockchain as it ensures the distribution of data across a network of computers without requiring a central management system.
+- This decentralized nature of [[P2P]] networks increases security, as there is no single point of failure.
+- [[P2P]] is integral to blockchain as it ensures the distribution of data across a network of computers without requiring a central management system.
 
 ## Genesis Block
 ---
@@ -39,3 +39,8 @@
 - They are essential for maintaining the integrity and consistency of the blockchain.
 - Popular consensus mechanisms include Proof of Work (PoW), Proof of Stake (PoS), and Delegated Proof of Stake (DPoS).
 - These mechanisms also play a crucial role in how new blocks are created and how conflicts are resolved in a blockchain network.
+
+## Links:
+---
+* [[Distributed Systems]]
+* [[BlockchainDB]]
