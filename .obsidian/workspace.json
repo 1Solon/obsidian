@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "76824c4d20e941a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Systems Architectures/Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "308feabc34e35e63",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 4.md",
+                "file": "College/Systems Architectures/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 4.md",
+                "file": "College/Systems Architectures/Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,10 +161,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "f862d33f5557743b",
+  "active": "76824c4d20e941a3",
   "lastOpenFiles": [
-    "College/Systems Architectures/Untitled.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
+    "College/Systems Architectures/Blockchain.md",
+    "College/Systems Architectures/Untitled.md",
     "College/Systems Architectures/Green Computing.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Hosting my obsidian online (project).md",
@@ -185,7 +199,6 @@
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
     "College/Machine Learning/ML Lecture 2.md",
-    "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
     "Personal",
     "College/Machine Learning",
     "College/Research Design",
