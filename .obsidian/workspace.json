@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae4f9c450c8d65ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/ML Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3d1e4b9fd8f4ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/Curse of Dimensionality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e844cedf9355f1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/Naïve Bayes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f862d33f5557743b",
             "type": "leaf",
             "state": {
@@ -51,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/Machine Learning/ML Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/Machine Learning/ML Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
