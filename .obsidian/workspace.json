@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Secure Systems Development/Heartbleed.md",
+                "file": "College/Secure Systems Development/SSD Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Secure Systems Development/Heartbleed.md",
+                "file": "College/Secure Systems Development/SSD Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +161,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "9316cabb4a7566a0",
   "lastOpenFiles": [
-    "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/Heartbleed.md",
+    "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Blockchain.md",
