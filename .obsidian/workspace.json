@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peer",
+                "query": "memory",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "268d6be5e0a49cfe",
+  "active": "17d1a466ec75f671",
   "lastOpenFiles": [
     "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/Heartbleed.md",

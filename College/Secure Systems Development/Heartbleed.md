@@ -28,7 +28,7 @@
 ## Impact and Response
 ---
 - Discovered in 2014, led to widespread concern and swift response.
-- Prompted a reevaluation of security practices in software development.
+- Prompted a revaluation of security practices in software development.
 
 ## Additional Resources
 ---
