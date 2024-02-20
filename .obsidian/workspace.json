@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f862d33f5557743b",
+            "id": "9316cabb4a7566a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 4.md",
+                "file": "College/Secure Systems Development/SSD Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9316cabb4a7566a0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/Secure Systems Development/SSD Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/Secure Systems Development/SSD Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +138,7 @@
   },
   "active": "9316cabb4a7566a0",
   "lastOpenFiles": [
+    "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Blockchain.md",
     "College/Systems Architectures/Peer to Peer Model.md",
@@ -180,7 +174,6 @@
     "Images/Pasted image 20240208124107.png",
     "Images/Pasted image 20240208124051.png",
     "College/Machine Learning/Decision Trees.md",
-    "College/Machine Learning/Information Gain.md",
     "Personal",
     "College/Machine Learning",
     "College/Research Design",
