@@ -1,6 +1,7 @@
 ## Links
 ---
 * [[SSD Lecture 4]]
+* [[Heartbleed]]
 ## Overview
 ---
 This lecture covers key aspects of software vulnerabilities, focusing on memory regions and input validation attacks.
