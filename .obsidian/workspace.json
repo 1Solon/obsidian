@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +138,10 @@
   },
   "active": "7eef32fa51c91024",
   "lastOpenFiles": [
+    "Personal/Kubernetes Notes.md",
+    "Personal/Creating a CIFS backup.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Future project idea.md",
-    "Personal/Kubernetes Notes.md",
     "Personal/Useful commands.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
@@ -174,7 +175,6 @@
     "College/Systems Architectures/Distributed Systems Scaling Techniques.md",
     "College/Systems Architectures/Distributed Process Management.md",
     "College/Systems Architectures/Distributed Operating Systems.md",
-    "College/Systems Architectures/Distributed Data Management.md",
     "College/Machine Learning",
     "College/Systems Architectures",
     "College/Secure Systems Development",
