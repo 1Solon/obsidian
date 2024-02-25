@@ -4,3 +4,4 @@
  * Flux GitOps for home cluster: 
 	 * https://fluxcd.io/
 	 * https://github.com/fluxcd/flux2/discussions/2670
+	 * https://www.youtube.com/watch?v=PFLimPh5-wo
