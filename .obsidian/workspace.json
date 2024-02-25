@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Future project idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Future project idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Future project idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "7eef32fa51c91024",
   "lastOpenFiles": [
+    "Personal/Kubernetes Notes.md",
     "Personal/Creating a CIFS backup.md",
     "conflict-files-obsidian-git.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
@@ -146,7 +147,6 @@
     "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Secure Systems Development/Heartbleed.md",
     "College/Secure Systems Development/Heartbleed Lab.md",
-    "Personal/Kubernetes Notes.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Future project idea.md",
     "Personal/Useful commands.md",
