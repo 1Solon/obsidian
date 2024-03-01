@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdbb45ef8ff8444",
+        "id": "808ec6832dc002f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7eef32fa51c91024",
+            "id": "4111edf7294a4dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,19 +136,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "7eef32fa51c91024",
+  "active": "4111edf7294a4dde",
   "lastOpenFiles": [
+    "College/Secure Systems Development/SSD Lecture 5.md",
+    "College/Secure Systems Development/[SSD-2024-02-13.md",
+    "College/Secure Systems Development/SSD-2024-02-13.md",
+    "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Creating a CIFS backup.md",
     "conflict-files-obsidian-git.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Green Computing.md",
     "College/Systems Architectures/Blockchain.md",
-    "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Secure Systems Development/Heartbleed.md",
     "College/Secure Systems Development/Heartbleed Lab.md",
     "Personal/Hosting my obsidian online (project).md",
-    "Personal/Future project idea.md",
     "Personal/Useful commands.md",
     "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
@@ -172,8 +174,6 @@
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Trees.md",
     "College/Machine Learning/Decision Trees - ID3.md",
-    "Games/Tarkov/Interchange.md",
-    "Games/Tarkov/Reserve.md",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
