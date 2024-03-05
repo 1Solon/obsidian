@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6580d303676666bb",
+            "id": "83d245709867ef76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Notifarrr.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Notifarrr.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Notifarrr.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +136,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "6580d303676666bb",
+  "active": "83d245709867ef76",
   "lastOpenFiles": [
     "Personal/Notifarrr.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Creating a CIFS backup.md",
+    "College/Secure Systems Development/SSD-2024-02-13.md",
     "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/Heartbleed.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
@@ -154,7 +157,6 @@
     "College/Systems Architectures/Computer Architectures.md",
     "College/Systems Architectures/Amoeba.md",
     "College/Systems Architectures/Data In Distributed Systems.md",
-    "conflict-files-obsidian-git.md",
     "Personal/Useful commands.md",
     "Personal/Future project idea.md",
     "College/Machine Learning/Naïve Bayes.md",
@@ -165,8 +167,6 @@
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
     "College/Machine Learning/ML Lecture 3.md",
-    "College/Research Design/Research Design Lecture 4.md",
-    "College/Secure Systems Development/Stack Smash Attack.md",
     "Images/Pasted image 20240208124252.png",
     "Images/Pasted image 20240208124230.png",
     "Images/Pasted image 20240208124209.png",
