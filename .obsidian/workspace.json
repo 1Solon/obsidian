@@ -11,8 +11,12 @@
             "id": "6580d303676666bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Notifarrr.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Notifarrr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Notifarrr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,8 +136,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "6580d303676666bb",
   "lastOpenFiles": [
+    "Personal/Notifarrr.md",
     "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/Heartbleed.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
@@ -161,7 +167,6 @@
     "College/Machine Learning/ML Lecture 3.md",
     "College/Research Design/Research Design Lecture 4.md",
     "College/Secure Systems Development/Stack Smash Attack.md",
-    "College/Secure Systems Development/SSD Lecture 4.md",
     "Images/Pasted image 20240208124252.png",
     "Images/Pasted image 20240208124230.png",
     "Images/Pasted image 20240208124209.png",
