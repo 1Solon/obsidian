@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "071e1512df772931",
+        "id": "a90969c9e691a3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "83d245709867ef76",
+            "id": "a0d38b275bb9a3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Secure Systems Development/SSD Lecture 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Secure Systems Development/SSD Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Secure Systems Development/SSD Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +136,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "83d245709867ef76",
+  "active": "a0d38b275bb9a3c1",
   "lastOpenFiles": [
-    "Personal/Notifarrr.md",
     "conflict-files-obsidian-git.md",
+    "College/Secure Systems Development/SSD Lecture 7.md",
+    "Personal/Notifarrr.md",
     "Personal/Creating a CIFS backup.md",
     "College/Secure Systems Development/SSD-2024-02-13.md",
     "College/Secure Systems Development/Heartbleed Lab.md",
@@ -166,7 +167,6 @@
     "College/Machine Learning/Probability Based Learning.md",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
-    "College/Machine Learning/ML Lecture 3.md",
     "Images/Pasted image 20240208124252.png",
     "Images/Pasted image 20240208124230.png",
     "Images/Pasted image 20240208124209.png",
