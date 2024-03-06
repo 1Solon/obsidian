@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a907585ea000849",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +148,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "4a907585ea000849",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "College/Secure Systems Development/SSD Lecture 7.md",
