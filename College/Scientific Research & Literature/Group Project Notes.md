@@ -10,4 +10,5 @@
 * Final presentation, everyone should know what they are talking about
 * Software demos mandatory
 * Show and Tell of every team and every team member
+* 35% Interim Presentation, 15% Final Presentation, 50% Final report
 * 
