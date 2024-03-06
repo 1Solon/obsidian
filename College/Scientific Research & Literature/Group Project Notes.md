@@ -14,4 +14,11 @@
 * I20% individual diary - weekly reflections (seems to be a core component of individual assessment)
 * **Marks taken off for absence**
 * Monorepo required
+* Generalised "general public" -> core point is a social good
+* Solving Technical Challenges, Satisfying User Needs, Familiarity with State-of-the-Art, Communicating Excellently
+* **Getting testing is seemingly important, user feedback is required**
+* Data Feasibility, Technical Feasibility, Evaluation Feasibility, Ethical Feasibility (things that need to be considered)
+* **Meetings are full contact, in person, on Fridays**
+* Scope, Theme, Data <- more things to think about
+* **35-40 hours per week of work per project**
 * 
