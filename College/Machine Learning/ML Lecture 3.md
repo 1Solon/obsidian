@@ -52,14 +52,6 @@ Decision Trees are a powerful tool for both classification and regression tasks 
 
 ---
 
-## Questions?
-
-If you have any questions or need further clarification on any of the topics covered in this lecture, please don't hesitate to reach out to the instructors.
-
-
-
-
 * [[ML Lecture 2]]
 * [[Decision Trees]]
 * [[Information Gain]]
-* 

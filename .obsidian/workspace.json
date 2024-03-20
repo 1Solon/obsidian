@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,8 @@
   },
   "active": "ed3244479948ed8f",
   "lastOpenFiles": [
-    "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 1.md",
     "College/Machine Learning/sckit-learn.md",
