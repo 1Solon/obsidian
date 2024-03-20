@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "808ec6832dc002f6",
+        "id": "f70b463b4b8f3cec",
         "type": "tabs",
         "children": [
           {
-            "id": "4111edf7294a4dde",
+            "id": "9ca26c061b9bfe23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tarkov/Earpieces.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tarkov/Earpieces.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tarkov/Earpieces.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +136,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "4111edf7294a4dde",
+  "active": "9ca26c061b9bfe23",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Personal/Notifarrr.md",
+    "College/Secure Systems Development/SSD Lecture 7.md",
+    "College/Scientific Research & Literature/Group Project Notes.md",
+    "Games/Tarkov/Earpieces.md",
     "Games/Tarkov/Customs.md",
     "College/Secure Systems Development/SSD-2024-02-13.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
@@ -145,7 +150,6 @@
     "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Creating a CIFS backup.md",
-    "conflict-files-obsidian-git.md",
     "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Green Computing.md",
     "College/Systems Architectures/Blockchain.md",
@@ -153,7 +157,6 @@
     "College/Secure Systems Development/Heartbleed Lab.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Useful commands.md",
-    "Games/Tarkov/Earpieces.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -171,9 +174,6 @@
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
-    "College/Machine Learning/Information Gain.md",
-    "College/Machine Learning/Entropy.md",
-    "College/Machine Learning/Decision Trees.md",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
