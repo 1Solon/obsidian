@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Secure Systems Development/SSD-2024-02-13.md",
+                "file": "Games/Tarkov/Earpieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +138,10 @@
   },
   "active": "4111edf7294a4dde",
   "lastOpenFiles": [
+    "Games/Tarkov/Customs.md",
+    "College/Secure Systems Development/SSD-2024-02-13.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Secure Systems Development/[SSD-2024-02-13.md",
-    "College/Secure Systems Development/SSD-2024-02-13.md",
     "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Creating a CIFS backup.md",
@@ -173,7 +174,6 @@
     "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Decision Trees.md",
-    "College/Machine Learning/Decision Trees - ID3.md",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
