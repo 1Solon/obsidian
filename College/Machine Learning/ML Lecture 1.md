@@ -1,87 +1,62 @@
-# Machine Learning: Lecture 1 - Introduction
+**Contact Information:**
+- Bojan Bozic: `bojan.bozic@tudublin.ie`
+- Bujar Raufi: `bujar.raufi@tudublin.ie`
 
-## Presented by Bojan Bozic & Bujar Raufi
-### School of Computer Science, TU Dublin Grangegorman
-
-- **Contact Information**
-  - Bojan Bozic: `bojan.bozic@tudublin.ie`
-  - Bujar Raufi: `bujar.raufi@tudublin.ie`
-
-- **Resources**: Slides adapted from Sarah Jane Delany and book slides from: "Fundamentals of Machine Learning for Predictive Data Analytics" by Kelleher, Mac Namee, and D’Arcy.
+**Resources**: Adapted from Sarah Jane Delany and the book "Fundamentals of Machine Learning for Predictive Data Analytics" by Kelleher, Mac Namee, and D’Arcy.
 
 ---
 
 ## Overview
-- Administrivia
-- Module Outline
-- The state of Machine Learning today
-- Introduction to Machine Learning
-- Supervised vs. Unsupervised Learning
-- Representing Data as Features
+This lecture serves as an introduction to the vast field of Machine Learning (ML), laying down the foundational concepts, the distinction between supervised and unsupervised learning, and the significance of representing data through features.
 
 ---
 
 ## Administrivia
 
-- **Lectures & Labs**:
-  - **Bojan (Part-Time)**: Lectures on Thursday from 6pm to 8pm; Labs from 8pm to 10pm.
-  - **Bujar (Full-Time)**: Lectures on Thursday from 11am to 1pm; Labs from 2pm to 4pm.
-- **Resources**: All notes, lecture recordings, tutorials, lab work, and assignments will be available on Brightspace.
-- **Module Queries**: Please contact Bojan Bozic and Bujar Raufi via the emails provided.
+- **Schedule**:
+  - **Bojan (PT)**: Thursdays 6pm-8pm (Lectures), 8pm-10pm (Labs).
+  - **Bujar (FT)**: Thursdays 11am-1pm (Lectures), 2pm-4pm (Labs).
+- **Resources**: Available on Brightspace, including notes, recordings, tutorials, lab work, and assignments.
+- **Module Queries**: Direct to Bojan Bozic and Bujar Raufi.
 
 ---
 
-## Textbook
-- **Title**: "Fundamentals of Machine Learning for Predictive Data Analytics"
-- **Authors**: John D. Kelleher, Brian Mac Namee, Aoife D'Arcy
+## Module Resources
 
----
-
-## ML with Python
-- Tutorials and lab work require a laptop with Jupyter and scikit-learn.
-- [Scikit-Learn Website](https://scikit-learn.org/stable/)
+- **Main Textbook**: "Fundamentals of Machine Learning for Predictive Data Analytics" by John D. Kelleher, Brian Mac Namee, Aoife D'Arcy.
+- **Python & ML**: Labs and tutorials require Jupyter and scikit-learn. Visit [Scikit-Learn](https://scikit-learn.org/stable/) for more information.
 
 ---
 
 ## Assessment
-- **Assignment**: 30% - Review week April 25th, 2024
-- **Lab Test**: 20% - March 21st, 2024
-- **End of Semester Exam**: 50%
+
+- **Assignment**: 30% - Due week of April 25th, 2024.
+- **Lab Test**: 20% - Scheduled for March 21st, 2024.
+- **Final Exam**: 50% - End of the semester.
 
 ---
 
-## Machine Learning - Overview
-- Topics covered include Supervised Learning, Classification, Dimensionality Reduction, The ML Process, Evaluation, Working with Text, and Unsupervised Learning.
+## Detailed Overview of Machine Learning
 
----
+### The Present and Future of ML
+- The lecture navigates through the current landscape of ML, showcasing the advancements and applications, including AI-generated art (Dall-E) and conversational models (ChatGPT), highlighting their societal impact and limitations.
 
-## Relevance of ML
-- The significant explosion in data, advancements in algorithms, computational power, and industry demand underscore the growing relevance of Machine Learning across various disciplines.
+### Fundamentals of Machine Learning
+- **Supervised vs. Unsupervised Learning**: Differentiates between learning with labeled data (supervised) and discovering patterns in unlabeled data (unsupervised).
+- **Data Representation**: Emphasizes the importance of feature selection in representing data effectively for ML models.
 
----
+### Practical Aspects of ML
+- Detailed examples and discussions on classification tasks, including credit scoring, illustrate how ML models are trained to categorize or predict based on historical data.
 
-## Advances in AI
-- Highlights include Dall-E for image generation from descriptions and ChatGPT for conversational interactions.
+### Challenges and Ethical Considerations
+- Addressing the ethical implications, limitations, and potential biases inherent in ML models, with a forward-looking perspective on the need for regulation and responsible AI development.
 
----
+### Supervised Learning in Depth
+- Dives into the mechanics of supervised learning, covering key concepts such as training datasets, prediction models, and the balance between underfitting and overfitting.
 
-## But...
-- Limitations of current AI technologies, including the lack of "understanding" by models like ChatGPT and examples of AI failures.
+### Algorithms and Model Selection
+- An exploration of various ML algorithms (e.g., KNN, Decision Trees, Neural Networks) and the importance of selecting the right model based on the problem at hand.
 
----
-
-## Supervised vs. Unsupervised Learning
-- Explained the differences between Supervised Learning (learning with labeled examples) and Unsupervised Learning (finding structure in data without labels).
-
----
-
-## Representing Data
-- Discusses how data is represented in Machine Learning, including different types of features like binary, categorical, ordinal, interval, and continuous.
-
----
-
-## Classification Task
-- A practical example of a classification task involving credit scoring is detailed, showing how a model is trained to classify customers into high-risk and low-risk categories.
-
----
+### Evaluation and Improvement
+- Discusses strategies for evaluating ML models, including cross-validation and metrics for assessing performance, with an emphasis on continuous improvement and adaptation.
 
