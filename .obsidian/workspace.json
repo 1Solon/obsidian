@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f70b463b4b8f3cec",
+        "id": "f81536c431f8f96d",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca26c061b9bfe23",
+            "id": "ed3244479948ed8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "College/Machine Learning/ML Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +136,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "9ca26c061b9bfe23",
+  "active": "ed3244479948ed8f",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 2.md",
+    "College/Machine Learning/ML Lecture 1.md",
+    "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/ML Lecture 4.md",
     "conflict-files-obsidian-git.md",
     "Personal/Notifarrr.md",
     "College/Secure Systems Development/SSD Lecture 7.md",
@@ -170,10 +174,6 @@
     "College/Secure Systems Development/Stack Smash Attack.md",
     "College/Secure Systems Development/SSD Lecture 4.md",
     "College/Research Design/Research Design Lecture 4.md",
-    "College/Machine Learning/Probability Based Learning.md",
-    "College/Machine Learning/Naïve Bayes.md",
-    "College/Machine Learning/ML Lecture 4.md",
-    "College/Machine Learning/ML Lecture 3.md",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
