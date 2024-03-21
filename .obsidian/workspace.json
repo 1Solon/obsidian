@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/Minkowski Distance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/Minkowski Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/Minkowski Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 7.md",
     "College/Machine Learning/ML Lecture 6B.md",
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/ML Lecture 5.md",
@@ -158,7 +159,6 @@
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 9.md",
     "College/Machine Learning/ML Lecture 8.md",
-    "College/Machine Learning/ML Lecture 7.md",
     "College/Scientific Research & Literature/Group Project Notes.md",
     "College/Secure Systems Development/SSD Lecture 7.md",
     "Personal/Notifarrr.md",
