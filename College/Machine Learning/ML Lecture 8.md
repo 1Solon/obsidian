@@ -28,7 +28,7 @@ Artificial Neural Networks (ANNs) draw inspiration from the human brain's struct
 
 ### Practical Applications
 
-- ANNs excel in tasks requiring the modeling of complex relationships, such as image recognition, natural language processing, and more. Their ability to learn from data makes them versatile tools for a wide range of applications.
+- ANNs excel in tasks requiring the modelling of complex relationships, such as image recognition, natural language processing, and more. Their ability to learn from data makes them versatile tools for a wide range of applications.
 
 ### Considerations
 
@@ -37,7 +37,7 @@ Artificial Neural Networks (ANNs) draw inspiration from the human brain's struct
 
 ### Summary
 
-Neural Networks represent a powerful class of machine learning models capable of learning from complex and high-dimensional data. Their design, inspired by the biological neural networks in the brain, allows for the modeling of complex patterns and relationships, making them suitable for a wide range of applications from simple classification to sophisticated image and speech recognition tasks.
+Neural Networks represent a powerful class of machine learning models capable of learning from complex and high-dimensional data. Their design, inspired by the biological neural networks in the brain, allows for the modelling of complex patterns and relationships, making them suitable for a wide range of applications from simple classification to sophisticated image and speech recognition tasks.
 
 ---
 * [[ML Lecture 7]]
