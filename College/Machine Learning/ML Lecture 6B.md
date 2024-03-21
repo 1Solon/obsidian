@@ -22,7 +22,7 @@ Evaluation is not just about determining how well a model performs on a given da
 
 - **Stratified Sampling**: Especially important in datasets with imbalanced classes, ensuring that each split of the data maintains the original class distribution, thus providing a more accurate evaluation.
 - **Cross-Validation**: Offers a more robust evaluation compared to a single hold-out set by utilizing multiple train-test splits, thereby providing a better estimate of the model's generalizability.
-- **Pipelines**: The use of pipelines not only streamlines the workflow but also helps in preventing "data leakage" by ensuring that preprocessing steps are fitted on the training data alone.
+- **Pipelines**: The use of pipelines not only streamlines the workflow but also helps in preventing "data leakage" by ensuring that pre-processing steps are fitted on the training data alone.
 
 ### Conclusion
 
