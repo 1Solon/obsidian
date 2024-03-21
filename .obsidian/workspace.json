@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3530f7d9dec7f56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 3.md",
+                "file": "College/Machine Learning/ML Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +147,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "e854c8d2bc15b8ce",
+  "active": "e3530f7d9dec7f56",
   "lastOpenFiles": [
-    "College/Machine Learning/ML Lecture 2.md",
+    "College/Machine Learning/ML Lecture 4.md",
+    "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/ML Lecture 1.md",
+    "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/Manhattan Distance.md",
@@ -147,11 +160,9 @@
     "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/ML Lecture 7.md",
     "College/Machine Learning/ML Lecture 6B.md",
-    "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/Probability Based Learning.md",
     "College/Machine Learning/Naïve Bayes.md",
-    "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
     "College/Machine Learning/Decision Trees.md",
     "College/Machine Learning/Decision Trees - ID3.md",
