@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Similarity Learning.md",
+                "file": "College/Machine Learning/Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Similarity Learning.md",
+                "file": "College/Machine Learning/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Similarity Learning.md",
+                "file": "College/Machine Learning/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,11 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
+    "College/Machine Learning/Decision Tree - Inductive Bias.md",
+    "College/Machine Learning/Decision Trees.md",
+    "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+    "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/ML Lecture 1.md",
     "conflict-files-obsidian-git.md",
@@ -159,11 +164,6 @@
     "College/Systems Architectures/Blockchain.md",
     "College/Systems Architectures/Peer to Peer Model.md",
     "College/Systems Architectures/Architectural Models.md",
-    "College/Systems Architectures/P2P.md",
-    "College/Systems Architectures/Untitled.md",
-    "College/Systems Architectures/Green Computing.md",
-    "Personal/Kubernetes Notes.md",
-    "Personal/Hosting my obsidian online (project).md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
