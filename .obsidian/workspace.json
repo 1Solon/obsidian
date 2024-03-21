@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Entropy.md",
+                "file": "College/Machine Learning/Information Gain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Entropy.md",
+                "file": "College/Machine Learning/Information Gain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Entropy.md",
+                "file": "College/Machine Learning/Information Gain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
-    "College/Machine Learning/Decision Tree - Inductive Bias.md",
     "College/Machine Learning/Decision Trees.md",
+    "College/Machine Learning/Decision Tree - Inductive Bias.md",
+    "College/Machine Learning/Entropy.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
     "College/Machine Learning/Similarity Learning.md",
@@ -163,7 +164,6 @@
     "College/Systems Architectures/SysArch Lecture 4.md",
     "College/Systems Architectures/Blockchain.md",
     "College/Systems Architectures/Peer to Peer Model.md",
-    "College/Systems Architectures/Architectural Models.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
