@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 2.md",
+                "file": "College/Machine Learning/Similarity Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 2.md",
+                "file": "College/Machine Learning/Similarity Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 2.md",
+                "file": "College/Machine Learning/Similarity Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/ML Lecture 1.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 9.md",
@@ -163,7 +164,6 @@
     "College/Systems Architectures/Green Computing.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Hosting my obsidian online (project).md",
-    "College/Systems Architectures/Computer Architectures.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
