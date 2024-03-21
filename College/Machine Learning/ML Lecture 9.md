@@ -50,6 +50,5 @@ The policy is the strategy that the agent employs to decide actions based on sta
 
 Reinforcement Learning is a dynamic and complex field that models decision-making through trial and error, aiming to find optimal strategies for diverse challenges. By understanding the foundational concepts and mastering the balance between exploration and exploitation, agents can learn to navigate environments effectively and achieve their goals.
 
-### Questions?
-
-For further details on Reinforcement Learning or any specific concepts discussed, feel free to reach out or discuss further.
+---
+* [[ML Lecture 8]]
