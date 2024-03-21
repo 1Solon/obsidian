@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Minkowski Distance.md",
+                "file": "College/Machine Learning/ML Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Minkowski Distance.md",
+                "file": "College/Machine Learning/ML Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Minkowski Distance.md",
+                "file": "College/Machine Learning/ML Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,32 +138,32 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 2.md",
+    "College/Machine Learning/ML Lecture 1.md",
+    "College/Machine Learning/ML Lecture 5.md",
+    "College/Machine Learning/ML Lecture 6.md",
+    "College/Machine Learning/Manhattan Distance.md",
+    "College/Machine Learning/Information Gain.md",
+    "College/Machine Learning/Minkowski Distance.md",
     "College/Machine Learning/ML Lecture 7.md",
     "College/Machine Learning/ML Lecture 6B.md",
-    "College/Machine Learning/ML Lecture 6.md",
-    "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/Probability Based Learning.md",
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
-    "College/Machine Learning/Information Gain.md",
     "College/Machine Learning/Decision Trees.md",
     "College/Machine Learning/Decision Trees - ID3.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Similarity Learning.md",
-    "College/Machine Learning/ML Lecture 2.md",
-    "College/Machine Learning/ML Lecture 1.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 9.md",
     "College/Machine Learning/ML Lecture 8.md",
     "College/Scientific Research & Literature/Group Project Notes.md",
     "College/Secure Systems Development/SSD Lecture 7.md",
     "Personal/Notifarrr.md",
-    "Personal/Creating a CIFS backup.md",
-    "College/Secure Systems Development/SSD-2024-02-13.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",

@@ -38,7 +38,7 @@ Similarity-based learning, exemplified by kNN, relies on historical instances to
 1. **Basic Concept**: Classify a query instance based on the most similar historical instances.
 2. **Distance Calculation**: Compute the distance from the query to each instance in the training set.
 3. **k Selection**: Choose the `k` nearest instances and use their majority class for prediction.
-4. **Weighted k-NN**: Assign more weight to nearer neighbors, potentially improving accuracy.
+4. **Weighted k-NN**: Assign more weight to nearer neighbours, potentially improving accuracy.
 
 ---
 
@@ -49,7 +49,7 @@ Similarity-based learning, exemplified by kNN, relies on historical instances to
 ---
 
 ## Predicting Continuous Targets
-- k-NN can also predict continuous values by averaging the targets of the `k` nearest neighbors.
+- k-NN can also predict continuous values by averaging the targets of the `k` nearest neighbours.
 
 ---
 
