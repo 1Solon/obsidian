@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Naïve Bayes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Naïve Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Information Gain.md",
+                "file": "College/Machine Learning/Naïve Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,14 @@
   },
   "active": "e854c8d2bc15b8ce",
   "lastOpenFiles": [
-    "College/Machine Learning/Decision Trees.md",
-    "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "College/Machine Learning/Entropy.md",
+    "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
+    "College/Machine Learning/Information Gain.md",
+    "College/Machine Learning/Decision Trees.md",
+    "College/Machine Learning/Decision Trees - ID3.md",
+    "College/Machine Learning/Decision Tree - Inductive Bias.md",
+    "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/ML Lecture 1.md",
@@ -161,9 +164,6 @@
     "College/Secure Systems Development/Heartbleed Lab.md",
     "College/Secure Systems Development/Heartbleed.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
-    "College/Systems Architectures/SysArch Lecture 4.md",
-    "College/Systems Architectures/Blockchain.md",
-    "College/Systems Architectures/Peer to Peer Model.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
