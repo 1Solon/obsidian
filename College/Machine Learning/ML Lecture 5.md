@@ -58,7 +58,4 @@ Error-based learning models start with a parameterized prediction model and iter
 - The role of regularization in managing model complexity and preventing overfitting.
 
 ---
-
-## Questions?
-
-For further discussion or clarification on topics covered in this lecture, please reach out to the instructors using the contact information provided.
+*  [[ML Lecture 4]]
