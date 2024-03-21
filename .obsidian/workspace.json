@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/ML Lecture 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/ML Lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 7.md",
+                "file": "College/Machine Learning/ML Lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "ed3244479948ed8f",
   "lastOpenFiles": [
-    "College/Machine Learning/ML Lecture 6B.md",
     "College/Machine Learning/ML Lecture 7.md",
+    "College/Machine Learning/ML Lecture 8.md",
+    "College/Machine Learning/ML Lecture 6B.md",
     "College/Machine Learning/Underfitting.md",
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/ML Lecture 5.md",
@@ -164,7 +165,6 @@
     "College/Secure Systems Development/[SSD-2024-02-13.md",
     "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
-    "Personal/Creating a CIFS backup.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
