@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8580e5ce4757c3a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +148,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "ed3244479948ed8f",
+  "active": "c8580e5ce4757c3a",
   "lastOpenFiles": [
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
