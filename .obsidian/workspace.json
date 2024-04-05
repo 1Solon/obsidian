@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 9.md",
+                "file": "College/Machine Learning/Curse of Dimensionality.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curse of dimensionali",
+                "query": "curse of dimens",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 9.md",
+                "file": "College/Machine Learning/Curse of Dimensionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 9.md",
+                "file": "College/Machine Learning/Curse of Dimensionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +139,17 @@
   },
   "active": "ed3244479948ed8f",
   "lastOpenFiles": [
-    "College/Machine Learning/ML Lecture 8.md",
+    "College/Machine Learning/ML Lecture 4.md",
+    "College/Machine Learning/ML Lecture 3.md",
+    "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/ML Lecture 9.md",
+    "College/Machine Learning/ML Lecture 8.md",
     "College/Machine Learning/ML Lecture 7.md",
     "College/Machine Learning/ML Lecture 6B.md",
     "College/Machine Learning/Underfitting.md",
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/ML Lecture 5.md",
-    "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture",
-    "College/Machine Learning/ML Lecture 3.md",
-    "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/Probability Based Learning.md",
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/ML Lecture 2.md",
