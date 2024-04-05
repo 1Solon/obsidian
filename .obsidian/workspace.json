@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Systems Architectures/SysArch Lecture 1.md",
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,7 @@
   },
   "active": "c8580e5ce4757c3a",
   "lastOpenFiles": [
+    "College/Systems Architectures/SysArch Lecture 1.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
@@ -177,7 +178,6 @@
     "College/Secure Systems Development/SSD-2024-02-13.md",
     "College/Secure Systems Development/SSD Lecture 5.md",
     "College/Secure Systems Development/[SSD-2024-02-13.md",
-    "Personal/Future project idea.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
