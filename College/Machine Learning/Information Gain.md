@@ -4,7 +4,7 @@ Information Gain (IG) is a crucial concept in decision trees, used for selecting
 
 ## Definition
 ---
-- Information Gain measures the reduction in entropy or uncertainty of a dataset when it is split on a specific feature.
+- Information Gain measures the reduction in [[Entropy]] or uncertainty of a dataset when it is split on a specific feature.
 - It quantifies how much more organized or pure the subsets become after the split.
 
 ## Calculation

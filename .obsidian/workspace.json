@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "020e9f117f3ceef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/Curse of Dimensionality.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/Curse of Dimensionality.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +159,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "c8580e5ce4757c3a",
+  "active": "020e9f117f3ceef2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Curse of Dimensionality.md",
@@ -167,7 +179,6 @@
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 1.md",
     "College/Machine Learning/sckit-learn.md",
-    "conflict-files-obsidian-git.md",
     "Personal/Notifarrr.md",
     "College/Secure Systems Development/SSD Lecture 7.md",
     "College/Scientific Research & Literature/Group Project Notes.md",
