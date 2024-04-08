@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c32ee4929e2502b",
+        "id": "1505c049d0b8e6ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e854c8d2bc15b8ce",
+            "id": "07750a0cae33bcc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/ML Lecture 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3530f7d9dec7f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Machine Learning/ML Lecture 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear reg slope",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Machine Learning/ML Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +130,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "17d1a466ec75f671",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/ML Lecture 6B.md",
     "College/Machine Learning/Decision Tree - Inductive Bias.md",
@@ -159,7 +140,6 @@
     "College/Machine Learning/Euclidian Distance.md",
     "College/Machine Learning/ML Lecture 1.md",
     "College/Machine Learning/ML Lecture 2.md",
-    "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/Manhattan Distance.md",
     "College/Machine Learning/Information Gain.md",
