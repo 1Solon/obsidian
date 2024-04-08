@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1505c049d0b8e6ac",
+        "id": "3f5d6c92044d0a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "07750a0cae33bcc7",
+            "id": "15a1c28a4b3e3fd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +130,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "07750a0cae33bcc7",
+  "active": "15a1c28a4b3e3fd1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 5.md",
