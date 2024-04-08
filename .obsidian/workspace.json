@@ -11,8 +11,12 @@
             "id": "07750a0cae33bcc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +136,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "07750a0cae33bcc7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/ML Lecture 6B.md",
@@ -153,7 +160,6 @@
     "College/Machine Learning/Decision Trees - ID3.md",
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Similarity Learning.md",
-    "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 9.md",
     "College/Machine Learning/ML Lecture 8.md",
     "College/Scientific Research & Literature/Group Project Notes.md",
