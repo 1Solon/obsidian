@@ -11,8 +11,12 @@
             "id": "15a1c28a4b3e3fd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "College/Research Design/Research Design Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/Research Design/Research Design Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
