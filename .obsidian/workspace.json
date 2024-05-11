@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f81536c431f8f96d",
+        "id": "ce391ea0f2c15f50",
         "type": "tabs",
         "children": [
           {
-            "id": "ed3244479948ed8f",
+            "id": "20b78d5344880304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Machine Learning/Curse of Dimensionality.md",
+                "file": "Games/Stellaris/Machine Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c8580e5ce4757c3a",
+            "id": "ad6dc221d45c1a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e438d2f935dff38",
+            "id": "af1e601555da699f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +161,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "8e438d2f935dff38",
+  "active": "af1e601555da699f",
   "lastOpenFiles": [
-    "College/Systems Architectures/SysArch Lecture 1.md",
+    "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "conflict-files-obsidian-git.md",
+    "Games/Stellaris/Machine Notes.md",
+    "Games/Stellaris",
+    "College/Research Design/Research Design Lecture 1.md",
+    "Personal/Kubernetes Notes.md",
+    "Personal/Useful commands.md",
+    "Personal/Notifarrr.md",
+    "Personal/Creating a CIFS backup.md",
+    "Personal/Future project idea.md",
+    "Personal/Hosting my obsidian online (project).md",
+    "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/Curse of Dimensionality.md",
@@ -181,15 +191,6 @@
     "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 1.md",
-    "College/Machine Learning/sckit-learn.md",
-    "Personal/Notifarrr.md",
-    "College/Secure Systems Development/SSD Lecture 7.md",
-    "College/Scientific Research & Literature/Group Project Notes.md",
-    "Games/Tarkov/Earpieces.md",
-    "Games/Tarkov/Customs.md",
-    "College/Secure Systems Development/SSD-2024-02-13.md",
-    "College/Secure Systems Development/SSD Lecture 5.md",
-    "College/Secure Systems Development/[SSD-2024-02-13.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -208,7 +209,6 @@
     "Games/SS14",
     "Games/Tarkov",
     "Games",
-    "College",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
