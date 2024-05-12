@@ -12,3 +12,6 @@ Take "Error Correcting", even though this says it is slower. The lack of unity l
 
 * Nanotech -> Take Partial
 * Virtual -> Take Highest
+
+### Nanite Notes
+* For the nanite ships, take either a drone carrier, or neutron launcher

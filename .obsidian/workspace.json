@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0d062448b0c7d958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad6dc221d45c1a68",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +161,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "ad6dc221d45c1a68",
+  "active": "0d062448b0c7d958",
   "lastOpenFiles": [
+    "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
-    "Games/Stellaris/Machine Notes.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
     "Personal/Kubernetes Notes.md",
