@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Stellaris/Machine Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d062448b0c7d958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Future project idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Future project idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personal/Future project idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +148,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "0d062448b0c7d958",
+  "active": "20b78d5344880304",
   "lastOpenFiles": [
+    "Personal/Kubernetes Notes.md",
+    "Personal/Useful commands.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
-    "Personal/Kubernetes Notes.md",
-    "Personal/Useful commands.md",
     "Personal/Notifarrr.md",
     "Personal/Creating a CIFS backup.md",
     "Personal/Future project idea.md",
