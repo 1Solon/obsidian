@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Future project idea.md",
+                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +149,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "20b78d5344880304",
+  "active": "ad6dc221d45c1a68",
   "lastOpenFiles": [
+    "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
     "Personal/Useful commands.md",
     "Games/Stellaris/Machine Notes.md",
@@ -159,7 +161,6 @@
     "College/Research Design/Research Design Lecture 1.md",
     "Personal/Notifarrr.md",
     "Personal/Creating a CIFS backup.md",
-    "Personal/Future project idea.md",
     "Personal/Hosting my obsidian online (project).md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 4.md",
