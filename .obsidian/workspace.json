@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "Personal/Useful commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "Personal/Useful commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "Personal/Useful commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +151,12 @@
   },
   "active": "ad6dc221d45c1a68",
   "lastOpenFiles": [
-    "Personal/Future project idea.md",
     "Personal/Kubernetes Notes.md",
+    "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
+    "Personal/Future project idea.md",
     "Personal/Useful commands.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
-    "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
     "Personal/Notifarrr.md",
