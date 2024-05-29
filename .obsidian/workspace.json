@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce391ea0f2c15f50",
+        "id": "5d52fd9eccf6d71d",
         "type": "tabs",
         "children": [
           {
-            "id": "20b78d5344880304",
+            "id": "80a891d4fd961287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Future project idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad6dc221d45c1a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Kubernetes Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +130,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "ad6dc221d45c1a68",
+  "active": "80a891d4fd961287",
   "lastOpenFiles": [
-    "Personal/Hosting my obsidian online (project).md",
-    "Personal/Future project idea.md",
-    "Personal/Useful commands.md",
     "Personal/Kubernetes Notes.md",
+    "Personal/Future project idea.md",
+    "Personal/Hosting my obsidian online (project).md",
+    "Personal/Useful commands.md",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
