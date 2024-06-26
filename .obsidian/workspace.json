@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Games/Elden Ring/Spellblade.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Games/Elden Ring/Spellblade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Games/Elden Ring/Spellblade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +151,12 @@
   },
   "active": "d98fbb83a73666ff",
   "lastOpenFiles": [
+    "Personal/Useful commands.md",
+    "Games/Elden Ring/Spellblade.md",
+    "Games/Elden Ring",
     "Personal/Kubernetes Notes.md",
     "Personal/Future project idea.md",
     "Personal/Hosting my obsidian online (project).md",
-    "Personal/Useful commands.md",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
@@ -178,7 +180,6 @@
     "College/Machine Learning/Naïve Bayes.md",
     "College/Machine Learning/ML Lecture 2.md",
     "College/Machine Learning/Similarity Learning.md",
-    "College/Machine Learning/ML Lecture 1.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -196,7 +197,6 @@
     "College/Research Design",
     "Games/SS14",
     "Games/Tarkov",
-    "Games",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
