@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ca7dbeb7f7078b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +149,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "8ca7dbeb7f7078b4",
+  "active": "d98fbb83a73666ff",
   "lastOpenFiles": [
     "Personal/Useful commands.md",
     "Games/Elden Ring/Spellblade.md",
