@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Elden Ring/Spellblade.md",
+                "file": "Personal/Useful commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Elden Ring/Spellblade.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Elden Ring/Spellblade.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,21 +148,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "d98fbb83a73666ff",
+  "active": "80a891d4fd961287",
   "lastOpenFiles": [
     "Personal/Useful commands.md",
+    "Personal/Kubernetes Notes.md",
+    "Personal/Hosting my obsidian online (project).md",
+    "Personal/Future project idea.md",
+    "Personal/Creating a CIFS backup.md",
     "Games/Elden Ring/Spellblade.md",
     "Games/Elden Ring",
-    "Personal/Kubernetes Notes.md",
-    "Personal/Future project idea.md",
-    "Personal/Hosting my obsidian online (project).md",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
     "Personal/Notifarrr.md",
-    "Personal/Creating a CIFS backup.md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
