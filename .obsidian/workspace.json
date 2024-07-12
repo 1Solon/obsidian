@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Useful commands.md",
+                "file": "Personal/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +150,11 @@
   },
   "active": "80a891d4fd961287",
   "lastOpenFiles": [
+    "Personal/Useful commands.md",
     "Personal/Creating a CIFS backup.md",
     "Personal/Future project idea.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Kubernetes Notes.md",
-    "Personal/Useful commands.md",
     "Games/Elden Ring/Spellblade.md",
     "Games/Elden Ring",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
