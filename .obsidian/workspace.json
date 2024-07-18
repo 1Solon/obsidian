@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Kubernetes Notes.md",
+                "file": "Personal/Creating a CIFS backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +150,12 @@
   },
   "active": "80a891d4fd961287",
   "lastOpenFiles": [
-    "Personal/Useful commands.md",
-    "Personal/Creating a CIFS backup.md",
     "Personal/Future project idea.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Kubernetes Notes.md",
+    "Personal/Notifarrr.md",
+    "Personal/Creating a CIFS backup.md",
+    "Personal/Useful commands.md",
     "Games/Elden Ring/Spellblade.md",
     "Games/Elden Ring",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
@@ -162,7 +163,6 @@
     "conflict-files-obsidian-git.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
-    "Personal/Notifarrr.md",
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
