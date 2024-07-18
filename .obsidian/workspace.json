@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Creating a CIFS backup.md",
+                "file": "Games/Mechabellum/Units.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Creating a CIFS backup.md",
+                "file": "Games/Mechabellum/Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Creating a CIFS backup.md",
+                "file": "Games/Mechabellum/Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +150,14 @@
   },
   "active": "80a891d4fd961287",
   "lastOpenFiles": [
+    "Images/Pasted image 20240718180045.png",
+    "Personal/Creating a CIFS backup.md",
+    "Games/Mechabellum/Units.md",
+    "Games/Mechabellum",
     "Personal/Future project idea.md",
     "Personal/Hosting my obsidian online (project).md",
     "Personal/Kubernetes Notes.md",
     "Personal/Notifarrr.md",
-    "Personal/Creating a CIFS backup.md",
     "Personal/Useful commands.md",
     "Games/Elden Ring/Spellblade.md",
     "Games/Elden Ring",
@@ -177,8 +180,6 @@
     "College/Machine Learning/ML Lecture",
     "College/Machine Learning/Probability Based Learning.md",
     "College/Machine Learning/Naïve Bayes.md",
-    "College/Machine Learning/ML Lecture 2.md",
-    "College/Machine Learning/Similarity Learning.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -195,7 +196,6 @@
     "College/Secure Systems Development",
     "College/Research Design",
     "Games/SS14",
-    "Games/Tarkov",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
