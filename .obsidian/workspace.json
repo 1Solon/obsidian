@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Helldiverrs/Builds/Heavy Gunner.md",
+                "file": "Games/Helldiverrs/Builds/Defender.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Helldiverrs/Builds/Heavy Gunner.md",
+                "file": "Games/Helldiverrs/Builds/Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Helldiverrs/Builds/Heavy Gunner.md",
+                "file": "Games/Helldiverrs/Builds/Defender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +138,13 @@
   },
   "active": "4401345480ed7b90",
   "lastOpenFiles": [
+    "Images/Pasted image 20240809153744.png",
+    "Images/Pasted image 20240809153738.png",
+    "Games/Helldiverrs/Builds/Heavy Gunner.md",
+    "Games/Helldiverrs/Builds/Defender.md",
     "Images/Pasted image 20240809151048.png",
     "Images/Pasted image 20240809150845.png",
     "Images/Pasted image 20240809150700.png",
-    "Games/Helldiverrs/Builds/Heavy Gunner.md",
     "Games/Helldiverrs/Builds",
     "Games/Helldiverrs",
     "Personal/Useful commands.md",
@@ -172,14 +175,11 @@
     "College/Machine Learning/ML Lecture 6.md",
     "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture",
-    "College/Machine Learning/Probability Based Learning.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
     "Images/Pasted image 20240208124252.png",
     "Images/Pasted image 20240208124230.png",
-    "Images/Pasted image 20240208124209.png",
-    "Images/Pasted image 20240208124144.png",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
