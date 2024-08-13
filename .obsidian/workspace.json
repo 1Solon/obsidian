@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60315f27726782cf",
+        "id": "582cd57f38c2188d",
         "type": "tabs",
         "children": [
           {
-            "id": "4401345480ed7b90",
+            "id": "d23c10eca7b74aac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/Helldiverrs/Builds/Defender.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Helldiverrs/Builds/Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Helldiverrs/Builds/Defender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,12 +130,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "4401345480ed7b90",
+  "active": "d23c10eca7b74aac",
   "lastOpenFiles": [
+    "College/Definitions/Checkbox.md",
+    "College/Programming Paradigms/Memory Management.md",
+    "College/Programming Paradigms/Memory Block Types.md",
+    "College/Programming Paradigms/Fixed Length Memory.md",
+    "College/Programming Paradigms/Variable Length Memory.md",
+    "College/Programming Paradigms/Programming Paradigms Lecture 2.md",
+    "College/Programming Paradigms/Programming Paradigms Lecture 1.md",
+    "College/Definitions/Paradigm Definition.md",
+    "College/Programming Paradigms/Activation Record for a Procedure.md",
+    "Games/Helldiverrs/Builds/Defender.md",
     "Images/Pasted image 20240809153744.png",
     "Images/Pasted image 20240809153738.png",
     "Games/Helldiverrs/Builds/Heavy Gunner.md",
-    "Games/Helldiverrs/Builds/Defender.md",
     "Images/Pasted image 20240809151048.png",
     "Images/Pasted image 20240809150845.png",
     "Images/Pasted image 20240809150700.png",
@@ -166,20 +169,11 @@
     "College/Systems Architectures/SysArch Lecture 1.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/ML Lecture 3.md",
-    "College/Machine Learning/Curse of Dimensionality.md",
-    "College/Machine Learning/ML Lecture 9.md",
-    "College/Machine Learning/ML Lecture 8.md",
-    "College/Machine Learning/ML Lecture 7.md",
-    "College/Machine Learning/ML Lecture 6B.md",
-    "College/Machine Learning/Underfitting.md",
-    "College/Machine Learning/ML Lecture 6.md",
-    "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
     "Images/Pasted image 20240208124252.png",
-    "Images/Pasted image 20240208124230.png",
     "Personal",
     "College/Machine Learning",
     "College/Systems Architectures",
