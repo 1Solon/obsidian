@@ -10,7 +10,6 @@
 | Memory 16gb                 | [Kingston Server Premier 16GB 4800MT/s DDR5 ECC CL40 SODIMM 1Rx8 Hynix A Server Memory - KSM48T40BS8KI-16HA : Amazon.co.uk: Computers & Accessories](https://www.amazon.co.uk/Kingston-Server-Premier-4800MT-SODIMM/dp/B0C7W3RYXZ/ref=sr_1_12?crid=29HQK52UPJRCJ&dib=eyJ2IjoiMSJ9.FGzZAp8E5u6fBSfQnxwW8ERAlGSWDzFXTPjdxpJlbCiUD31fDAVbzEStfSS-yli5FMg7SfsFFhZOCr4Syr1BLr5q8jW_N--gRjXgMNJ1uW37_JLGJ3UEe3iFurUeNSob5h4P4raS2HIFOGCnbawAjCgPnzVivzLPCa-z5lGbx0hYpq0yxx1nxkhUTDbVEQWc9axSFv85r8Dx1XeXq2RHyPAvcXSbrTA4dOjIzH8Lj_s.UyjxPlB_Hn58rV_Up38arQsjRF_mrQQORxi8SmdM6hc&dib_tag=se&keywords=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram&qid=1724040188&sprefix=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram%2Caps%2C117&sr=8-12&th=1) | £80.23           | €94.12    |
 `Total:` **€788.21**
 
-
 ## Optional
 ---
 
@@ -18,3 +17,11 @@
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------- |
 | HDD  | [Seagate IronWolf, 8TB, Enterprise Internal NAS HDD - CMR 3.5 Inch, SATA 6GB/s, 5,400 RPM, 256 MB Cache for RAID NAS, Rescue Services - Frustration Free Packaging (ST8000VNZ02) : Amazon.co.uk: Computers & Accessories](https://www.amazon.co.uk/Seagate-IronWolf-Enterprise-Internal-NAS/dp/B0BM4T2L86/ref=sr_1_2?adgrpid=1187474295139438&dib=eyJ2IjoiMSJ9.808O_RNokkzBev0kIK1Zo8XEv5v6r7vT_eXuR81YxYv2oQEwyuMaOTOY7ZvLRF8wydqYOHYscp9_VN1UcmkV4Vj_bULS1R_ocB9i3W9QHb8.NoKlwlW-lAdTvuuJ3G1zz_HeSGgXXT_N7a8t-A5swBc&dib_tag=se&hvadid=74217345305797&hvbmt=be&hvdev=c&hvlocphy=142381&hvnetw=o&hvqmt=e&hvtargid=kwd-74217415930915%3Aloc-92&hydadcr=4392_2132244&keywords=st8000vn002&msclkid=a4cf5794d091154431f3315618a16638&qid=1724041268&sr=8-2) | €190.27          | €190.27   |
 `Total With Optional:` **€978.48
+
+
+## Future Expansions
+---
+
+| Item | Link | Price (original) | Price (€) |
+| ---- | ---- | ---------------- | --------- |
+|      |      |                  |           |
