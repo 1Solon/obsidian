@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "582cd57f38c2188d",
+        "id": "d4f5716356e8338f",
         "type": "tabs",
         "children": [
           {
-            "id": "d23c10eca7b74aac",
+            "id": "11841158dfea7924",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curse of dimens",
+                "query": "Curse of dimensionality",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +132,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "d23c10eca7b74aac",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
+    "College/Machine Learning/ML Lecture 4.md",
+    "College/Machine Learning/Curse of Dimensionality.md",
+    "College/Machine Learning/ML Lecture 3.md",
+    "Personal/Useful commands.md",
+    "Personal/Notifarrr.md",
+    "Personal/Kubernetes Notes.md",
+    "Personal/Hosting my obsidian online (project).md",
+    "Personal/Future project idea.md",
+    "Personal/Creating a CIFS backup.md",
+    "Games/Helldiverrs/Builds/Heavy Gunner.md",
+    "Games/Helldiverrs/Builds/Defender.md",
+    "Games/Elden Ring/Spellblade.md",
     "College/Definitions/Checkbox.md",
     "College/Programming Paradigms/Memory Management.md",
     "College/Programming Paradigms/Memory Block Types.md",
@@ -141,34 +155,22 @@
     "College/Programming Paradigms/Programming Paradigms Lecture 1.md",
     "College/Definitions/Paradigm Definition.md",
     "College/Programming Paradigms/Activation Record for a Procedure.md",
-    "Games/Helldiverrs/Builds/Defender.md",
     "Images/Pasted image 20240809153744.png",
     "Images/Pasted image 20240809153738.png",
-    "Games/Helldiverrs/Builds/Heavy Gunner.md",
     "Images/Pasted image 20240809151048.png",
     "Images/Pasted image 20240809150845.png",
     "Images/Pasted image 20240809150700.png",
     "Games/Helldiverrs/Builds",
     "Games/Helldiverrs",
-    "Personal/Useful commands.md",
     "Images/Pasted image 20240718180045.png",
-    "Personal/Creating a CIFS backup.md",
     "Games/Mechabellum/Units.md",
     "Games/Mechabellum",
-    "Personal/Future project idea.md",
-    "Personal/Hosting my obsidian online (project).md",
-    "Personal/Kubernetes Notes.md",
-    "Personal/Notifarrr.md",
-    "Games/Elden Ring/Spellblade.md",
     "Games/Elden Ring",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
     "Games/Stellaris",
     "College/Research Design/Research Design Lecture 1.md",
-    "College/Systems Architectures/SysArch Lecture 1.md",
-    "College/Machine Learning/ML Lecture 4.md",
-    "College/Machine Learning/ML Lecture 3.md",
     "College/Machine Learning/ML Lecture",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
