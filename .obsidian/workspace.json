@@ -11,8 +11,12 @@
             "id": "11841158dfea7924",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General/NAS & GPU-Compute Box.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General/NAS & GPU-Compute Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General/NAS & GPU-Compute Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,17 +136,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "11841158dfea7924",
   "lastOpenFiles": [
+    "General/Creating a CIFS backup.md",
+    "General/NAS & GPU-Compute Box.md",
+    "General/Useful commands.md",
+    "General/Notifarrr.md",
+    "General/Kubernetes Notes.md",
+    "General/Future project idea.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/ML Lecture 3.md",
-    "Personal/Useful commands.md",
-    "Personal/Notifarrr.md",
-    "Personal/Kubernetes Notes.md",
-    "Personal/Hosting my obsidian online (project).md",
-    "Personal/Future project idea.md",
-    "Personal/Creating a CIFS backup.md",
+    "General/Hosting my obsidian online (project).md",
     "Games/Helldiverrs/Builds/Heavy Gunner.md",
     "Games/Helldiverrs/Builds/Defender.md",
     "Games/Elden Ring/Spellblade.md",
@@ -170,13 +175,12 @@
     "Games/Stellaris/Machine Notes.md",
     "conflict-files-obsidian-git.md",
     "Games/Stellaris",
-    "College/Research Design/Research Design Lecture 1.md",
     "College/Machine Learning/ML Lecture",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
     "Images/Pasted image 20240208124252.png",
-    "Personal",
+    "General",
     "College/Machine Learning",
     "College/Systems Architectures",
     "College/Secure Systems Development",
