@@ -22,6 +22,6 @@
 ## Future Expansions
 ---
 
-| Item | Link | Price (original) | Price (€) |
-| ---- | ---- | ---------------- | --------- |
-|      |      |                  |           |
+| Item             | Link | Price (original) | Price (€) |
+| ---------------- | ---- | ---------------- | --------- |
+| RTX 4060 Ti 16GB |      |                  |           |
