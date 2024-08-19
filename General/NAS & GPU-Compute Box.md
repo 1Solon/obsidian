@@ -34,4 +34,4 @@
 ---
 * (1) The extra HDD is flexible, as the price *with* optional exceeds the budget- this can be cut- especially if it compromises the future expansions section. Note that at current rate of expansion it will take `3~` years to exceed our current storage capacity of `8tb`.
 
-* (2) While the above is true, having that extra drive gives options to expand storage. It also allows for 
+* (2) While the above is true, having that extra drive gives options to expand storage. It also allows for [Raid 1]([Standard RAID levels - Wikipedia](https://en.wikipedia.org/wiki/Standard_RAID_levels)), I.E a completely redundant drive- providing a backup in case one drive fails. 
