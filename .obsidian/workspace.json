@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f5716356e8338f",
+        "id": "bc9626cd88d625e0",
         "type": "tabs",
         "children": [
           {
-            "id": "11841158dfea7924",
+            "id": "d9136334727b1a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/NAS & GPU-Compute Box.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/NAS & GPU-Compute Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/NAS & GPU-Compute Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +130,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "11841158dfea7924",
+  "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "General/NAS & GPU-Compute Box.md",
     "General/NAS & GPU-Compute Box.html",
     "General/Creating a CIFS backup.md",
-    "General/NAS & GPU-Compute Box.md",
     "General/Useful commands.md",
     "General/Notifarrr.md",
     "General/Kubernetes Notes.md",
@@ -183,7 +177,6 @@
     "General",
     "College/Machine Learning",
     "College/Systems Architectures",
-    "College/Secure Systems Development",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
