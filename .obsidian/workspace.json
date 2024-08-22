@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -138,6 +137,7 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "Games/Sins of a Solar Empire 2/Vasari.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.md",
@@ -175,7 +175,6 @@
     "Games/Mechabellum",
     "Games/Elden Ring",
     "Games/Stellaris/Machine Tradition & Ascension Perk Order.md",
-    "Games/Stellaris/Machine Notes.md",
     "Games/Stellaris",
     "College/Machine Learning/ML Lecture",
     "Images/Pasted image 20240215111938.png",
