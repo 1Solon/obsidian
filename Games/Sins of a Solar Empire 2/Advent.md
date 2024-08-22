@@ -23,3 +23,11 @@
 * Start with 50% Disciples
 
 * Transition to 25% Guardians, 25% Vigilis
+
+## Table
+---
+
+| Supply | Radiance | Progenitor | Halcyon | Guardian | Sentinel | Disciple | Tempest |
+| ------ | -------- | ---------- | ------- | -------- | -------- | -------- | ------- |
+|        |          |            |         |          |          |          |         |
+| 250    | 1        | 2          | 0       | 0        | 0        | 12       | 8       |
