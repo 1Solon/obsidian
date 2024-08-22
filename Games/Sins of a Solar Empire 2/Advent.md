@@ -20,4 +20,6 @@
 
 * Transition to illuminators when you have them, as these are better artillery ships later game
 
-* 
+* Start with 50% Disciples
+
+* Transition to 25% Guardians, 25% Vigilis
