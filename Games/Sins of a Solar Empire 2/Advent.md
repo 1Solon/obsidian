@@ -15,3 +15,9 @@
 * 40/60 fighters/bombers late game
 
 ## Fleet Comp
+---
+* Start with 50% Tempests
+
+* Transition to illuminators when you have them, as these are better artillery ships later game
+
+* 
