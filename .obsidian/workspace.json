@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -109,7 +110,7 @@
             }
           },
           {
-            "id": "b6dc7a28678e0e49",
+            "id": "ddb9164078ff1375",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -121,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
