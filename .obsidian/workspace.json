@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +136,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "d9136334727b1a17",
+  "active": "ddb9164078ff1375",
   "lastOpenFiles": [
-    "Images/Pasted image 20240824162022.png",
     "Games/Sins of a Solar Empire 2/Vasari.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
+    "Images/Pasted image 20240824162022.png",
     "Games/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.md",
     "General/NAS & GPU-Compute Box.html",
@@ -180,7 +181,6 @@
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
-    "Images/Pasted image 20240208124252.png",
     "General",
     "College/Machine Learning",
     "Untitled 1.canvas",
