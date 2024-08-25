@@ -11,14 +11,11 @@
             "id": "d9136334727b1a17",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
-                "viewState": {
-                  "x": 2600.5,
-                  "y": 770,
-                  "zoom": -1.7325608358962017
-                }
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +138,13 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "General/Projects/NAS Build.canvas",
+    "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Projects/NAS & GPU-Compute Box.md",
     "General/Useful commands.md",
     "General/Notifarrr.md",
     "General/Kubernetes Notes.md",
     "General/Creating a CIFS backup.md",
-    "General/Projects/NAS Build.canvas",
     "General/Projects",
     "Images/Pasted image 20240825201720.png",
     "Images/Pasted image 20240825183306.png",
@@ -156,7 +153,6 @@
     "Images/Pasted image 20240825174134.png",
     "Images/Pasted image 20240825174102.png",
     "Images/Longhorn.png",
-    "Games/Sins of a Solar Empire 2/Untitled.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Vasari.md",
     "Images/Pasted image 20240824162022.png",
