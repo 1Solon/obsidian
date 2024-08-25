@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/405a2dd1e0e86ded21c38d74e13b8802.json","text":"volumeMounts: - mountPath: /config nane: jellyfin-config - mountPath: /data nane: jellyfin-data","libVersion":"0.2.2","langs":"eng"}

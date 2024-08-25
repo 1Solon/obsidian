@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"90028cb1c4af5bf6","type":"group","x":-1160,"y":-700,"width":1837,"height":911,"label":"Kubernetes Cluster"},
+		{"id":"90028cb1c4af5bf6","type":"group","x":-1160,"y":-700,"width":1887,"height":1320,"label":"Kubernetes Cluster"},
 		{"id":"4fa5d0afd5544025","type":"group","x":-500,"y":-381,"width":290,"height":381,"label":"N3"},
 		{"id":"bba54d161404de02","type":"group","x":-180,"y":-381,"width":290,"height":261,"label":"N4"},
 		{"id":"e4c12543cfccf14a","type":"group","x":-813,"y":-381,"width":290,"height":261,"label":"N2"},
@@ -14,7 +14,6 @@
 		{"id":"4d06a386cc79422c","type":"text","text":"Node 3","x":-480,"y":-361,"width":250,"height":60},
 		{"id":"d821b2596ebbc94d","type":"text","text":"1tb\n","x":-480,"y":-200,"width":250,"height":60},
 		{"id":"86699b40e75452d2","type":"text","text":"8tb\n","x":-480,"y":-80,"width":250,"height":60},
-		{"id":"c84fd3346dbd8c73","type":"file","file":"Images/Pasted image 20240825174102.png","x":-230,"y":80,"width":887,"height":111},
 		{"id":"b7240980d2d2b9ff","type":"text","text":"Node 4","x":-160,"y":-361,"width":250,"height":60},
 		{"id":"d1c3271c6fcec4a7","type":"text","text":"1tb\n","x":-160,"y":-200,"width":250,"height":60},
 		{"id":"68f705a6dbb4cb0d","type":"text","text":"# This is bad","x":-1105,"y":108,"width":220,"height":56,"color":"1"},
@@ -28,7 +27,9 @@
 		{"id":"a52096d45b1e74e9","type":"text","text":"8tb","x":2100,"y":0,"width":250,"height":60},
 		{"id":"2b84a2584931902b","type":"text","text":"RAID 1 Pool","x":2350,"y":-200,"width":250,"height":60},
 		{"id":"1d4474e8e74867da","type":"text","text":"8tb\n","x":2600,"y":0,"width":250,"height":60},
-		{"id":"12427289e5e3f2e1","type":"text","text":"Super Storage Node\n","x":1190,"y":-760,"width":250,"height":60}
+		{"id":"12427289e5e3f2e1","type":"text","text":"Super Storage Node\n","x":1190,"y":-760,"width":250,"height":60},
+		{"id":"c84fd3346dbd8c73","type":"file","file":"Images/Pasted image 20240825174102.png","x":-359,"y":420,"width":887,"height":111},
+		{"id":"d371f92ed9e734b3","x":-260,"y":120,"width":400,"height":168,"type":"file","file":"Images/Pasted image 20240825175408.png"}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
@@ -47,16 +48,17 @@
 		{"id":"34fb83675524e317","fromNode":"7431e57e7fbd4a6f","fromSide":"bottom","toNode":"6c0a7b052b422fc0","toSide":"top"},
 		{"id":"a8572d4bd736e8e0","fromNode":"12427289e5e3f2e1","fromSide":"bottom","toNode":"3b63cffbdcc1ec08","toSide":"top"},
 		{"id":"31b42647f7eef90b","fromNode":"3b63cffbdcc1ec08","fromSide":"right","toNode":"045598845c7f9aaa","toSide":"left"},
-		{"id":"cfc958e033658b82","fromNode":"d1c3271c6fcec4a7","fromSide":"right","toNode":"2f191a3dcf786ee1","toSide":"left"},
 		{"id":"84ef0a1fd33275fd","fromNode":"9a58a985732dd1a7","fromSide":"bottom","toNode":"2f191a3dcf786ee1","toSide":"top"},
 		{"id":"2ccc70dc94d36b5c","fromNode":"3b63cffbdcc1ec08","fromSide":"left","toNode":"9a58a985732dd1a7","toSide":"right"},
 		{"id":"2caa4eef630438cb","fromNode":"045598845c7f9aaa","fromSide":"bottom","toNode":"7431e57e7fbd4a6f","toSide":"top"},
 		{"id":"cba5f27cfdb7702b","fromNode":"2b84a2584931902b","fromSide":"bottom","toNode":"a52096d45b1e74e9","toSide":"top"},
 		{"id":"ba6bff1c7342ef34","fromNode":"2b84a2584931902b","fromSide":"bottom","toNode":"1d4474e8e74867da","toSide":"top"},
 		{"id":"cd048e7268708816","fromNode":"045598845c7f9aaa","fromSide":"right","toNode":"2b84a2584931902b","toSide":"top"},
-		{"id":"0538591b51f02455","fromNode":"c84fd3346dbd8c73","fromSide":"right","toNode":"7431e57e7fbd4a6f","toSide":"left"},
-		{"id":"77707e3b1c0168d4","fromNode":"c84fd3346dbd8c73","fromSide":"left","toNode":"86699b40e75452d2","toSide":"bottom"},
 		{"id":"aa9ec15bbb9e51e7","fromNode":"d821b2596ebbc94d","fromSide":"bottom","toNode":"86699b40e75452d2","toSide":"top"},
-		{"id":"4594817629813813","fromNode":"3421342843a92247","fromSide":"right","toNode":"86699b40e75452d2","toSide":"left"}
+		{"id":"4594817629813813","fromNode":"3421342843a92247","fromSide":"right","toNode":"86699b40e75452d2","toSide":"left"},
+		{"id":"cfc958e033658b82","fromNode":"d1c3271c6fcec4a7","fromSide":"right","toNode":"2f191a3dcf786ee1","toSide":"left"},
+		{"id":"0538591b51f02455","fromNode":"c84fd3346dbd8c73","fromSide":"right","toNode":"7431e57e7fbd4a6f","toSide":"left"},
+		{"id":"3958fdd4f36c8f40","fromNode":"86699b40e75452d2","fromSide":"bottom","toNode":"d371f92ed9e734b3","toSide":"left"},
+		{"id":"7425d5678b8ffe8c","fromNode":"d371f92ed9e734b3","fromSide":"bottom","toNode":"c84fd3346dbd8c73","toSide":"top"}
 	]
 }
