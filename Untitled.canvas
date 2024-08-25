@@ -35,7 +35,6 @@
 		{"id":"6b48e7d0df1cdd71","type":"text","text":"10gb Config PVC","x":-1083,"y":440,"width":250,"height":60},
 		{"id":"63bf7db903e09071","type":"text","text":"Longhorn","x":-633,"y":260,"width":250,"height":60},
 		{"id":"d371f92ed9e734b3","type":"file","file":"Images/Pasted image 20240825175408.png","x":-707,"y":407,"width":400,"height":168},
-		{"id":"9b79a42fa4a8e9c6","type":"text","text":"4tb Media PVC","x":-230,"y":640,"width":250,"height":60},
 		{"id":"efae4a31733e2340","type":"file","file":"Images/Pasted image 20240825175725.png","x":90,"y":407,"width":260,"height":178},
 		{"id":"c84fd3346dbd8c73","type":"file","file":"Images/Pasted image 20240825174102.png","x":-1150,"y":720,"width":887,"height":111},
 		{"id":"b1922ae06395fe13","type":"text","text":"# Raid 0 redundant storage","x":1036,"y":-73,"width":309,"height":103,"color":"4"},
@@ -58,7 +57,8 @@
 		{"id":"5787debfeaca6a57","type":"text","text":"8tb","x":3555,"y":-29,"width":250,"height":60},
 		{"id":"9458ad8001777fd6","type":"text","text":"8tb\n","x":3840,"y":-29,"width":250,"height":60},
 		{"id":"68a9b1b42b513315","type":"text","text":"Rook/Ceph","x":2606,"y":-444,"width":250,"height":60},
-		{"id":"37577ae1a465074f","type":"text","text":"Node 1","x":1966,"y":-190,"width":250,"height":60}
+		{"id":"37577ae1a465074f","type":"text","text":"Node 1","x":1966,"y":-190,"width":250,"height":60},
+		{"id":"9b79a42fa4a8e9c6","type":"text","text":"4tb Media PVC","x":-230,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
