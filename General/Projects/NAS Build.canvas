@@ -64,7 +64,7 @@
 		{"id":"aacec345ef5ac53d","x":684,"y":1071,"width":786,"height":460,"type":"text","text":"## Pros\n---\n* Better performance on single node storage\n* Allows me to keep Longhorn in place\n* Enables virtualisation\n\n## Cons\n---\n* Potentially worse power consumption\n* Potentially requires a separate purchase for extra hardware\n* Harder to maintain then my straight K3's cluster"},
 		{"id":"1c9a6766e8c76a1e","type":"file","file":"Images/Pasted image 20240825183306.png","x":4341,"y":-656,"width":2041,"height":672},
 		{"id":"131e9818be5d70b3","type":"file","file":"Images/Pasted image 20240825201720.png","x":4840,"y":160,"width":1440,"height":1487},
-		{"id":"8694c7077e8ef274","type":"text","text":"## Pros\n---\n* Greater capacity to scale storage nodes\n* Arguably more feature rich\n* Easier to maintain\n\n## Cons\n---\n* Does not allow me to use VM's inside my cluster\n* Requires learning ceph\n* ","x":1840,"y":1840,"width":786,"height":460}
+		{"id":"8694c7077e8ef274","type":"text","text":"## Pros\n---\n* Greater capacity to scale storage nodes\n* Arguably more feature rich\n* Easier to maintain, as I have only one OS and architecture\n\n## Cons\n---\n* Does not allow me to use VM's inside my cluster\n* Requires learning ceph\n* Arguable worse single-node performance on my storage cluster","x":1840,"y":1840,"width":786,"height":460}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
