@@ -58,7 +58,8 @@
 		{"id":"9458ad8001777fd6","type":"text","text":"8tb\n","x":3840,"y":-29,"width":250,"height":60},
 		{"id":"68a9b1b42b513315","type":"text","text":"Rook/Ceph","x":2606,"y":-444,"width":250,"height":60},
 		{"id":"37577ae1a465074f","type":"text","text":"Node 1","x":1966,"y":-190,"width":250,"height":60},
-		{"id":"9b79a42fa4a8e9c6","type":"text","text":"4tb Media PVC","x":-230,"y":620,"width":250,"height":60}
+		{"id":"9b79a42fa4a8e9c6","type":"text","text":"4tb Media PVC","x":-230,"y":620,"width":250,"height":60},
+		{"id":"1c9a6766e8c76a1e","x":4400,"y":31,"width":2041,"height":672,"type":"file","file":"Images/Pasted image 20240825183306.png"}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
@@ -113,6 +114,7 @@
 		{"id":"968a87da22cd9c6e","fromNode":"352d24be32dafa30","fromSide":"bottom","toNode":"5787debfeaca6a57","toSide":"top"},
 		{"id":"a8126a2bda65635e","fromNode":"352d24be32dafa30","fromSide":"bottom","toNode":"9458ad8001777fd6","toSide":"top"},
 		{"id":"d674a14b415b7ee8","fromNode":"71227d59f84c12b6","fromSide":"right","toNode":"352d24be32dafa30","toSide":"left"},
-		{"id":"86f4628b44e680b9","fromNode":"352d24be32dafa30","fromSide":"bottom","toNode":"5f0206fd6f715ff8","toSide":"top"}
+		{"id":"86f4628b44e680b9","fromNode":"352d24be32dafa30","fromSide":"bottom","toNode":"5f0206fd6f715ff8","toSide":"top"},
+		{"id":"27831eab7cfbfc9f","fromNode":"1c9a6766e8c76a1e","fromSide":"left","toNode":"ed800cfd425b724e","toSide":"right"}
 	]
 }
