@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "General/Projects/NAS Build.canvas",
                 "viewState": {
-                  "x": 4331.550227726063,
-                  "y": 740.1174707127426,
-                  "zoom": -1.333333333333333
+                  "x": 2637.5,
+                  "y": 867,
+                  "zoom": -1.8531958754720057
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "General/Projects/NAS Build.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "General/Projects/NAS Build.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +141,13 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Useful commands.md",
+    "General/Notifarrr.md",
+    "General/Kubernetes Notes.md",
+    "General/Creating a CIFS backup.md",
+    "General/Projects/NAS Build.canvas",
+    "General/Projects",
     "Images/Pasted image 20240825201720.png",
     "Images/Pasted image 20240825183306.png",
     "Images/Pasted image 20240825175725.png",
@@ -148,18 +155,12 @@
     "Images/Pasted image 20240825174134.png",
     "Images/Pasted image 20240825174102.png",
     "Images/Longhorn.png",
-    "Untitled.canvas",
     "Games/Sins of a Solar Empire 2/Untitled.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Vasari.md",
     "Images/Pasted image 20240824162022.png",
     "Games/Sins of a Solar Empire 2",
-    "General/NAS & GPU-Compute Box.md",
     "General/NAS & GPU-Compute Box.html",
-    "General/Creating a CIFS backup.md",
-    "General/Useful commands.md",
-    "General/Notifarrr.md",
-    "General/Kubernetes Notes.md",
     "General/Future project idea.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/Curse of Dimensionality.md",
@@ -179,7 +180,6 @@
     "College/Programming Paradigms/Activation Record for a Procedure.md",
     "Images/Pasted image 20240809153744.png",
     "Images/Pasted image 20240809153738.png",
-    "Images/Pasted image 20240809151048.png",
     "Games/Helldiverrs/Builds",
     "Games/Helldiverrs",
     "Games/Mechabellum",
@@ -187,7 +187,6 @@
     "Games/Stellaris",
     "College/Machine Learning/ML Lecture",
     "General",
-    "College/Machine Learning",
     "Untitled 1.canvas"
   ]
 }
