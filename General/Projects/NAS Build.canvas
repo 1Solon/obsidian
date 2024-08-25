@@ -47,7 +47,6 @@
 		{"id":"c84fd3346dbd8c73","type":"file","file":"Images/Pasted image 20240825174102.png","x":-1150,"y":720,"width":887,"height":111},
 		{"id":"ee6f75c30e51349a","type":"file","file":"Images/Pasted image 20240825175408.png","x":2379,"y":578,"width":400,"height":168},
 		{"id":"82f9fe32aa8d5ff9","type":"text","text":"Standard","x":2453,"y":431,"width":250,"height":60},
-		{"id":"c404a87859aa5ac6","type":"text","text":"4tb Media PVC","x":2856,"y":811,"width":250,"height":60},
 		{"id":"5f0206fd6f715ff8","type":"file","file":"Images/Pasted image 20240825175725.png","x":3690,"y":578,"width":260,"height":178},
 		{"id":"956a41b733257bb0","type":"text","text":"10gb Config PVC","x":2003,"y":611,"width":250,"height":60},
 		{"id":"375eb8a70f2fd1f5","type":"file","file":"Images/Pasted image 20240825174102.png","x":1936,"y":891,"width":887,"height":111},
@@ -60,7 +59,8 @@
 		{"id":"5787debfeaca6a57","type":"text","text":"8tb","x":3555,"y":-29,"width":250,"height":60},
 		{"id":"9458ad8001777fd6","type":"text","text":"8tb\n","x":3840,"y":-29,"width":250,"height":60},
 		{"id":"1c9a6766e8c76a1e","type":"file","file":"Images/Pasted image 20240825183306.png","x":4400,"y":31,"width":2041,"height":672},
-		{"id":"131e9818be5d70b3","type":"file","file":"Images/Pasted image 20240825201720.png","x":4640,"y":960,"width":1440,"height":1487}
+		{"id":"c404a87859aa5ac6","type":"text","text":"4tb Media PVC","x":3010,"y":831,"width":250,"height":60},
+		{"id":"131e9818be5d70b3","type":"file","file":"Images/Pasted image 20240825201720.png","x":4701,"y":947,"width":1440,"height":1487}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
