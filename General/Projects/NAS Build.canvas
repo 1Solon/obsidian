@@ -61,10 +61,10 @@
 		{"id":"1c9a6766e8c76a1e","type":"file","file":"Images/Pasted image 20240825183306.png","x":4400,"y":31,"width":2041,"height":672},
 		{"id":"c404a87859aa5ac6","type":"text","text":"4tb Media PVC","x":3010,"y":831,"width":250,"height":60},
 		{"id":"131e9818be5d70b3","type":"file","file":"Images/Pasted image 20240825201720.png","x":4701,"y":947,"width":1440,"height":1487},
-		{"id":"51cbc7da3b2dd89a","x":-12,"y":1660,"width":250,"height":60,"type":"text","text":"Proxmox"},
-		{"id":"f666470254a92ab7","x":-180,"y":1845,"width":250,"height":60,"type":"text","text":"Disk\n"},
-		{"id":"4df7a216dc12b9dd","x":640,"y":1845,"width":250,"height":60,"type":"text","text":"TrueNAS"},
-		{"id":"e441653a40d345a1","x":-180,"y":2080,"width":250,"height":60,"type":"text","text":"Virtual Disk\n"}
+		{"id":"430bcbf0a257ebe9","x":40,"y":1680,"width":250,"height":60,"type":"text","text":"Storage Controller"},
+		{"id":"f666470254a92ab7","x":40,"y":1840,"width":250,"height":60,"type":"text","text":"Disk\n"},
+		{"id":"51cbc7da3b2dd89a","x":640,"y":1480,"width":250,"height":60,"type":"text","text":"Proxmox"},
+		{"id":"4df7a216dc12b9dd","x":640,"y":1720,"width":250,"height":60,"type":"text","text":"TrueNAS"}
 	],
 	"edges":[
 		{"id":"e09d71595a99aca4","fromNode":"33793588d62e11fa","fromSide":"bottom","toNode":"554cb67468dcc09a","toSide":"top"},
@@ -122,10 +122,8 @@
 		{"id":"86f4628b44e680b9","fromNode":"352d24be32dafa30","fromSide":"bottom","toNode":"5f0206fd6f715ff8","toSide":"top"},
 		{"id":"27831eab7cfbfc9f","fromNode":"1c9a6766e8c76a1e","fromSide":"left","toNode":"ed800cfd425b724e","toSide":"right"},
 		{"id":"5127ce06c2f3956f","fromNode":"1c9a6766e8c76a1e","fromSide":"bottom","toNode":"131e9818be5d70b3","toSide":"top"},
-		{"id":"0b9bdf685aa6b930","fromNode":"51cbc7da3b2dd89a","fromSide":"bottom","toNode":"f666470254a92ab7","toSide":"top"},
-		{"id":"680935dec7d2726b","fromNode":"51cbc7da3b2dd89a","fromSide":"bottom","toNode":"4df7a216dc12b9dd","toSide":"top"},
-		{"id":"cc284f5ab345ff35","fromNode":"f666470254a92ab7","fromSide":"bottom","toNode":"e441653a40d345a1","toSide":"top"},
-		{"id":"eccec4337dc66072","fromNode":"e441653a40d345a1","fromSide":"right","toNode":"4df7a216dc12b9dd","toSide":"left"},
-		{"id":"737575920debda06","fromNode":"f666470254a92ab7","fromSide":"right","toNode":"4df7a216dc12b9dd","toSide":"left"}
+		{"id":"236c407ef00937cf","fromNode":"430bcbf0a257ebe9","fromSide":"bottom","toNode":"f666470254a92ab7","toSide":"top"},
+		{"id":"d1332623ae47e0d8","fromNode":"430bcbf0a257ebe9","fromSide":"right","toNode":"4df7a216dc12b9dd","toSide":"left"},
+		{"id":"63cf9c67c61a5f4e","fromNode":"51cbc7da3b2dd89a","fromSide":"bottom","toNode":"4df7a216dc12b9dd","toSide":"top"}
 	]
 }
