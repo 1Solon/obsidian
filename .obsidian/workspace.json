@@ -11,11 +11,14 @@
             "id": "d9136334727b1a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -73,
+                  "y": -94,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +139,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "ddb9164078ff1375",
+  "active": "d9136334727b1a17",
   "lastOpenFiles": [
-    "Games/Sins of a Solar Empire 2/Vasari.md",
+    "Images/Pasted image 20240825174134.png",
+    "Images/Pasted image 20240825174102.png",
+    "Images/Longhorn.png",
+    "Untitled.canvas",
+    "Games/Sins of a Solar Empire 2/Untitled.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
+    "Games/Sins of a Solar Empire 2/Vasari.md",
     "Images/Pasted image 20240824162022.png",
     "Games/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.md",
@@ -173,17 +181,13 @@
     "Games/Helldiverrs/Builds",
     "Games/Helldiverrs",
     "Images/Pasted image 20240718180045.png",
-    "Games/Mechabellum/Units.md",
     "Games/Mechabellum",
     "Games/Elden Ring",
     "Games/Stellaris",
     "College/Machine Learning/ML Lecture",
     "Images/Pasted image 20240215111938.png",
-    "Images/Pasted image 20240215111839.png",
-    "Images/Pasted image 20240215111833.png",
     "General",
     "College/Machine Learning",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
