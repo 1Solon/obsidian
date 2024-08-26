@@ -11,11 +11,14 @@
             "id": "d9136334727b1a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General/Projects/NAS & GPU-Compute Box.md",
-                "mode": "source",
-                "source": false
+                "file": "General/Projects/NAS Build.canvas",
+                "viewState": {
+                  "x": -196.41505135844443,
+                  "y": 77.74178989573437,
+                  "zoom": -0.3333333333333332
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Projects/NAS & GPU-Compute Box.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Projects/NAS & GPU-Compute Box.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +141,8 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
-    "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Projects/NAS Build.canvas",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Useful commands.md",
