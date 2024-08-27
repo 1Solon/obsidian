@@ -15,9 +15,9 @@
               "state": {
                 "file": "General/Kubernetes/Kustomize_explanation.canvas",
                 "viewState": {
-                  "x": 814.7182630141974,
-                  "y": -570.2549497703801,
-                  "zoom": 0.3333333333333332
+                  "x": 117.89848983174352,
+                  "y": -642.6205033681085,
+                  "zoom": -1.333333333333333
                 }
               }
             }
@@ -141,6 +141,7 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "Images/Pasted image 20240827033103.png",
     "Images/Pasted image 20240827032350.png",
     "Images/Pasted image 20240827032234.png",
     "Images/Pasted image 20240827032220.png",
@@ -163,7 +164,6 @@
     "General/Creating a CIFS backup.md",
     "General/Projects",
     "Images/Pasted image 20240825201720.png",
-    "Images/Pasted image 20240825183306.png",
     "Games/Sins of a Solar Empire 2/Vasari.md",
     "Games/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.html",
