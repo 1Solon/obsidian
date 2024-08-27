@@ -15,9 +15,9 @@
               "state": {
                 "file": "General/Projects/NAS Build.canvas",
                 "viewState": {
-                  "x": -196.41505135844443,
-                  "y": 77.74178989573437,
-                  "zoom": -0.3333333333333332
+                  "x": -400.7766808108099,
+                  "y": -284.40553199683904,
+                  "zoom": 0.481275828547079
                 }
               }
             }
@@ -141,11 +141,11 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
-    "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Useful commands.md",
     "General/Projects/NAS Build.canvas",
+    "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
-    "General/Useful commands.md",
     "General/Notifarrr.md",
     "General/Kubernetes Notes.md",
     "General/Creating a CIFS backup.md",
