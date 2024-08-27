@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "General/Kubernetes/Kustomize_explanation.canvas",
                 "viewState": {
-                  "x": -400.7766808108099,
-                  "y": -284.40553199683904,
-                  "zoom": 0.481275828547079
+                  "x": -1598.9250365034502,
+                  "y": -686.1352265640588,
+                  "zoom": 0.3333333333333332
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "General/Kubernetes/Kustomize_explanation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "General/Kubernetes/Kustomize_explanation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,24 +141,30 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
-    "General/Useful commands.md",
+    "Images/Pasted image 20240827032350.png",
+    "Images/Pasted image 20240827032234.png",
+    "Images/Pasted image 20240827032220.png",
+    "Images/Pasted image 20240827032041.png",
+    "Images/Pasted image 20240827032008.png",
+    "Images/Pasted image 20240827031958.png",
+    "Images/Pasted image 20240827031949.png",
+    "Images/Pasted image 20240827031935.png",
+    "Images/Pasted image 20240827031924.png",
+    "General/Kubernetes/Kubernetes Notes.md",
+    "General/Kubernetes/Kustomize_explanation.canvas",
+    "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
+    "General/Kubernetes",
+    "General/Useful commands.md",
     "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Notifarrr.md",
-    "General/Kubernetes Notes.md",
     "General/Creating a CIFS backup.md",
     "General/Projects",
     "Images/Pasted image 20240825201720.png",
     "Images/Pasted image 20240825183306.png",
-    "Images/Pasted image 20240825175725.png",
-    "Images/Pasted image 20240825175408.png",
-    "Images/Pasted image 20240825174134.png",
-    "Images/Pasted image 20240825174102.png",
-    "Images/Longhorn.png",
     "Games/Sins of a Solar Empire 2/Vasari.md",
-    "Images/Pasted image 20240824162022.png",
     "Games/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.html",
     "General/Future project idea.md",
@@ -177,16 +183,12 @@
     "College/Programming Paradigms/Programming Paradigms Lecture 2.md",
     "College/Programming Paradigms/Programming Paradigms Lecture 1.md",
     "College/Definitions/Paradigm Definition.md",
-    "College/Programming Paradigms/Activation Record for a Procedure.md",
-    "Images/Pasted image 20240809153744.png",
-    "Images/Pasted image 20240809153738.png",
     "Games/Helldiverrs/Builds",
     "Games/Helldiverrs",
     "Games/Mechabellum",
     "Games/Elden Ring",
     "Games/Stellaris",
     "College/Machine Learning/ML Lecture",
-    "General",
     "Untitled 1.canvas"
   ]
 }

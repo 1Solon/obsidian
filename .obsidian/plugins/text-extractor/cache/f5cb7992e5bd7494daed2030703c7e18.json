@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/f5cb7992e5bd7494daed2030703c7e18.json","text":"apiVersion: kustomize.config.k8s.io/vibetal kind: Kustomization resources: - cert-manager - databases - flux - longhorn - metallb - pod-gateway - reflector - reloader - system-upgrade - traefik |","libVersion":"0.2.2","langs":"eng"}
