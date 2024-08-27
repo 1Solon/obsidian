@@ -13,7 +13,7 @@
 		{"id":"0807fc32bad66725","fromNode":"c9d969d235d0df08","fromSide":"right","toNode":"b7768257c297af67","toSide":"left","label":"Installs Infra and Apps"},
 		{"id":"33f9e773ee5daa24","fromNode":"b7768257c297af67","fromSide":"right","toNode":"ec0d1031bc7c5845","toSide":"left","label":"Installing infra and apps\nmeans installing the kustomization\ninside infra/apps"},
 		{"id":"e6df021c4f476f28","fromNode":"ec0d1031bc7c5845","fromSide":"bottom","toNode":"3d60b5187db0d377","toSide":"top","label":"File structure looks like this really"},
-		{"id":"324eba31633cd02b","fromNode":"ec0d1031bc7c5845","fromSide":"right","toNode":"89a039f04e415b26","toSide":"left","label":"The kustomization then\ninstalls root kustomizatio\ninside each of the apps"},
+		{"id":"324eba31633cd02b","fromNode":"ec0d1031bc7c5845","fromSide":"right","toNode":"89a039f04e415b26","toSide":"left","label":"The kustomization then\ninstalls root kustomization\ninside each of the apps"},
 		{"id":"abf68790f6fb6b70","fromNode":"89a039f04e415b26","fromSide":"right","toNode":"1c71f1a62d4ed978","toSide":"left","label":"This kustomization hits the\ninstall.yaml kustomization"},
 		{"id":"1c11f79992b4cec7","fromNode":"89a039f04e415b26","fromSide":"bottom","toNode":"e4b6a2cc6bd06055","toSide":"top","label":"Install is one deep, but that's okay"},
 		{"id":"740f548acfb14e69","fromNode":"1c71f1a62d4ed978","fromSide":"bottom","toNode":"e4b6a2cc6bd06055","toSide":"top","label":"Installs everything inside the app directory under certain conditions"},
