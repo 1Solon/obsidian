@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "file": "Games/Tabletop/Lancer/Lancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "file": "Games/Tabletop/Lancer/Lancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Sins of a Solar Empire 2/Advent.md",
+                "file": "Games/Tabletop/Lancer/Lancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,11 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "Games/Video/Sins of a Solar Empire 2/Advent.md",
+    "Games/Tabletop/Lancer/Lancer.md",
+    "Games/Tabletop/Lancer",
+    "Games/Tabletop",
+    "Games/Video",
     "General/Useful commands.md",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
@@ -156,22 +161,21 @@
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
     "General/Projects/NAS & GPU-Compute Box.md",
-    "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Notifarrr.md",
     "General/Creating a CIFS backup.md",
     "General/Projects",
-    "Games/Sins of a Solar Empire 2/Vasari.md",
-    "Games/Sins of a Solar Empire 2",
+    "Games/Video/Sins of a Solar Empire 2/Vasari.md",
+    "Games/Video/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.html",
     "General/Future project idea.md",
     "College/Machine Learning/ML Lecture 4.md",
     "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/ML Lecture 3.md",
     "General/Hosting my obsidian online (project).md",
-    "Games/Helldiverrs/Builds/Heavy Gunner.md",
-    "Games/Helldiverrs/Builds/Defender.md",
-    "Games/Elden Ring/Spellblade.md",
+    "Games/Video/Helldiverrs/Builds/Heavy Gunner.md",
+    "Games/Video/Helldiverrs/Builds/Defender.md",
+    "Games/Video/Elden Ring/Spellblade.md",
     "College/Definitions/Checkbox.md",
     "College/Programming Paradigms/Memory Management.md",
     "College/Programming Paradigms/Memory Block Types.md",
@@ -179,12 +183,9 @@
     "College/Programming Paradigms/Variable Length Memory.md",
     "College/Programming Paradigms/Programming Paradigms Lecture 2.md",
     "College/Programming Paradigms/Programming Paradigms Lecture 1.md",
-    "Games/Helldiverrs/Builds",
-    "Games/Helldiverrs",
-    "Games/Mechabellum",
-    "Games/Elden Ring",
-    "Games/Stellaris",
-    "College/Machine Learning/ML Lecture",
+    "Games/Video/Helldiverrs/Builds",
+    "Games/Video/Helldiverrs",
+    "Games/Video/Mechabellum",
     "Untitled 1.canvas"
   ]
 }
