@@ -8,4 +8,4 @@ tags:
 
 ## Notes
 ---
-* [[]]
+* [[What to do each turn]]
