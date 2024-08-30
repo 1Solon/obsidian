@@ -3,7 +3,6 @@ tags:
   - Lancer
   - TableTop
 ---
----
 * Characters can choose between several different kinds of action, depending on what they want to achieve. On their turn, characters can make a **standard move** and take either **two quick actions** or one **full action.** The same action cannot be taken more than once per turn, except in certain cases (e.g., special actions like **free actions** and **reactions**).
 
 ## Quick Reference
