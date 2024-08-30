@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9136334727b1a17",
+            "id": "c5dfc02a7be9d531",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5dfc02a7be9d531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
+                "file": "Games/Tabletop/Lancer/Lancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
+                "file": "Games/Tabletop/Lancer/Lancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +138,9 @@
   },
   "active": "c5dfc02a7be9d531",
   "lastOpenFiles": [
-    "Images/Pasted image 20240830044123.png",
-    "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
+    "Games/Tabletop/Lancer/Lancer.md",
+    "Images/Pasted image 20240830044123.png",
     "Games/Video/Sins of a Solar Empire 2/Advent.md",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
@@ -171,7 +158,6 @@
     "Images/Pasted image 20240827031958.png",
     "Images/Pasted image 20240827031949.png",
     "Images/Pasted image 20240827031935.png",
-    "Images/Pasted image 20240827031924.png",
     "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
