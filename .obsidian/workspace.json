@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Curse of dimensionality",
+                "query": "tag:TableTop",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,6 +164,8 @@
   },
   "active": "7d888b2a4bd43035",
   "lastOpenFiles": [
+    "Images/Pasted image 20240830050535.png",
+    "Images/Pasted image 20240830050412.png",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Overwatch.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
@@ -184,7 +187,6 @@
     "Images/Pasted image 20240827032234.png",
     "Images/Pasted image 20240827032220.png",
     "Images/Pasted image 20240827032041.png",
-    "Images/Pasted image 20240827032008.png",
     "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
@@ -207,7 +209,6 @@
     "College/Definitions/Checkbox.md",
     "College/Programming Paradigms/Memory Management.md",
     "College/Programming Paradigms/Memory Block Types.md",
-    "College/Programming Paradigms/Fixed Length Memory.md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Helldiverrs",
     "Games/Video/Mechabellum",
