@@ -18,3 +18,4 @@ tags:
 ## Notes
 ---
 * [[What to do each turn]]
+* [[Action with Trigger]]
