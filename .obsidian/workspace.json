@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Useful commands.md",
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Useful commands.md",
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Useful commands.md",
+                "file": "Games/Sins of a Solar Empire 2/Advent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "d9136334727b1a17",
   "lastOpenFiles": [
+    "General/Useful commands.md",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
     "College/Scientific Research & Literature/Group Project Notes.md",
@@ -154,7 +155,6 @@
     "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
-    "General/Useful commands.md",
     "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Sins of a Solar Empire 2/Advent.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
