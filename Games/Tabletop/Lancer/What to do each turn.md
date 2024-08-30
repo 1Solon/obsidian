@@ -10,6 +10,8 @@ tags:
 ---
 ![[Pasted image 20240830044123.png]]
 
-## Full Actions
+## Special Actions
 ---
 * In addition to move, quick, and full actions, there are several types of special actions: **free actions**, **reactions**, and **OVERCHARGE**. Unlike the standard action types, there is **no limit** to how many free actions and reactions a character can take per round. Characters can even take reactions outside of their turn.
+
+* 
