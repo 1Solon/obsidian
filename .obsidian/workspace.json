@@ -11,8 +11,12 @@
             "id": "04b923c433f36d6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General/Useful commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/Useful commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/Useful commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,10 +136,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "04b923c433f36d6f",
   "lastOpenFiles": [
-    "Images/Pasted image 20240831164759.png",
+    "General/Notifarrr.md",
     "General/Kubernetes/Untitled.canvas",
+    "Images/Pasted image 20240831164759.png",
     "Games/Tabletop/Lancer/Action with Trigger.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
     "Games/Tabletop/Lancer/Overwatch.md",
@@ -155,13 +162,11 @@
     "Images/Pasted image 20240827033103.png",
     "Images/Pasted image 20240827032350.png",
     "Images/Pasted image 20240827032234.png",
-    "Images/Pasted image 20240827032220.png",
     "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
     "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
-    "General/Notifarrr.md",
     "General/Creating a CIFS backup.md",
     "General/Projects",
     "Games/Video/Sins of a Solar Empire 2/Vasari.md",
