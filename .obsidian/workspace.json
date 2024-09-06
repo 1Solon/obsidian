@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
+                "file": "General/Kubernetes/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
+                "file": "General/Kubernetes/Kubernetes Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Tabletop/Lancer/What to do each turn.md",
+                "file": "General/Kubernetes/Kubernetes Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +138,10 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "Games/Tabletop/Lancer/What to do each turn.md",
     "Games/Tabletop/Lancer/Overwatch.md",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
-    "Games/Tabletop/Lancer/What to do each turn.md",
     "General/Useful commands.md",
     "General/Notifarrr.md",
     "General/Kubernetes/Untitled.canvas",
