@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Definitions/Bash.md",
+                "file": "College/Definitions/Common Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Definitions/Bash.md",
+                "file": "College/Definitions/Common Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Definitions/Bash.md",
+                "file": "College/Definitions/Common Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,9 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "College/Definitions/rm.md",
+    "College/Definitions/Common Commands.md",
+    "College/Definitions/Bash.md",
     "College/Definitions/Android.md",
     "College/Definitions/Amazon EC2.md",
     "College/Definitions/EC2 Use Cases.md",
@@ -181,9 +184,6 @@
     "General/NAS & GPU-Compute Box.html",
     "General/Future project idea.md",
     "College/Machine Learning/ML Lecture 4.md",
-    "College/Machine Learning/Curse of Dimensionality.md",
-    "College/Machine Learning/ML Lecture 3.md",
-    "General/Hosting my obsidian online (project).md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Helldiverrs",
     "Games/Video/Mechabellum",
