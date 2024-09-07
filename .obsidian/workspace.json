@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Definitions/Amazon EC2.md",
+                "file": "College/Definitions/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Definitions/Amazon EC2.md",
+                "file": "College/Definitions/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Definitions/Amazon EC2.md",
+                "file": "College/Definitions/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,9 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
-    "College/Definitions/EC2 Use Cases.md",
+    "College/Definitions/Android.md",
     "College/Definitions/Amazon EC2.md",
+    "College/Definitions/EC2 Use Cases.md",
     "College/Definitions/Amazon Cognito.md",
     "College/Definitions/Amazon Encryption.md",
     "College/Definitions/A network-based English-to-Irish Translator.md",
@@ -183,7 +184,6 @@
     "College/Machine Learning/Curse of Dimensionality.md",
     "College/Machine Learning/ML Lecture 3.md",
     "General/Hosting my obsidian online (project).md",
-    "Games/Video/Helldiverrs/Builds/Heavy Gunner.md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Helldiverrs",
     "Games/Video/Mechabellum",
