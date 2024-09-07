@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "file": "College/Definitions/Amazon EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "file": "College/Definitions/Amazon EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "file": "College/Definitions/Amazon EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +138,15 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
-    "Games/Tabletop/Lancer/What to do each turn.md",
-    "Games/Tabletop/Lancer/Overwatch.md",
+    "College/Definitions/Amazon Cognito.md",
+    "College/Definitions/Amazon Encryption.md",
+    "College/Definitions/A network-based English-to-Irish Translator.md",
+    "College/Databases 2/Databases 2 Lecture 2.md",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
+    "General/Kubernetes/Kubernetes Notes.md",
+    "Games/Tabletop/Lancer/What to do each turn.md",
+    "Games/Tabletop/Lancer/Overwatch.md",
     "General/Useful commands.md",
     "General/Notifarrr.md",
     "General/Kubernetes/Untitled.canvas",
@@ -156,7 +161,6 @@
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
     "Games/Video",
-    "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
     "College/Scientific Research & Literature/Group Project Notes.md",
     "Images/Pasted image 20240827033103.png",
@@ -180,9 +184,6 @@
     "Games/Video/Helldiverrs/Builds/Heavy Gunner.md",
     "Games/Video/Helldiverrs/Builds/Defender.md",
     "Games/Video/Elden Ring/Spellblade.md",
-    "College/Definitions/Checkbox.md",
-    "College/Programming Paradigms/Memory Management.md",
-    "College/Programming Paradigms/Memory Block Types.md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Helldiverrs",
     "Games/Video/Mechabellum",
