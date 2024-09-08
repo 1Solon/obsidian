@@ -11,11 +11,14 @@
             "id": "04b923c433f36d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Games/Video/Nebulous/General.md",
-                "mode": "source",
-                "source": false
+                "file": "General/Projects/NAS Build.canvas",
+                "viewState": {
+                  "x": 2600.5,
+                  "y": 770,
+                  "zoom": -2.805475368577386
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Nebulous/General.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Nebulous/General.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +141,13 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Kubernetes/Kubernetes Notes.md",
+    "General/Kubernetes/Kustomize_explanation.canvas",
+    "Games/Video/Nebulous/General.md",
     "Images/Pasted image 20240908001841.png",
     "Images/Pasted image 20240907231642.png",
     "College/Definitions/Common Commands.md",
-    "Games/Video/Nebulous/General.md",
     "Games/Video/Nebulous",
     "College/Definitions/rm.md",
     "College/Definitions/Bash.md",
@@ -154,7 +160,6 @@
     "College/Databases 2/Databases 2 Lecture 2.md",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
-    "General/Kubernetes/Kubernetes Notes.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
     "Games/Tabletop/Lancer/Overwatch.md",
     "General/Useful commands.md",
@@ -171,14 +176,11 @@
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
     "Games/Video",
-    "General/Kubernetes/Kustomize_explanation.canvas",
     "College/Scientific Research & Literature/Group Project Notes.md",
     "Images/Pasted image 20240827033103.png",
-    "Images/Pasted image 20240827032350.png",
     "General/Kubernetes/Untitled.md",
     "General/Projects/NAS Build.canvas",
     "General/Kubernetes",
-    "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Creating a CIFS backup.md",
     "General/Projects",
