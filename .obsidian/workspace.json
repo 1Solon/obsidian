@@ -11,11 +11,14 @@
             "id": "04b923c433f36d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
-                "mode": "source",
-                "source": false
+                "file": "General/Projects/NAS Build.canvas",
+                "viewState": {
+                  "x": 327.9334531487086,
+                  "y": 176.3674483865554,
+                  "zoom": -1.1853908381195875
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "file": "General/Projects/NAS Build.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +141,16 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
-    "Images/Pasted image 20240912155057.png",
+    "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
     "Games/Video/Nebulous/Fighter Doctrine.md",
+    "Images/Pasted image 20240912155057.png",
     "Images/Pasted image 20240911054110.png",
     "Images/Pasted image 20240911052001.png",
-    "General/Kubernetes/Kubernetes Notes.md",
     "Images/Pasted image 20240909223426.png",
     "Images/Pasted image 20240909181143.png",
     "General/Projects/NAS Build.canvas",
-    "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Video/Nebulous/General.md",
     "Images/Pasted image 20240908001841.png",
     "Images/Pasted image 20240907231642.png",
@@ -172,7 +175,6 @@
     "Images/Pasted image 20240831164759.png",
     "Images/Pasted image 20240830050535.png",
     "Images/Pasted image 20240830050412.png",
-    "Images/Pasted image 20240830045858.png",
     "Games/Video/Sins of a Solar Empire 2/Advent.md",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
