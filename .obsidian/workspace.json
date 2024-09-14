@@ -11,14 +11,11 @@
             "id": "04b923c433f36d6f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
-                "viewState": {
-                  "x": 327.9334531487086,
-                  "y": 176.3674483865554,
-                  "zoom": -1.1853908381195875
-                }
+                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +138,7 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
@@ -150,7 +148,6 @@
     "Images/Pasted image 20240911052001.png",
     "Images/Pasted image 20240909223426.png",
     "Images/Pasted image 20240909181143.png",
-    "General/Projects/NAS Build.canvas",
     "Games/Video/Nebulous/General.md",
     "Images/Pasted image 20240908001841.png",
     "Images/Pasted image 20240907231642.png",
