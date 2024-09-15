@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "file": "Games/Video/Nuclear.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "file": "Games/Video/Nuclear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Nebulous/Fighter Doctrine.md",
+                "file": "Games/Video/Nuclear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,12 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "Games/Video/Nebulous/Fighter Doctrine.md",
+    "Games/Video/Nuclear.md",
     "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
-    "Games/Video/Nebulous/Fighter Doctrine.md",
     "Images/Pasted image 20240912155057.png",
     "Images/Pasted image 20240911054110.png",
     "Images/Pasted image 20240911052001.png",
