@@ -7,7 +7,9 @@
 * Activate resistance banks
 * Set operations mode to nominal
 * Insert fuel into the core
-* Remove the control rods
+* Remove the control rods (set to 98%)
+* Once reactor is up, activate steam turbine (slow)
+* 
 
 ## Resistance banks
 ---
