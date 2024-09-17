@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"b54465e651e9e001","type":"group","x":3360,"y":-760,"width":4561,"height":2440,"label":"Rook/Ceph Based"},
-		{"id":"c00a67c87d7688bb","type":"group","x":-1520,"y":-760,"width":3920,"height":1640,"label":"Zfs Based"},
+		{"id":"c00a67c87d7688bb","type":"group","x":-1520,"y":-760,"width":3400,"height":1640,"label":"Zfs Based"},
 		{"id":"ed800cfd425b724e","type":"group","x":3386,"y":-689,"width":2214,"height":730,"label":"Kubernetes Cluster"},
 		{"id":"7ad2cd122c44b5a2","type":"group","x":3380,"y":251,"width":2220,"height":620,"label":"Media Workload"},
 		{"id":"90028cb1c4af5bf6","type":"group","x":-1480,"y":-700,"width":1840,"height":730,"label":"Kubernetes Cluster"},
