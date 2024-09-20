@@ -1,1 +1,0 @@
-https://github.com/Notifiarr/notifiarr/blob/main/examples/compose.yml

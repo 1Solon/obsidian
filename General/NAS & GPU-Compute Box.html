@@ -1,0 +1,885 @@
+<!doctype html>
+<html>
+    <head>
+        <title>NAS & GPU-Compute Box</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #444;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; inset-inline-start: 0; z-index: 200;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border-right: 1px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top;}
+.ͼ1 .cm-highlightSpace:before {content: attr(data-display); position: absolute; pointer-events: none; color: #888;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ @keyframes loading {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.workspace-leaf-content[data-type='git-view'] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+.workspace-leaf-content[data-type='git-view'] .view-content {
+    padding: 0;
+}
+
+.workspace-leaf-content[data-type='git-history-view'] .view-content {
+    padding: 0;
+}
+
+.loading>svg {
+    animation: 2s linear infinite loading;
+    transform-origin: 50% 50%;
+    display: inline-block;
+}
+
+.obsidian-git-center {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.obsidian-git-textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.obsidian-git-center-button {
+    display: block;
+    margin: 20px auto;
+}
+
+.tooltip.mod-left {
+    overflow-wrap: break-word;
+}
+
+.tooltip.mod-right {
+    overflow-wrap: break-word;
+}
+.git-tools {
+    display: flex;
+    margin-left: auto;
+}
+.git-tools .type {
+    padding-left: var(--size-2-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11px;
+}
+
+.git-tools .type[data-type="M"] {
+    color: orange;
+}
+.git-tools .type[data-type="D"] {
+    color: red;
+}
+.git-tools .buttons {
+    display: flex;
+}
+.git-tools .buttons > * {
+    padding: 0 0;
+    height: auto;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-d-none {
+    display: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-wrapper {
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-header {
+    background-color: var(--background-primary);
+    border-bottom: 1px solid var(--interactive-accent);
+    font-family: var(--font-monospace);
+    height: 35px;
+    padding: 5px 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-header,
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-stats {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-stats {
+    font-size: 14px;
+    margin-left: auto;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-lines-added {
+    border: 1px solid #b4e2b4;
+    border-radius: 5px 0 0 5px;
+    color: #399839;
+    padding: 2px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-lines-deleted {
+    border: 1px solid #e9aeae;
+    border-radius: 0 5px 5px 0;
+    color: #c33;
+    margin-left: 1px;
+    padding: 2px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-name-wrapper {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 15px;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-name {
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-wrapper {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 3px;
+    margin-bottom: 1em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 3px;
+    cursor: pointer;
+    display: none;
+    font-size: 12px;
+    justify-content: flex-end;
+    padding: 4px 8px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse.d2h-selected {
+    background-color: #c8e1ff;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-collapse-input {
+    margin: 0 4px 0 0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-diff-table {
+    border-collapse: collapse;
+    font-family: Menlo, Consolas, monospace;
+    font-size: 13px;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-files-diff {
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-diff {
+    overflow-y: hidden;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-side-diff {
+    display: inline-block;
+    margin-bottom: -8px;
+    margin-right: -4px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 50%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line {
+    padding: 0 8em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line {
+    display: inline-block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line {
+    padding: 0 4.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-ctn {
+    word-wrap: normal;
+    background: none;
+    display: inline-block;
+    padding: 0;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    vertical-align: middle;
+    white-space: pre;
+    width: 100%;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+    background-color: #ffb6ba;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+    background-color: #8d232881;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+    border-radius: 0.2em;
+    display: inline-block;
+    margin-top: -1px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+    background-color: #97f295;
+    text-align: left;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+    background-color: #1d921996;
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-prefix {
+    word-wrap: normal;
+    background: none;
+    display: inline;
+    padding: 0;
+    white-space: pre;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num1 {
+    float: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num1,
+.workspace-leaf-content[data-type="diff-view"] .line-num2 {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 0 0.5em;
+    text-overflow: ellipsis;
+    width: 3.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .line-num2 {
+    float: right;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber {
+    background-color: var(--background-primary);
+    border: solid var(--background-modifier-border);
+    border-width: 0 1px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    text-align: right;
+    width: 7.5em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber:after {
+    content: "\200b";
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber {
+    background-color: var(--background-primary);
+    border: solid var(--background-modifier-border);
+    border-width: 0 1px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0 0.5em;
+    position: absolute;
+    text-align: right;
+    text-overflow: ellipsis;
+    width: 4em;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-diff-tbody tr {
+    position: relative;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber:after {
+    content: "\200b";
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-emptyplaceholder,
+.workspace-leaf-content[data-type="diff-view"] .d2h-emptyplaceholder {
+    background-color: var(--background-primary);
+    border-color: var(--background-modifier-border);
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-line-prefix,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-emptyplaceholder {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-linenumber,
+.workspace-leaf-content[data-type="diff-view"] .d2h-code-side-linenumber {
+    direction: rtl;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-del {
+    background-color: #fee8e9;
+    border-color: #e9aeae;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-ins {
+    background-color: #dfd;
+    border-color: #b4e2b4;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-del {
+    background-color: #521b1d83;
+    border-color: #691d1d73;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-ins {
+    background-color: rgba(30, 71, 30, 0.5);
+    border-color: #13501381;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-info {
+    background-color: var(--background-primary);
+    border-color: var(--background-modifier-border);
+    color: var(--text-normal);
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+    background-color: #fdf2d0;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+    background-color: #55492480;
+}
+
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+    background-color: #ded;
+}
+
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+    background-color: rgba(37, 78, 37, 0.418);
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper {
+    margin-bottom: 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a {
+    color: #3572b0;
+    text-decoration: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a:visited {
+    color: #3572b0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-header {
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-title {
+    font-weight: 700;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-line {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: left;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li {
+    border-bottom: 1px solid var(--background-modifier-border);
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li:last-child {
+    border-bottom: none;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-switch {
+    cursor: pointer;
+    display: none;
+    font-size: 10px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-icon {
+    fill: currentColor;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-deleted {
+    color: #c33;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-added {
+    color: #399839;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-changed {
+    color: #d0b44c;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-moved {
+    color: #3572b0;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-tag {
+    background-color: var(--background-primary);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 10px;
+    margin-left: 5px;
+    padding: 0 2px;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-deleted-tag {
+    border: 2px solid #c33;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-added-tag {
+    border: 1px solid #399839;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-changed-tag {
+    border: 1px solid #d0b44c;
+}
+
+.workspace-leaf-content[data-type="diff-view"] .d2h-moved-tag {
+    border: 1px solid #3572b0;
+}
+
+/* ====================== Line Authoring Information ====================== */
+
+.cm-gutterElement.obs-git-blame-gutter {
+    /* Add background color to spacing inbetween and around the gutter for better aesthetics */
+    border-width: 0px 2px 0.2px 2px;
+    border-style: solid;
+    border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+
+.cm-gutterElement.obs-git-blame-gutter > div, .line-author-settings-preview {
+    /* delegate text color to settings */
+    color: var(--obs-git-gutter-text); 
+    font-family: monospace;
+    height: 100%; /* ensure, that age-based background color occupies entire parent */
+    text-align: right;
+    padding: 0px 6px 0px 6px;
+    white-space: pre; /* Keep spaces and do not collapse them. */
+}
+ /* Sets all the text color to red! */
+.nav-action-button {
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0px;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.nav-action-text-button {
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 5px;
+  margin: 4px;
+  border-radius: 4px;
+  text-align: center;
+  border: 1px solid;
+}
+.nav-action-text-button.is-active {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+.nav-action-text-button.is-active:hover {
+  color: var(--text-on-accent);
+}
+.nav-action-text-button:hover {
+  color: var(--text-accent);
+}
+
+.color-icon {
+  color: var(--text-muted);
+  cursor: pointer;
+  width: 16px;
+  min-width: 16px;
+  max-width: 16px;
+  height: 16px;
+  min-height: 16px;
+  max-height: 16px;
+  margin: 3px;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.command-list-view-row {
+  display: flex;
+}
+.command-list-view-container {
+  min-width: 60px;
+  display: flex;
+}
+
+.command-list-view-icon {
+  height: 24px;
+  max-height: 24px;
+  border: 1px solid gray;
+  margin-right: auto;
+}
+
+.command-list-view-text {
+  padding-left: 12px;
+  color: #c7254e;
+}
+ .omnisearch-modal {
+}
+
+.omnisearch-result {
+  white-space: normal;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.omnisearch-result__title-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 5px;
+  flex-wrap: wrap;
+}
+
+.omnisearch-result__title {
+  white-space: pre-wrap;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}
+
+.omnisearch-result__title > span {
+  
+}
+
+.omnisearch-result__folder-path {
+  font-size: 0.75rem;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  color: var(--text-muted);
+}
+
+.omnisearch-result__extension {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+.omnisearch-result__counter {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+.omnisearch-result__body {
+  white-space: normal;
+  font-size: small;
+  word-wrap: normal;
+
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+
+  color: var(--text-muted);
+  margin-left: 0.5em;
+}
+
+.omnisearch-result__image-container {
+  flex-basis: 20%;
+  text-align: right
+}
+
+.omnisearch-highlight {
+}
+
+.omnisearch-default-highlight {
+  text-decoration: underline;
+  text-decoration-color: var(--text-highlight-bg);
+  text-decoration-thickness: 3px;
+  text-underline-offset: -1px;
+  text-decoration-skip-ink: none;
+}
+
+.omnisearch-input-container {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .omnisearch-input-container {
+    flex-direction: column;
+  }
+}
+
+.omnisearch-input-field {
+  position: relative;
+  flex-grow: 1;
+}
+ .unused-images-logs {
+    margin-bottom: 13px;
+    margin-top: 5px;
+}
+
+.unused-images-center-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+ undefined
+</style>
+    </head>
+    <body>
+<h2 data-heading="Main Build" dir="auto">Main Build</h2>
+<hr>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Link</th>
+<th>Notes</th>
+<th>Price (original)</th>
+<th>Price (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Case</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/SilverStone-Technology-hot-swappable-performance-SST-CS351/dp/B09VKJNYLW/ref=pd_sbs_d_sccl_4_23/259-2635493-5559302?pd_rd_w=SYaGB&amp;content-id=amzn1.sym.a6779871-f1b3-4f65-8ecd-f839d6272217&amp;pf_rd_p=a6779871-f1b3-4f65-8ecd-f839d6272217&amp;pf_rd_r=MS1MGYB5WS69PM1DEH2P&amp;pd_rd_wg=xHLCQ&amp;pd_rd_r=2e275cb5-ffef-4470-8df0-e52491fc35a7&amp;pd_rd_i=B09VKJNYLW&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/SilverStone-Technology-hot-swappable-performance-SST-CS351/dp/B09VKJNYLW/ref=pd_sbs_d_sccl_4_23/259-2635493-5559302?pd_rd_w=SYaGB&amp;content-id=amzn1.sym.a6779871-f1b3-4f65-8ecd-f839d6272217&amp;pf_rd_p=a6779871-f1b3-4f65-8ecd-f839d6272217&amp;pf_rd_r=MS1MGYB5WS69PM1DEH2P&amp;pd_rd_wg=xHLCQ&amp;pd_rd_r=2e275cb5-ffef-4470-8df0-e52491fc35a7&amp;pd_rd_i=B09VKJNYLW&amp;psc=1" target="_blank">SilverStone Technology CS351, 5-bay SAS-12G / SATA-6G hot-swappable high performance NAS chassis, SST-CS351 : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td></td>
+<td>£189.98</td>
+<td>€222.87</td>
+</tr>
+<tr>
+<td>Motherboard + CPU + CPU-Fan</td>
+<td><a data-tooltip-position="top" aria-label="https://cwwk.net/products/cwwk-amd-7735hs-7840hs-8845hs-7940hs-8-bay-9-bay-nas-usb4-40g-rate-8k-display-4-network-2-5g-9-sata-pcie-x16-itx-motherboard?variant=45440197918952" rel="noopener" class="external-link" href="https://cwwk.net/products/cwwk-amd-7735hs-7840hs-8845hs-7940hs-8-bay-9-bay-nas-usb4-40g-rate-8k-display-4-network-2-5g-9-sata-pcie-x16-itx-motherboard?variant=45440197918952" target="_blank">CWWK AMD-7735HS/7840HS/8845HS/7940HS 8-bay/9-bay NAS/USB4/40G rate 8K display 4 network 2.5G/9 SATA/PCIe x16 ITX motherboard – cwwk</a></td>
+<td></td>
+<td>$503.52</td>
+<td>€456.09</td>
+</tr>
+<tr>
+<td>Thermal Paste</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/ARCTIC-MX-4-2019-Performance-Durability/dp/B07L9BDY3T/ref=sr_1_3?crid=1YH47CPSLET69&amp;dib=eyJ2IjoiMSJ9.zEwikJKQpTWbolJ63_gpP_OqzCFGsGSoKP7fIN62NAW1kWLGvzZeTdNpaTRJkf6mS4Yh4CJrbOndzfFEVQQlj2Yxc4W9yq-v2bHMwvDMmeJSWgt0D6-l01W6iwuvFU2BwcuSnBg3V9E6PeDIFMB6B5kJTOBWU7iLCJoFvd91dQOWhIlEWzeI7ow4SeZ-l8O1l4zjxWLngubXgXo8i4gI4nfxaJ-yoOMvMbM8in4f4VhlR4x2lVXROY6a03QqXQ2aA8GJyEhs_9FIO0vddhbNfJmx8B93FRi58F0NDpL-5KE.-hXaG7cDR1TjaXrUvDAOG1p4m6vq8hWY7RFHTh_9dOc&amp;dib_tag=se&amp;keywords=thermal+paste&amp;qid=1724042811&amp;s=computers&amp;sprefix=thermal+pas%2Ccomputers%2C141&amp;sr=1-3" rel="noopener" class="external-link" href="https://www.amazon.co.uk/ARCTIC-MX-4-2019-Performance-Durability/dp/B07L9BDY3T/ref=sr_1_3?crid=1YH47CPSLET69&amp;dib=eyJ2IjoiMSJ9.zEwikJKQpTWbolJ63_gpP_OqzCFGsGSoKP7fIN62NAW1kWLGvzZeTdNpaTRJkf6mS4Yh4CJrbOndzfFEVQQlj2Yxc4W9yq-v2bHMwvDMmeJSWgt0D6-l01W6iwuvFU2BwcuSnBg3V9E6PeDIFMB6B5kJTOBWU7iLCJoFvd91dQOWhIlEWzeI7ow4SeZ-l8O1l4zjxWLngubXgXo8i4gI4nfxaJ-yoOMvMbM8in4f4VhlR4x2lVXROY6a03QqXQ2aA8GJyEhs_9FIO0vddhbNfJmx8B93FRi58F0NDpL-5KE.-hXaG7cDR1TjaXrUvDAOG1p4m6vq8hWY7RFHTh_9dOc&amp;dib_tag=se&amp;keywords=thermal+paste&amp;qid=1724042811&amp;s=computers&amp;sprefix=thermal+pas%2Ccomputers%2C141&amp;sr=1-3" target="_blank">ARCTIC MX-4 (4 g) - Premium Performance Thermal Paste for all processors (CPU, GPU - PC, PS4, XBOX), very high thermal conductivity, long durability, safe application, non-conductive, non-capacitive : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td>I don't know if this is necessary, but getting it to be safe</td>
+<td>€6.01</td>
+<td>€6.01</td>
+</tr>
+<tr>
+<td>SF-8643 Sata</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/YIWENTEC-Internal-SFF-8643-Target-Drive-8643-SATA-1M/dp/B07QM3BRHV/ref=sr_1_3?crid=2XJUINEL0M0UC&amp;dib=eyJ2IjoiMSJ9.5AGz9603ZUpg5PTYgvzpJmUt58z5PMsINXZKOMaELBdfFE3mpAbINacI_Oi2SegTvp4lzyaR3AAZZJYNJcPgZYMJ3RTlXKq6zsWf8axFdKTH69s7uRD4DbvnQ43fFC2j8giLevCblrm4cXdD96Ho4HZB8o7YyF_PveTXqsi6-aH_qJ4FXEc1F1lvV2vMX47hDrPE_QxP9eBGAs0OujGwAYopsFwYcrRrpV_Ntukq-to.Pb9cVyuDGO8yhPhJQM2Sz-0eNq6Us6_v1oSk8T55YwY&amp;dib_tag=se&amp;keywords=sff-8643&amp;qid=1724039014&amp;sprefix=%2Caps%2C162&amp;sr=8-3&amp;th=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/YIWENTEC-Internal-SFF-8643-Target-Drive-8643-SATA-1M/dp/B07QM3BRHV/ref=sr_1_3?crid=2XJUINEL0M0UC&amp;dib=eyJ2IjoiMSJ9.5AGz9603ZUpg5PTYgvzpJmUt58z5PMsINXZKOMaELBdfFE3mpAbINacI_Oi2SegTvp4lzyaR3AAZZJYNJcPgZYMJ3RTlXKq6zsWf8axFdKTH69s7uRD4DbvnQ43fFC2j8giLevCblrm4cXdD96Ho4HZB8o7YyF_PveTXqsi6-aH_qJ4FXEc1F1lvV2vMX47hDrPE_QxP9eBGAs0OujGwAYopsFwYcrRrpV_Ntukq-to.Pb9cVyuDGO8yhPhJQM2Sz-0eNq6Us6_v1oSk8T55YwY&amp;dib_tag=se&amp;keywords=sff-8643&amp;qid=1724039014&amp;sprefix=%2Caps%2C162&amp;sr=8-3&amp;th=1" target="_blank">YIWENTEC Internal HD Mini SAS (SFF-8643 Host) to 4X SATA (Target) Hard Drive Cable (100CM) (8643 SATA 1M): Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td></td>
+<td>£12.90</td>
+<td>€15.13</td>
+</tr>
+<tr>
+<td>Memory 16gb</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Kingston-Server-Premier-4800MT-SODIMM/dp/B0C7W3RYXZ/ref=sr_1_12?crid=29HQK52UPJRCJ&amp;dib=eyJ2IjoiMSJ9.FGzZAp8E5u6fBSfQnxwW8ERAlGSWDzFXTPjdxpJlbCiUD31fDAVbzEStfSS-yli5FMg7SfsFFhZOCr4Syr1BLr5q8jW_N--gRjXgMNJ1uW37_JLGJ3UEe3iFurUeNSob5h4P4raS2HIFOGCnbawAjCgPnzVivzLPCa-z5lGbx0hYpq0yxx1nxkhUTDbVEQWc9axSFv85r8Dx1XeXq2RHyPAvcXSbrTA4dOjIzH8Lj_s.UyjxPlB_Hn58rV_Up38arQsjRF_mrQQORxi8SmdM6hc&amp;dib_tag=se&amp;keywords=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram&amp;qid=1724040188&amp;sprefix=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram%2Caps%2C117&amp;sr=8-12&amp;th=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Kingston-Server-Premier-4800MT-SODIMM/dp/B0C7W3RYXZ/ref=sr_1_12?crid=29HQK52UPJRCJ&amp;dib=eyJ2IjoiMSJ9.FGzZAp8E5u6fBSfQnxwW8ERAlGSWDzFXTPjdxpJlbCiUD31fDAVbzEStfSS-yli5FMg7SfsFFhZOCr4Syr1BLr5q8jW_N--gRjXgMNJ1uW37_JLGJ3UEe3iFurUeNSob5h4P4raS2HIFOGCnbawAjCgPnzVivzLPCa-z5lGbx0hYpq0yxx1nxkhUTDbVEQWc9axSFv85r8Dx1XeXq2RHyPAvcXSbrTA4dOjIzH8Lj_s.UyjxPlB_Hn58rV_Up38arQsjRF_mrQQORxi8SmdM6hc&amp;dib_tag=se&amp;keywords=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram&amp;qid=1724040188&amp;sprefix=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram%2Caps%2C117&amp;sr=8-12&amp;th=1" target="_blank">Kingston Server Premier 16GB 4800MT/s DDR5 ECC CL40 SODIMM 1Rx8 Hynix A Server Memory - KSM48T40BS8KI-16HA : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td></td>
+<td>£80.23</td>
+<td>€94.12</td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><code>Total:</code> <strong>€794.22</strong></p>
+<h2 data-heading="Optional" dir="auto">Optional</h2>
+<hr>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Link</th>
+<th>Notes</th>
+<th>Price (original)</th>
+<th>Price (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Case Fan</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Noctua-NF-A8-PWM-Premium-Quiet/dp/B00NEMG62M/ref=sr_1_1_sspa?adgrpid=1180876404587720&amp;dib=eyJ2IjoiMSJ9.vAwEqrL-CH9TtK8XrrCWFuLPnFpAOI-dunVFRqMpJc_AJhY4eInIlYu7OI_GKjxZaLsuyNdELk3NX3CArycaADQ-R4Tn4Msx9M92yoKD92RBKYiLBAakEkmdj6m6ur3YiETyUjVcr5eE1E9XPLYUy1PqjKgHeBFMZwDc_G2AbzRKBuxxYEB84WHbpivUlRH7QwSOEBuhUM909saa4sPzMim1vEG1C5SHf2r4xJ2auSA.XkmmTLgdI9So-2xmmc6ZuZMPM36SPu8nosZ4TF6eviE&amp;dib_tag=se&amp;hvadid=73804992935245&amp;hvbmt=be&amp;hvdev=c&amp;hvlocphy=142381&amp;hvnetw=o&amp;hvqmt=e&amp;hvtargid=kwd-73804929832494%3Aloc-92&amp;hydadcr=26417_2699890&amp;keywords=noctua+80mm+pwm+fan&amp;msclkid=5b5cddd1b7e311a6ebcebb1378db603e&amp;qid=1724043072&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Noctua-NF-A8-PWM-Premium-Quiet/dp/B00NEMG62M/ref=sr_1_1_sspa?adgrpid=1180876404587720&amp;dib=eyJ2IjoiMSJ9.vAwEqrL-CH9TtK8XrrCWFuLPnFpAOI-dunVFRqMpJc_AJhY4eInIlYu7OI_GKjxZaLsuyNdELk3NX3CArycaADQ-R4Tn4Msx9M92yoKD92RBKYiLBAakEkmdj6m6ur3YiETyUjVcr5eE1E9XPLYUy1PqjKgHeBFMZwDc_G2AbzRKBuxxYEB84WHbpivUlRH7QwSOEBuhUM909saa4sPzMim1vEG1C5SHf2r4xJ2auSA.XkmmTLgdI9So-2xmmc6ZuZMPM36SPu8nosZ4TF6eviE&amp;dib_tag=se&amp;hvadid=73804992935245&amp;hvbmt=be&amp;hvdev=c&amp;hvlocphy=142381&amp;hvnetw=o&amp;hvqmt=e&amp;hvtargid=kwd-73804929832494%3Aloc-92&amp;hydadcr=26417_2699890&amp;keywords=noctua+80mm+pwm+fan&amp;msclkid=5b5cddd1b7e311a6ebcebb1378db603e&amp;qid=1724043072&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1" target="_blank">Noctua NF-A8 PWM, Premium Quiet Fan, 4-Pin (80mm, Brown) : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td>The fan that comes stock is apparently loud</td>
+<td>€20.40</td>
+<td>€20.40</td>
+</tr>
+<tr>
+<td>CPU Fan</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Noctua-NH-U12S-Performance-Cooler-redux-1700/dp/B08WPDD6GD?ref_=ast_sto_dp&amp;th=1&amp;psc=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Noctua-NH-U12S-Performance-Cooler-redux-1700/dp/B08WPDD6GD?ref_=ast_sto_dp&amp;th=1&amp;psc=1" target="_blank">Noctua NH-U12S redux, High Performance CPU Cooler with NF-P12 redux-1700 PWM 120mm fan (Grey) : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td>If going for this, we'd opt for the motherboard without a fan. Reducing the price a bit</td>
+<td>€60.13</td>
+<td>€60.13</td>
+</tr>
+<tr>
+<td>HDD</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Seagate-IronWolf-Enterprise-Internal-NAS/dp/B0BM4T2L86/ref=sr_1_2?adgrpid=1187474295139438&amp;dib=eyJ2IjoiMSJ9.808O_RNokkzBev0kIK1Zo8XEv5v6r7vT_eXuR81YxYv2oQEwyuMaOTOY7ZvLRF8wydqYOHYscp9_VN1UcmkV4Vj_bULS1R_ocB9i3W9QHb8.NoKlwlW-lAdTvuuJ3G1zz_HeSGgXXT_N7a8t-A5swBc&amp;dib_tag=se&amp;hvadid=74217345305797&amp;hvbmt=be&amp;hvdev=c&amp;hvlocphy=142381&amp;hvnetw=o&amp;hvqmt=e&amp;hvtargid=kwd-74217415930915%3Aloc-92&amp;hydadcr=4392_2132244&amp;keywords=st8000vn002&amp;msclkid=a4cf5794d091154431f3315618a16638&amp;qid=1724041268&amp;sr=8-2" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Seagate-IronWolf-Enterprise-Internal-NAS/dp/B0BM4T2L86/ref=sr_1_2?adgrpid=1187474295139438&amp;dib=eyJ2IjoiMSJ9.808O_RNokkzBev0kIK1Zo8XEv5v6r7vT_eXuR81YxYv2oQEwyuMaOTOY7ZvLRF8wydqYOHYscp9_VN1UcmkV4Vj_bULS1R_ocB9i3W9QHb8.NoKlwlW-lAdTvuuJ3G1zz_HeSGgXXT_N7a8t-A5swBc&amp;dib_tag=se&amp;hvadid=74217345305797&amp;hvbmt=be&amp;hvdev=c&amp;hvlocphy=142381&amp;hvnetw=o&amp;hvqmt=e&amp;hvtargid=kwd-74217415930915%3Aloc-92&amp;hydadcr=4392_2132244&amp;keywords=st8000vn002&amp;msclkid=a4cf5794d091154431f3315618a16638&amp;qid=1724041268&amp;sr=8-2" target="_blank">Seagate IronWolf, 8TB, Enterprise Internal NAS HDD - CMR 3.5 Inch, SATA 6GB/s, 5,400 RPM, 256 MB Cache for RAID NAS, Rescue Services - Frustration Free Packaging (ST8000VNZ02) : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td>This one is flexible <br>(1), (2)</td>
+<td>€190.27</td>
+<td>€190.27</td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><code>Total With Optional:</code> <strong>€1029</strong></p>
+<h2 data-heading="Future Expansions" dir="auto">Future Expansions</h2>
+<hr>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Link</th>
+<th>Notes</th>
+<th>Price (original)</th>
+<th>Price (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RTX 4060 Ti 16GB</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Gigabyte-NVIDIA-GeForce-GAMING-Graphics/dp/B0CBSLHGF9/ref=sr_1_5?crid=2005Y2VM9PVAN&amp;dib=eyJ2IjoiMSJ9.5I9Pr-ggOiilXTDTzfmxCjOUhelr3D9xAWtsMvBE6sltn_oeD-L8LQzwCJNhXif3sOyf9B3t3FvQHcKwMVOxY83VFpio0H-EZ3hPMUJ07aRIArQZ-bwlT3nU3OXDfjsgqfA6K4FeBV0lau4DT8DOibrw1pR6lzEQM4r1EFfHx9PwB5VUpyy6fx8XO6Kg52g_zfS4cRdLsgToxTIGyP1rRobx2vFSPsyuGyaE0w3MLVRSIJOkPZIQ66Xobb5C3V-2k182mVbvGipolQy73NQVWwGyIgmRsSPa8TKTuoQUBc4.Kur2RuSSGS4QNWKmwF7bCSw4fWzyFDg3j-sbiHP4CIg&amp;dib_tag=se&amp;keywords=4060+ti+16gb&amp;qid=1724042591&amp;s=computers&amp;sprefix=4060+ti%2Ccomputers%2C192&amp;sr=1-5" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Gigabyte-NVIDIA-GeForce-GAMING-Graphics/dp/B0CBSLHGF9/ref=sr_1_5?crid=2005Y2VM9PVAN&amp;dib=eyJ2IjoiMSJ9.5I9Pr-ggOiilXTDTzfmxCjOUhelr3D9xAWtsMvBE6sltn_oeD-L8LQzwCJNhXif3sOyf9B3t3FvQHcKwMVOxY83VFpio0H-EZ3hPMUJ07aRIArQZ-bwlT3nU3OXDfjsgqfA6K4FeBV0lau4DT8DOibrw1pR6lzEQM4r1EFfHx9PwB5VUpyy6fx8XO6Kg52g_zfS4cRdLsgToxTIGyP1rRobx2vFSPsyuGyaE0w3MLVRSIJOkPZIQ66Xobb5C3V-2k182mVbvGipolQy73NQVWwGyIgmRsSPa8TKTuoQUBc4.Kur2RuSSGS4QNWKmwF7bCSw4fWzyFDg3j-sbiHP4CIg&amp;dib_tag=se&amp;keywords=4060+ti+16gb&amp;qid=1724042591&amp;s=computers&amp;sprefix=4060+ti%2Ccomputers%2C192&amp;sr=1-5" target="_blank">Gigabyte NVIDIA GeForce RTX 4060 Ti GAMING OC Graphics Card - 16GB GDDR6, 128-bit, PCI-E 4.0, 2595MHz Core Clock, 2x DP 1.4, 2x HDMI 2.1a, NVIDIA DLSS 3 - GV-N406TGAMING OC-16GD : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td></td>
+<td>€544.97</td>
+<td>€544.97</td>
+</tr>
+<tr>
+<td>Memory 16gb</td>
+<td><a data-tooltip-position="top" aria-label="https://www.amazon.co.uk/Kingston-Server-Premier-4800MT-SODIMM/dp/B0C7W3RYXZ/ref=sr_1_12?crid=29HQK52UPJRCJ&amp;dib=eyJ2IjoiMSJ9.FGzZAp8E5u6fBSfQnxwW8ERAlGSWDzFXTPjdxpJlbCiUD31fDAVbzEStfSS-yli5FMg7SfsFFhZOCr4Syr1BLr5q8jW_N--gRjXgMNJ1uW37_JLGJ3UEe3iFurUeNSob5h4P4raS2HIFOGCnbawAjCgPnzVivzLPCa-z5lGbx0hYpq0yxx1nxkhUTDbVEQWc9axSFv85r8Dx1XeXq2RHyPAvcXSbrTA4dOjIzH8Lj_s.UyjxPlB_Hn58rV_Up38arQsjRF_mrQQORxi8SmdM6hc&amp;dib_tag=se&amp;keywords=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram&amp;qid=1724040188&amp;sprefix=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram%2Caps%2C117&amp;sr=8-12&amp;th=1" rel="noopener" class="external-link" href="https://www.amazon.co.uk/Kingston-Server-Premier-4800MT-SODIMM/dp/B0C7W3RYXZ/ref=sr_1_12?crid=29HQK52UPJRCJ&amp;dib=eyJ2IjoiMSJ9.FGzZAp8E5u6fBSfQnxwW8ERAlGSWDzFXTPjdxpJlbCiUD31fDAVbzEStfSS-yli5FMg7SfsFFhZOCr4Syr1BLr5q8jW_N--gRjXgMNJ1uW37_JLGJ3UEe3iFurUeNSob5h4P4raS2HIFOGCnbawAjCgPnzVivzLPCa-z5lGbx0hYpq0yxx1nxkhUTDbVEQWc9axSFv85r8Dx1XeXq2RHyPAvcXSbrTA4dOjIzH8Lj_s.UyjxPlB_Hn58rV_Up38arQsjRF_mrQQORxi8SmdM6hc&amp;dib_tag=se&amp;keywords=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram&amp;qid=1724040188&amp;sprefix=16gb%2Bso-dimm%2Bddr5%2Becc%2Bram%2Caps%2C117&amp;sr=8-12&amp;th=1" target="_blank">Kingston Server Premier 16GB 4800MT/s DDR5 ECC CL40 SODIMM 1Rx8 Hynix A Server Memory - KSM48T40BS8KI-16HA : Amazon.co.uk: Computers &amp; Accessories</a></td>
+<td>This one is flexible (3)</td>
+<td>£80.23</td>
+<td>€94.12</td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><code>Total Future Expansions:</code> <strong>€639</strong></p>
+<h2 data-heading="Notes:" dir="auto">Notes:</h2>
+<hr>
+<ul>
+<li dir="auto">
+<p>(1) The extra HDD is flexible, as the price <em>with</em> optional exceeds the budget- this can be cut- especially if it compromises the future expansions section. Note that at current rate of expansion it will take <code>3~</code> years to exceed our current storage capacity of <code>8tb</code>.</p>
+</li>
+<li dir="auto">
+<p>(2) While the above is true, having that extra drive gives options to expand storage. It also allows for [Raid 1](<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Standard_RAID_levels" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Standard_RAID_levels" target="_blank">Standard RAID levels - Wikipedia</a>), I.E a completely redundant drive- providing a backup in case one drive fails. </p>
+</li>
+<li dir="auto">
+<p>(3) The drive offers two <code>SO-DIMM</code> slots for memory, it's not truly necessary- but extra memory never hurts. </p>
+</li>
+</ul>
+    </body>
+</html>

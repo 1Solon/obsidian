@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/1fb105d70e117177267c98110fc866ff.json","text":"apiVersion: kustomize.config.k8s.io/vibetal kind: Kustomization resources: - namespace. yaml - pod-gateway/install.yaml","libVersion":"0.2.2","langs":"eng"}

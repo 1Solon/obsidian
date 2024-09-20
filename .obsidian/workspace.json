@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "931c003ea3f7864e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Group Project 1 2024-09-20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Group Project 1 2024-09-20.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,54 +149,56 @@
       "templates:Insert template": false
     }
   },
-  "active": "15a1c28a4b3e3fd1",
+  "active": "931c003ea3f7864e",
   "lastOpenFiles": [
-    "College/Research Design/Research Design Lecture 1.md",
     "College/Group Project/Group Project 1 2024-09-20.md",
-    "College/Group Project",
-    "College/Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "conflict-files-obsidian-git.md",
-    "College/Machine Learning/ML Lecture 5.md",
-    "College/Machine Learning/ML Lecture 3.md",
-    "College/Machine Learning/ML Lecture 6B.md",
-    "College/Machine Learning/Decision Tree - Inductive Bias.md",
-    "College/Machine Learning/ML Lecture 4.md",
-    "College/Machine Learning/Euclidian Distance.md",
-    "College/Machine Learning/ML Lecture 1.md",
-    "College/Machine Learning/ML Lecture 2.md",
-    "College/Machine Learning/ML Lecture 6.md",
-    "College/Machine Learning/Manhattan Distance.md",
-    "College/Machine Learning/Information Gain.md",
-    "College/Machine Learning/Minkowski Distance.md",
-    "College/Machine Learning/ML Lecture 7.md",
-    "College/Machine Learning/Curse of Dimensionality.md",
-    "College/Machine Learning/Probability Based Learning.md",
-    "College/Machine Learning/Naïve Bayes.md",
-    "College/Machine Learning/Nearest Neighbour Algorithm (k-NN).md",
-    "College/Machine Learning/Decision Trees.md",
-    "College/Machine Learning/Decision Trees - ID3.md",
-    "College/Machine Learning/Entropy.md",
-    "College/Machine Learning/Similarity Learning.md",
-    "College/Machine Learning/ML Lecture 9.md",
-    "Images/Pasted image 20240215111938.png",
-    "Images/Pasted image 20240215111839.png",
-    "Images/Pasted image 20240215111833.png",
-    "Images/Pasted image 20240208124252.png",
-    "Images/Pasted image 20240208124230.png",
-    "Images/Pasted image 20240208124209.png",
-    "Images/Pasted image 20240208124144.png",
-    "Images/Pasted image 20240208124123.png",
-    "Images/Pasted image 20240208124107.png",
-    "Images/Pasted image 20240208124051.png",
-    "Personal",
-    "College/Machine Learning",
-    "College/Research Design",
-    "College/Secure Systems Development",
-    "College/Systems Architectures",
-    "Games/Tarkov",
-    "Games/SS14",
-    "Games",
-    "College/Web Development Lectures",
+    "Images/Pasted image 20240916003752.png",
+    "Images/Pasted image 20240912155057.png",
+    "Images/Pasted image 20240911054110.png",
+    "Images/Pasted image 20240911052001.png",
+    "Images/Pasted image 20240909223426.png",
+    "Images/Pasted image 20240909181143.png",
+    "Images/Pasted image 20240908001841.png",
+    "General/Projects/NAS Build.canvas",
+    "General/Projects/NAS & GPU-Compute Box.md",
+    "General/Kubernetes/Kubernetes Notes.md",
+    "General/Kubernetes/Kustomize_explanation.canvas",
+    "General/Useful commands.md",
+    "General/Projects",
+    "General/Notifarrr.md",
+    "General/NAS & GPU-Compute Box.html",
+    "General/Kubernetes",
+    "General/Hosting my obsidian online (project).md",
+    "General/Future project idea.md",
+    "General/Creating a CIFS backup.md",
+    "General",
+    "Images/Pasted image 20240907231642.png",
+    "Images/Pasted image 20240831164759.png",
+    "Games/Tabletop/Lancer/What to do each turn.md",
+    "Games/Tabletop/Lancer/Overwatch.md",
+    "Games/Tabletop/Lancer/Lancer.md",
+    "Games/Tabletop/Lancer/Action with Trigger.md",
+    "Games/Tabletop/Lancer",
+    "Games/Tabletop",
+    "Images/Pasted image 20240830050535.png",
+    "Games/Video/Helldiverrs/Builds/Heavy Gunner.md",
+    "Games/Video/Helldiverrs/Builds/Defender.md",
+    "Games/Video/Elden Ring/Spellblade.md",
+    "Games/Video/Tarkov/Tarkov Root.md",
+    "Games/Video/Tarkov/Reserve.md",
+    "Games/Video/Tarkov/Maps.md",
+    "Games/Video/Tarkov/Interchange.md",
+    "Games/Video/Tarkov/Customs.md",
+    "Games/Video/Tarkov/Earpieces.md",
+    "Games/Video/Tarkov/Ammo.md",
+    "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
+    "Games/Video/Stellaris/Machine Notes.md",
+    "Games/Video/SS14/SS14 Root.md",
+    "Games/Video/Helldiverrs/Builds",
+    "Games/Video/Elden Ring",
+    "Games/Video/Tarkov",
+    "Games/Video/Stellaris",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
