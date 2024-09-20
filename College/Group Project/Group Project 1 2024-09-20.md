@@ -7,4 +7,6 @@
 * 15% for final presentation and software demo
 * 50% for final report
 * 5 minutes video submitted every week, vlog of what is done each time
+* 1 minute per person is a HARD requirement
+* Presentation per person each week is ADDITIONAL to the vlog
 * 
