@@ -11,4 +11,5 @@
 * Presentation per person each week is ADDITIONAL to the vlog
 * Project proposal Thursday the 26th @ 10AM
 * Group video is Wednesday @ 6pm
+* LASERS: Legal, Accessible, Sustainable, Ethical, Reliable, Secure
 * 
