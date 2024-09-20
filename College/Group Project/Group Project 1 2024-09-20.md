@@ -20,4 +20,5 @@
 * Each person should have a contribution to the repo
 * No need to access group chats, just project management software
 * Do not care for merge style
+* Check announcements for work to do for next week
 * 
