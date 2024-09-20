@@ -15,4 +15,7 @@
 * Modelling the datasets is more important then the dataset itself
 * Make sure to keep track of disabilities and try to maintain accessibility
 * Stories, Not Starters, In Progress, Done
+* Monorepo mandated
+* By Wednesday @ 1, must be able to link to the team github repo and project management software that they can access
+* Each person should have a contribution to the repo
 * 
