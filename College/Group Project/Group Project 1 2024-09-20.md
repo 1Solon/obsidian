@@ -9,4 +9,6 @@
 * 5 minutes video submitted every week, vlog of what is done each time
 * 1 minute per person is a HARD requirement
 * Presentation per person each week is ADDITIONAL to the vlog
+* Project proposal Thursday the 26th @ 10AM
+* Group video is Wednesday @ 6pm
 * 
