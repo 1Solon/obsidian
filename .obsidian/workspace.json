@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Research Design/Research Design Lecture 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +138,10 @@
   },
   "active": "15a1c28a4b3e3fd1",
   "lastOpenFiles": [
-    "College/Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "College/Research Design/Research Design Lecture 1.md",
+    "College/Group Project/Group Project 1 2024-09-20.md",
+    "College/Group Project",
+    "College/Scientific Research & Literature/Scientific Research & Literature Lecture 1.md",
     "conflict-files-obsidian-git.md",
     "College/Machine Learning/ML Lecture 5.md",
     "College/Machine Learning/ML Lecture 3.md",
@@ -163,7 +165,6 @@
     "College/Machine Learning/Entropy.md",
     "College/Machine Learning/Similarity Learning.md",
     "College/Machine Learning/ML Lecture 9.md",
-    "College/Machine Learning/ML Lecture 8.md",
     "Images/Pasted image 20240215111938.png",
     "Images/Pasted image 20240215111839.png",
     "Images/Pasted image 20240215111833.png",
@@ -183,7 +184,6 @@
     "Games/SS14",
     "Games",
     "College/Web Development Lectures",
-    "College/Software Design",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
