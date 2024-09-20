@@ -11,14 +11,11 @@
             "id": "04b923c433f36d6f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
-                "viewState": {
-                  "x": 654.1904966675011,
-                  "y": 637.3381880995382,
-                  "zoom": -1.8054753685773857
-                }
+                "file": "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Projects/NAS Build.canvas",
+                "file": "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +138,13 @@
   },
   "active": "04b923c433f36d6f",
   "lastOpenFiles": [
+    "Games/Video/Stellaris/Machine Notes.md",
+    "General/Kubernetes/Kubernetes Notes.md",
+    "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Video/Nuclear.md",
     "Images/Pasted image 20240916003752.png",
     "Games/Video/Nebulous/Fighter Doctrine.md",
-    "General/Projects/NAS Build.canvas",
-    "General/Kubernetes/Kubernetes Notes.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
     "Images/Pasted image 20240912155057.png",
     "Images/Pasted image 20240911054110.png",
