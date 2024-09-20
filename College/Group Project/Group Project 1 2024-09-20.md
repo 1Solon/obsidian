@@ -19,4 +19,5 @@
 * By Wednesday @ 1, must be able to link to the team github repo and project management software that they can access
 * Each person should have a contribution to the repo
 * No need to access group chats, just project management software
+* Do not care for merge style
 * 
