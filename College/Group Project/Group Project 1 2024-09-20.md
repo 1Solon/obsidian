@@ -14,4 +14,5 @@
 * LASERS: Legal, Accessible, Sustainable, Ethical, Reliable, Secure
 * Modelling the datasets is more important then the dataset itself
 * Make sure to keep track of disabilities and try to maintain accessibility
+* Stories, Not Starters, In Progress, Done
 * 
