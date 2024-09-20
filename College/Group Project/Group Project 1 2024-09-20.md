@@ -12,4 +12,6 @@
 * Project proposal Thursday the 26th @ 10AM
 * Group video is Wednesday @ 6pm
 * LASERS: Legal, Accessible, Sustainable, Ethical, Reliable, Secure
+* Modelling the datasets is more important then the dataset itself
+* Make sure to keep track of disabilities and try to maintain accessibility
 * 
