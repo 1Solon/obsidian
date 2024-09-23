@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36e1bd9657daf11e",
+        "id": "58f86ea4005d2f96",
         "type": "tabs",
         "children": [
           {
-            "id": "04b923c433f36d6f",
+            "id": "38c5f44102e6dc4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef350c25434b5a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +149,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "04b923c433f36d6f",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
+    "College/Group Project/Untitled.canvas",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Video/Stellaris/Machine Notes.md",
+    "Games/Video/Nebulous/Fighter Doctrine.md",
+    "College/Group Project/Group Project 1 2024-09-20.md",
+    "College/Group Project/Group Project 1 2024-09-20 1.md",
+    "College/Group Project",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
     "Games/Video/Nuclear.md",
     "Images/Pasted image 20240916003752.png",
-    "Games/Video/Nebulous/Fighter Doctrine.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
     "Images/Pasted image 20240912155057.png",
     "Images/Pasted image 20240911054110.png",
@@ -169,24 +189,17 @@
     "Games/Tabletop/Lancer/Action with Trigger.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
     "Games/Tabletop/Lancer/Overwatch.md",
-    "General/Useful commands.md",
-    "General/Notifarrr.md",
     "General/Kubernetes/Untitled.canvas",
     "Images/Pasted image 20240831164759.png",
     "Images/Pasted image 20240830050535.png",
-    "Games/Video/Sins of a Solar Empire 2/Advent.md",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
     "Games/Video",
-    "College/Scientific Research & Literature/Group Project Notes.md",
-    "General/Kubernetes/Untitled.md",
     "General/Kubernetes",
-    "Games/Sins of a Solar Empire 2/Untitled.md",
     "General/Projects",
     "Games/Video/Sins of a Solar Empire 2",
     "General/NAS & GPU-Compute Box.html",
     "Games/Video/Helldiverrs/Builds",
-    "Games/Video/Helldiverrs",
     "Untitled 1.canvas"
   ]
 }
