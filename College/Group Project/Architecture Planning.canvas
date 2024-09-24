@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"f2116e5941fb4d0b","x":-340,"y":-400,"width":120,"height":83,"type":"text","text":"Point: \nDetails:\n"}
+		{"id":"f2116e5941fb4d0b","x":-900,"y":-480,"width":200,"height":140,"type":"text","text":"### Coordinates:\nPoint: \nDetails:\n"},
+		{"id":"8b2c1943bb4d4d27","x":-560,"y":-420,"width":320,"height":220,"type":"text","text":"## ExtendedUserDetails\nRegisterDate:\nFirstname:\nLastname:\nProfilePicture:\nLastLoggedIn:\n"},
+		{"id":"8da75dd0511784fc","x":-60,"y":-405,"width":250,"height":190,"type":"text","text":"## Logins\nUsername:\nEmail:\nPasswordHash:\nExtendedUserInfo:"},
+		{"id":"539d2d2af9394a5f","x":-80,"y":40,"width":250,"height":168,"type":"text","text":"## Admin\na\nb\nc"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"aa34a6c1a1a0a9f9","fromNode":"8da75dd0511784fc","fromSide":"left","toNode":"8b2c1943bb4d4d27","toSide":"right"},
+		{"id":"a2035b575541f464","fromNode":"539d2d2af9394a5f","fromSide":"top","toNode":"8da75dd0511784fc","toSide":"bottom"}
+	]
 }
