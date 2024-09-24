@@ -11,14 +11,11 @@
             "id": "a8b86928e386f086",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
-                "viewState": {
-                  "x": 344,
-                  "y": 464,
-                  "zoom": -0.5146728374383358
-                }
+                "file": "Games/Video/Stellaris/Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "Games/Video/Stellaris/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "Games/Video/Stellaris/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
