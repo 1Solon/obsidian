@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"f2116e5941fb4d0b","x":-680,"y":-240,"width":320,"height":200,"type":"text","text":"Type: Car\nPoint: 0, 0\nDetails:\n"},
-		{"id":"806e61e324351e90","x":100,"y":-551,"width":250,"height":411,"type":"text","text":"Car Details\n---\n"}
+		{"id":"f2116e5941fb4d0b","x":-380,"y":-420,"width":120,"height":80,"type":"text","text":"Point: \nDetails:\n"},
+		{"id":"722e6bbb12987255","x":-100,"y":-457,"width":167,"height":155,"type":"text","text":"### Polygon\nType:\nName:\nPoints[]:"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9b286e0186537881","fromNode":"f2116e5941fb4d0b","fromSide":"right","toNode":"722e6bbb12987255","toSide":"left"}
+	]
 }
