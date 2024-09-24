@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58f86ea4005d2f96",
+        "id": "11a03aee888a96e0",
         "type": "tabs",
         "children": [
           {
-            "id": "38c5f44102e6dc4c",
+            "id": "a8b86928e386f086",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Group Project/Architecture Planning.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,12 +139,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "38c5f44102e6dc4c",
+  "active": "a8b86928e386f086",
   "lastOpenFiles": [
-    "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
+    "College/Group Project/Architecture Planning.canvas",
     "Games/Video/Stellaris/Notes.md",
+    "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "conflict-files-obsidian-git.md",
-    "College/Group Project/Untitled.canvas",
     "Untitled.md",
     "Games/Video/Stellaris/Machine Notes.md",
     "Games/Video/Nebulous/Fighter Doctrine.md",
@@ -176,7 +179,6 @@
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
-    "Games/Tabletop/Lancer/Overwatch.md",
     "General/Kubernetes/Untitled.canvas",
     "Images/Pasted image 20240831164759.png",
     "Images/Pasted image 20240830050535.png",
