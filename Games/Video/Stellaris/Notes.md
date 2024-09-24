@@ -3,4 +3,4 @@
 3: fortress
 3: refinery
 3: good
-2: alloy
+3: alloy
