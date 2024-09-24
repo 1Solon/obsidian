@@ -1,9 +1,7 @@
 {
 	"nodes":[
-		{"id":"f2116e5941fb4d0b","x":-380,"y":-420,"width":120,"height":80,"type":"text","text":"Point: \nDetails:\n"},
-		{"id":"722e6bbb12987255","x":-100,"y":-457,"width":167,"height":155,"type":"text","text":"### Polygon\nType:\nName:\nPoints[]:"}
+		{"id":"722e6bbb12987255","x":-80,"y":-417,"width":167,"height":155,"type":"text","text":"### Polygon\nType:\nName:\nPoints[]:"},
+		{"id":"f2116e5941fb4d0b","x":-600,"y":-457,"width":120,"height":80,"type":"text","text":"Point: \nDetails:\n"}
 	],
-	"edges":[
-		{"id":"9b286e0186537881","fromNode":"f2116e5941fb4d0b","fromSide":"right","toNode":"722e6bbb12987255","toSide":"left"}
-	]
+	"edges":[]
 }
