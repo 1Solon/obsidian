@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"8b2c1943bb4d4d27","x":-560,"y":-420,"width":320,"height":220,"type":"text","text":"## ExtendedUserDetails\nRegisterDate:\nFirstname:\nLastname:\nProfilePicture:\nLastLoggedIn:\n"},
-		{"id":"8da75dd0511784fc","x":-60,"y":-405,"width":250,"height":190,"type":"text","text":"## Logins\nUsername:\nEmail:\nPasswordHash:\nExtendedUserInfo:"},
-		{"id":"f2116e5941fb4d0b","x":-880,"y":-380,"width":200,"height":140,"type":"text","text":"### Coordinates:\nPoint: \nDetails:\n"},
-		{"id":"b2bf9504a5a4082c","x":-740,"y":140,"width":340,"height":180,"type":"text","text":"/v1/public/points\n\n-> getByPoint(long, lat)\n-> getByRadius(Point, Distance)"}
+		{"id":"b2bf9504a5a4082c","x":-980,"y":100,"width":340,"height":80,"type":"text","text":"/v1/public/points\n"},
+		{"id":"6977997fb06d1fb4","x":-360,"y":70,"width":340,"height":140,"type":"text","text":"-> getByRadius(Point, Distance)\n\nReturns array of points in a square-distance from the input point"},
+		{"id":"4b1ce32a39a05ad7","x":-360,"y":240,"width":242,"height":140,"type":"text","text":"-> getByPoint(long, lat)\n\nReturns details when a point is provided"},
+		{"id":"8b2c1943bb4d4d27","x":260,"y":-420,"width":320,"height":220,"type":"text","text":"## ExtendedUserDetails\nRegisterDate:\nFirstname:\nLastname:\nProfilePicture:\nLastLoggedIn:\n"},
+		{"id":"8da75dd0511784fc","x":760,"y":-405,"width":250,"height":190,"type":"text","text":"## Logins\nUsername:\nEmail:\nPasswordHash:\nExtendedUserInfo:"},
+		{"id":"f2116e5941fb4d0b","x":-258,"y":-355,"width":140,"height":140,"type":"text","text":"### Points:\nPoint: \nDetails:\n"}
 	],
 	"edges":[
-		{"id":"aa34a6c1a1a0a9f9","fromNode":"8da75dd0511784fc","fromSide":"left","toNode":"8b2c1943bb4d4d27","toSide":"right"}
+		{"id":"aa34a6c1a1a0a9f9","fromNode":"8da75dd0511784fc","fromSide":"left","toNode":"8b2c1943bb4d4d27","toSide":"right"},
+		{"id":"adfecfa92b557193","fromNode":"6977997fb06d1fb4","fromSide":"top","toNode":"f2116e5941fb4d0b","toSide":"bottom"},
+		{"id":"88e8cc4e6b40b87d","fromNode":"b2bf9504a5a4082c","fromSide":"right","toNode":"6977997fb06d1fb4","toSide":"left"},
+		{"id":"32ffd65fd7ff0985","fromNode":"b2bf9504a5a4082c","fromSide":"right","toNode":"4b1ce32a39a05ad7","toSide":"left"}
 	]
 }
