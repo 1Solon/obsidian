@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f2116e5941fb4d0b","x":-566,"y":-327,"width":426,"height":427,"type":"text","text":"Type\n"}
+		{"id":"f2116e5941fb4d0b","x":-566,"y":-327,"width":426,"height":427,"type":"text","text":"Type\nPoint\n"}
 	],
 	"edges":[]
 }
