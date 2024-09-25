@@ -11,14 +11,11 @@
             "id": "a8b86928e386f086",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
-                "viewState": {
-                  "x": -632.4426800819557,
-                  "y": 508.2989232304085,
-                  "zoom": -0.6359610083065406
-                }
+                "file": "Games/Video/Stellaris/Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "Games/Video/Stellaris/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "Games/Video/Stellaris/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +138,12 @@
   },
   "active": "a8b86928e386f086",
   "lastOpenFiles": [
+    "College/Group Project/Architecture Planning.canvas",
     "Images/Pasted image 20240925142904.png",
     "Images/Pasted image 20240925142749.png",
     "Images/Pasted image 20240925142551.png",
     "Images/Pasted image 20240925142520.png",
     "Games/Video/Stellaris/Notes.md",
-    "College/Group Project/Architecture Planning.canvas",
     "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -167,7 +164,6 @@
     "Images/Pasted image 20240909223426.png",
     "Images/Pasted image 20240909181143.png",
     "Games/Video/Nebulous/General.md",
-    "Images/Pasted image 20240908001841.png",
     "College/Definitions/Common Commands.md",
     "Games/Video/Nebulous",
     "College/Definitions/rm.md",
