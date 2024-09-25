@@ -15,8 +15,8 @@
               "state": {
                 "file": "College/Group Project/Architecture Planning.canvas",
                 "viewState": {
-                  "x": -167.20052229105772,
-                  "y": 813.9789966260444,
+                  "x": 19.92069821807621,
+                  "y": 570.9316044229043,
                   "zoom": -1.1813395041050028
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240925142551.png",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240925142551.png",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +141,8 @@
   },
   "active": "a8b86928e386f086",
   "lastOpenFiles": [
+    "Images/Pasted image 20240925142904.png",
+    "Images/Pasted image 20240925142749.png",
     "Images/Pasted image 20240925142551.png",
     "Images/Pasted image 20240925142520.png",
     "Games/Video/Stellaris/Notes.md",
@@ -166,7 +168,6 @@
     "Images/Pasted image 20240909181143.png",
     "Games/Video/Nebulous/General.md",
     "Images/Pasted image 20240908001841.png",
-    "Images/Pasted image 20240907231642.png",
     "College/Definitions/Common Commands.md",
     "Games/Video/Nebulous",
     "College/Definitions/rm.md",
@@ -182,7 +183,6 @@
     "Games/Tabletop/Lancer/Action with Trigger.md",
     "Games/Tabletop/Lancer/What to do each turn.md",
     "General/Kubernetes/Untitled.canvas",
-    "Images/Pasted image 20240831164759.png",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
     "Games/Video",
