@@ -11,11 +11,14 @@
             "id": "a8b86928e386f086",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Group Project/Architecture Planning.canvas",
+                "viewState": {
+                  "x": -450.6845788947046,
+                  "y": 739.1392056826819,
+                  "zoom": -1.1813395041050028
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Video/Stellaris/Notes.md",
+                "file": "College/Group Project/Architecture Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +141,8 @@
   },
   "active": "a8b86928e386f086",
   "lastOpenFiles": [
-    "College/Group Project/Architecture Planning.canvas",
     "Games/Video/Stellaris/Notes.md",
+    "College/Group Project/Architecture Planning.canvas",
     "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
