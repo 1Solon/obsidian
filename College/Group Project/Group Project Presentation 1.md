@@ -1,6 +1,6 @@
-* Anais (use cases)
-* Design and build (Jessica)
 * Problem Description (Saul)
+* Anais (use cases)
 * Steven (different approaches)
+* Andreas (CNN, GIS)
 * Kaustubh (Web Based Applications)
-* Andreas
+* Design and build (Jessica)

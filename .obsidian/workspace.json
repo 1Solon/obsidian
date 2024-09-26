@@ -11,14 +11,11 @@
             "id": "a8b86928e386f086",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
-                "viewState": {
-                  "x": -400.6082241021397,
-                  "y": 555.1053881731742,
-                  "zoom": -1.4945536483739397
-                }
+                "file": "College/Group Project/Group Project Presentation 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "College/Group Project/Group Project Presentation 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Architecture Planning.canvas",
+                "file": "College/Group Project/Group Project Presentation 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +137,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "a8b86928e386f086",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
     "College/Group Project/Group Project 1 2024-09-20.md",
+    "College/Group Project/Architecture Planning.canvas",
     "College/Group Project/Group Project Presentation 1.md",
     "Games/Video/Stellaris/Notes.md",
-    "College/Group Project/Architecture Planning.canvas",
     "Images/Pasted image 20240925142904.png",
     "Images/Pasted image 20240925142749.png",
     "Images/Pasted image 20240925142551.png",
@@ -181,7 +179,6 @@
     "College/Databases 2/Databases 2 Lecture 2.md",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
-    "Games/Tabletop/Lancer/What to do each turn.md",
     "General/Kubernetes/Untitled.canvas",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
