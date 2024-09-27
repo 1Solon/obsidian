@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35e5bb3ac76388a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Group Project 2 2024-09-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Group Project 2 2024-09-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,10 +161,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "8df82195a045bbaf",
+  "active": "35e5bb3ac76388a3",
   "lastOpenFiles": [
     "College/Group Project/Group Project 2 2024-09-27.md",
     "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20240925142904.png",
+    "Images/Pasted image 20240925142749.png",
+    "Images/Pasted image 20240925142551.png",
+    "Images/Pasted image 20240925142520.png",
+    "Games/Video/Stellaris/Notes.md",
+    "College/Group Project/Group Project Presentation 1.md",
+    "College/Group Project/Architecture Planning.canvas",
     "College/Group Project/Group Project 1 2024-09-20.md",
     "Images/Pasted image 20240916003752.png",
     "Images/Pasted image 20240912155057.png",
@@ -160,7 +179,6 @@
     "Images/Pasted image 20240911052001.png",
     "Images/Pasted image 20240909223426.png",
     "Images/Pasted image 20240909181143.png",
-    "Images/Pasted image 20240908001841.png",
     "General/Projects/NAS Build.canvas",
     "General/Projects/NAS & GPU-Compute Box.md",
     "General/Kubernetes/Kubernetes Notes.md",
@@ -174,15 +192,12 @@
     "General/Future project idea.md",
     "General/Creating a CIFS backup.md",
     "General",
-    "Images/Pasted image 20240907231642.png",
-    "Images/Pasted image 20240831164759.png",
     "Games/Tabletop/Lancer/What to do each turn.md",
     "Games/Tabletop/Lancer/Overwatch.md",
     "Games/Tabletop/Lancer/Lancer.md",
     "Games/Tabletop/Lancer/Action with Trigger.md",
     "Games/Tabletop/Lancer",
     "Games/Tabletop",
-    "Images/Pasted image 20240830050535.png",
     "Games/Video/Helldiverrs/Builds/Heavy Gunner.md",
     "Games/Video/Helldiverrs/Builds/Defender.md",
     "Games/Video/Elden Ring/Spellblade.md",
@@ -192,9 +207,6 @@
     "Games/Video/Tarkov/Interchange.md",
     "Games/Video/Tarkov/Customs.md",
     "Games/Video/Tarkov/Earpieces.md",
-    "Games/Video/Tarkov/Ammo.md",
-    "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
-    "Games/Video/Stellaris/Machine Notes.md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Elden Ring",
     "Games/Video/Tarkov",
