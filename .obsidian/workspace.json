@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8df82195a045bbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Group Project/Group Project 2 2024-09-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Group Project 1 2024-09-20.md",
+                "file": "College/Group Project/Group Project 2 2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Group Project 1 2024-09-20.md",
+                "file": "College/Group Project/Group Project 2 2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +149,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "15a1c28a4b3e3fd1",
+  "active": "8df82195a045bbaf",
   "lastOpenFiles": [
+    "College/Group Project/Group Project 2 2024-09-27.md",
     "conflict-files-obsidian-git.md",
     "College/Group Project/Group Project 1 2024-09-20.md",
     "Images/Pasted image 20240916003752.png",
@@ -181,7 +195,6 @@
     "Games/Video/Tarkov/Ammo.md",
     "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Video/Stellaris/Machine Notes.md",
-    "Games/Video/SS14/SS14 Root.md",
     "Games/Video/Helldiverrs/Builds",
     "Games/Video/Elden Ring",
     "Games/Video/Tarkov",
