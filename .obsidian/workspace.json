@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Group Project/Group Project Presentation 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8778653c01c5db1e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Group Project Presentation 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Group Project Presentation 1.md",
+                "file": "College/Group Project/Group Project 1 2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +136,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "a8b86928e386f086",
   "lastOpenFiles": [
+    "College/Group Project/Group Project Presentation 1.md",
     "College/Group Project/Group Project 1 2024-09-20.md",
     "College/Group Project/Architecture Planning.canvas",
-    "College/Group Project/Group Project Presentation 1.md",
     "Games/Video/Stellaris/Notes.md",
     "Images/Pasted image 20240925142904.png",
     "Images/Pasted image 20240925142749.png",
