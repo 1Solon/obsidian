@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15a1c28a4b3e3fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Group Project/Group Project 1 2024-09-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8df82195a045bbaf",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
