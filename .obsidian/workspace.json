@@ -16,10 +16,25 @@
                 "file": "College/Group Project/Group Project 4 2024-10-11.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Group Project 4 2024-10-11"
+            }
+          },
+          {
+            "id": "991b84d7da2d5eb4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -47,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -62,7 +81,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Group Project/Group Project 4 2024-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Group Project/Group Project 4 2024-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -113,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -136,7 +161,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "8df82195a045bbaf",
+  "active": "991b84d7da2d5eb4",
   "lastOpenFiles": [
     "College/Group Project/Group Project 3 2024-10-04.md",
     "College/Group Project/Group Project 4 2024-10-11.md",
