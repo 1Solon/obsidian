@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"8cea125bde514bba","x":-451,"y":8,"width":250,"height":60,"type":"text","text":"ML Container"},
+		{"id":"596c7794e7874288","x":-120,"y":13,"width":250,"height":50,"type":"text","text":"A set of points"},
+		{"id":"059d0bf93a73ba3c","x":-120,"y":220,"width":250,"height":60,"type":"text","text":"Set of points not in a road"},
+		{"id":"ff9a56a300702859","x":235,"y":-320,"width":250,"height":60,"color":"1","type":"text","text":"Car"},
+		{"id":"13033ae5ddf17dbb","type":"text","text":"Car","x":235,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"ea81dc2022862739","type":"text","text":"Car","x":235,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"eb92187dce288f3b","x":720,"y":220,"width":250,"height":60,"type":"text","text":"Backend API"},
+		{"id":"d7238d411b53bed6","x":720,"y":406,"width":250,"height":60,"type":"text","text":"Database"},
+		{"id":"10a9ef64643c7476","type":"text","text":"Car","x":80,"y":376,"width":250,"height":60,"color":"4"},
+		{"id":"2e42956abf292a96","type":"text","text":"Car","x":80,"y":490,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"5dc4446f7a561870","fromNode":"8cea125bde514bba","fromSide":"right","toNode":"596c7794e7874288","toSide":"left"},
+		{"id":"8f42a5f6b4acd99e","fromNode":"596c7794e7874288","fromSide":"bottom","toNode":"059d0bf93a73ba3c","toSide":"top"},
+		{"id":"fc31d6016bc3ec3e","fromNode":"eb92187dce288f3b","fromSide":"bottom","toNode":"d7238d411b53bed6","toSide":"top"},
+		{"id":"011b7d660b1fad54","fromNode":"059d0bf93a73ba3c","fromSide":"right","toNode":"eb92187dce288f3b","toSide":"left"},
+		{"id":"5fd87ec0c7b2d64c","fromNode":"596c7794e7874288","fromSide":"top","toNode":"ea81dc2022862739","toSide":"left"},
+		{"id":"f14216a122edb220","fromNode":"596c7794e7874288","fromSide":"top","toNode":"13033ae5ddf17dbb","toSide":"left"},
+		{"id":"592c425a3f39c75c","fromNode":"596c7794e7874288","fromSide":"top","toNode":"ff9a56a300702859","toSide":"left"},
+		{"id":"7cf5ddbe0a72bc79","fromNode":"059d0bf93a73ba3c","fromSide":"bottom","toNode":"10a9ef64643c7476","toSide":"left"},
+		{"id":"4a9498eb59550b05","fromNode":"059d0bf93a73ba3c","fromSide":"bottom","toNode":"2e42956abf292a96","toSide":"left"}
+	]
+}
