@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Postgres.md",
+                "file": "General/K3s Host OS Upgrade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres"
-            }
-          },
-          {
-            "id": "424468aed0abad24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "K3s Host OS Upgrade"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +73,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,9 +150,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "424468aed0abad24",
+  "active": "5020906b058d6b23",
   "lastOpenFiles": [
+    "Images/Pasted image 20241210170520.png",
     "General/Postgres.md",
+    "General/K3s Host OS Upgrade.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20241210164954.png",
     "College/Group Project/Group Project 4 2024-10-11.md",
@@ -204,7 +190,6 @@
     "Games/Video/Nebulous/Fighter Doctrine.md",
     "College/Group Project/Group Project 1 2024-09-20 1.md",
     "College/Group Project",
-    "Games/Video/Nuclear.md",
     "Images/Pasted image 20240916003752.png",
     "Images/Pasted image 20240912155057.png",
     "Images/Pasted image 20240911054110.png",
