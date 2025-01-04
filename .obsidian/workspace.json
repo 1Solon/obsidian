@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed076a58f4688223",
+        "id": "83a6ad8f4041a9bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5020906b058d6b23",
+            "id": "09e1cd18bd6f3467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/K3s Host OS Upgrade.md",
+                "file": "General/Useful commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K3s Host OS Upgrade"
+              "title": "Useful commands"
             }
           }
         ]
@@ -150,11 +150,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "5020906b058d6b23",
+  "active": "09e1cd18bd6f3467",
   "lastOpenFiles": [
+    "General/Kubernetes/Kubernetes Notes.md",
+    "General/K3s Host OS Upgrade.md",
     "Images/Pasted image 20241210170520.png",
     "General/Postgres.md",
-    "General/K3s Host OS Upgrade.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20241210164954.png",
     "College/Group Project/Group Project 4 2024-10-11.md",
@@ -167,7 +168,6 @@
     "General/Hosting my obsidian online (project).md",
     "General/Useful commands.md",
     "General/Kubernetes/Kustomize_explanation.canvas",
-    "General/Kubernetes/Kubernetes Notes.md",
     "Images/Pasted image 20240827033103.png",
     "Images/Pasted image 20240827031924.png",
     "College/Group Project/Architecture Planning.canvas",
@@ -192,7 +192,6 @@
     "College/Group Project",
     "Images/Pasted image 20240916003752.png",
     "Images/Pasted image 20240912155057.png",
-    "Images/Pasted image 20240911054110.png",
     "Games/Video/Nebulous",
     "General/Kubernetes/Untitled.canvas",
     "Games/Tabletop/Lancer",
