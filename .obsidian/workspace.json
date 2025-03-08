@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "file": "General/Useful commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Notes"
+              "title": "Useful commands"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,8 +153,8 @@
   },
   "active": "09e1cd18bd6f3467",
   "lastOpenFiles": [
-    "General/Useful commands.md",
     "General/Kubernetes/Kubernetes Notes.md",
+    "General/Useful commands.md",
     "General/K3s Host OS Upgrade.md",
     "Images/Pasted image 20241210170520.png",
     "General/Postgres.md",
