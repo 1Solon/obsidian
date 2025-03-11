@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Useful commands"
             }
+          },
+          {
+            "id": "c57c7205d755cbc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "09e1cd18bd6f3467",
+  "active": "c57c7205d755cbc7",
   "lastOpenFiles": [
     "General/Kubernetes/Kubernetes Notes.md",
     "General/Useful commands.md",
