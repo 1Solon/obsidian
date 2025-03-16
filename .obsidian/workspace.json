@@ -11,14 +11,10 @@
             "id": "145e8a125272339a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -151,7 +147,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "145e8a125272339a",
+  "active": "02e86af15d6b887b",
   "lastOpenFiles": [
     "Images/Pasted image 20250314024414.png",
     "Images/Pasted image 20250314024314.png",
