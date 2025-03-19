@@ -11,10 +11,14 @@
             "id": "145e8a125272339a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kubernetes Notes"
             }
           }
         ]
@@ -147,28 +151,29 @@
       "templates:Insert template": false
     }
   },
-  "active": "02e86af15d6b887b",
+  "active": "145e8a125272339a",
   "lastOpenFiles": [
+    "General/Kubernetes/Tp2.md",
+    "General/Kubernetes/Kustomize_explanation.canvas",
+    "General/Notifarrr.md",
+    "General/Postgres.md",
+    "General/Useful commands.md",
     "Images/Pasted image 20250314024414.png",
     "Images/Pasted image 20250314024314.png",
     "Images/Pasted image 20250314024308.png",
     "Untitled.md",
-    "General/Useful commands.md",
     "General/Kubernetes/Kubernetes Notes.md",
     "General/K3s Host OS Upgrade.md",
     "Images/Pasted image 20241210170520.png",
-    "General/Postgres.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20241210164954.png",
     "College/Group Project/Group Project 4 2024-10-11.md",
     "College/Group Project/Group Project 3 2024-10-04.md",
-    "General/Kubernetes/Tp2.md",
     "College/Databases 2/Databases 2 Lecture 3.md",
     "College/Databases 2/Databases 2 Lecture 2.md",
     "General/Creating a CIFS backup.md",
     "General/Future project idea.md",
     "General/Hosting my obsidian online (project).md",
-    "General/Kubernetes/Kustomize_explanation.canvas",
     "Images/Pasted image 20240827033103.png",
     "Images/Pasted image 20240827031924.png",
     "College/Group Project/Architecture Planning.canvas",
@@ -177,14 +182,12 @@
     "College/Group Project/Group Project 1 2024-09-20.md",
     "College/Group Project/ML.md",
     "General/Projects/NAS Build.canvas",
-    "General/Notifarrr.md",
     "College/Group Project/Group Project 2 2024-09-27.md",
     "College/Group Project/Group Project Presentation 1.md",
     "Games/Video/Stellaris/Notes.md",
     "Images/Pasted image 20240925142904.png",
     "Images/Pasted image 20240925142749.png",
     "Images/Pasted image 20240925142551.png",
-    "Images/Pasted image 20240925142520.png",
     "Games/Video/Stellaris/Machine Tradition & Ascension Perk Order.md",
     "Games/Video/Stellaris/Machine Notes.md",
     "Games/Video/Nebulous/Fighter Doctrine.md",
