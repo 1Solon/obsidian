@@ -1,5 +1,3 @@
-* https://flood.js.org/
-* https://github.com/VueTorrent/VueTorrent
-* https://github.com/samip5/k8s-cluster
-* https://github.com/conlon/homelab/tree/main/fluxcd/clusters/pi/home/qbit
-* pod-gateway, search the discord for how to set it up
+https://github.com/Druidblack/jellyfin-icon-metadata
+https://github.com/lachlandcp/jellyfin-editors-choice-plugin
+https://github.com/Namo2/InPlayerEpisodePreview
