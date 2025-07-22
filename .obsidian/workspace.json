@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Future project idea.md",
+                "file": "General/Kubernetes/Kubernetes Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future project idea"
+              "title": "Kubernetes Notes"
             }
           }
         ]
@@ -153,6 +153,8 @@
   },
   "active": "145e8a125272339a",
   "lastOpenFiles": [
+    "General/Creating a CIFS backup.md",
+    "General/Future project idea.md",
     "General/Useful commands.md",
     "General/Postgres.md",
     "General/Kubernetes/Kubernetes Notes.md",
@@ -171,8 +173,6 @@
     "College/Group Project/Group Project 3 2024-10-04.md",
     "College/Databases 2/Databases 2 Lecture 3.md",
     "College/Databases 2/Databases 2 Lecture 2.md",
-    "General/Creating a CIFS backup.md",
-    "General/Future project idea.md",
     "General/Hosting my obsidian online (project).md",
     "Images/Pasted image 20240827033103.png",
     "Images/Pasted image 20240827031924.png",
