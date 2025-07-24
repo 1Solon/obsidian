@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Kubernetes/Kubernetes Notes.md",
+                "file": "General/Useful commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Notes"
+              "title": "Useful commands"
             }
           }
         ]
@@ -153,13 +153,13 @@
   },
   "active": "145e8a125272339a",
   "lastOpenFiles": [
+    "General/Kubernetes/Tp2.md",
+    "General/Kubernetes/Kustomize_explanation.canvas",
+    "General/Kubernetes/Kubernetes Notes.md",
     "General/Creating a CIFS backup.md",
     "General/Future project idea.md",
     "General/Useful commands.md",
     "General/Postgres.md",
-    "General/Kubernetes/Kubernetes Notes.md",
-    "General/Kubernetes/Tp2.md",
-    "General/Kubernetes/Kustomize_explanation.canvas",
     "General/Notifarrr.md",
     "Images/Pasted image 20250314024414.png",
     "Images/Pasted image 20250314024314.png",
